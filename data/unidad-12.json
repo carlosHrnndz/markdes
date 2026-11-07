@@ -1,0 +1,126 @@
+{
+  "unidad": 12,
+  "titulo": "Autoevaluación Unidad 12 - La Gestión de la Reputación Online Corporativa",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Qué es la reputación online corporativa?",
+      "opciones": {
+        "a": "Que todo el mundo tenga una buena percepción de tu marca o empresa.",
+        "b": "El reflejo del prestigio o estima de una empresa, marca o persona en Internet.",
+        "c": "Lo mismo que la reputación offline corporativa.",
+        "d": "Una parte de la reputación offline corporativa."
+      },
+      "explicacion": "La **reputación online corporativa** (ORM, *Online Reputation Management*) es el reflejo del prestigio, consideración o estima de una empresa, marca, institución o persona en Internet, construido no solo por lo que la propia organización comunica, sino fundamentalmente por las opiniones, valoraciones y conversaciones que terceros (clientes, medios, empleados, blogueros) vierten en el entorno digital.\n\n**Ejemplo práctico:** La reputación online de una cadena hotelera como **Meliá** no depende únicamente de su web corporativa, sino del conjunto de reseñas en **TripAdvisor** y **Google Maps**, los comentarios en redes sociales y los artículos publicados en blogs de viajes.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Lo primero que debe hacer una empresa para que se reputación online sea lo más positiva posible es:",
+      "opciones": {
+        "a": "Hablar bien de la competencia para que éstos hagan lo mismo.",
+        "b": "Convencer a todos los usuarios que entren en la página web de la empresa para que hagan comentarios positivos.",
+        "c": "Indagar qué se dice sobre la empresa en el mayor buscador del momento, Google.",
+        "d": "Lo mejor es no hacer nada."
+      },
+      "explicacion": "El primer paso fundamental en cualquier auditoría y gestión de la reputación online corporativa consiste en el diagnóstico o escucha activa inicial: investigar qué se está diciendo actualmente sobre la marca en el principal motor de búsqueda del mercado (**Google**), analizando los primeros resultados que ve cualquier usuario al buscar el nombre de la compañía.\n\n**Ejemplo práctico:** Antes de diseñar su plan de comunicación digital, una clínica dental realiza búsquedas en **Google** con su nombre comercial y configura **Google Alerts** para comprobar si en la primera página aparecen reseñas positivas, noticias en prensa o quejas en foros.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Reputación online y credibilidad de marca:",
+      "opciones": {
+        "a": "No tienen ninguna relación.",
+        "b": "Son lo mismo.",
+        "c": "Para cultivar una buena reputación online, se debe conseguir que la marca sea creíble.",
+        "d": "Aunque la marca tenga poca credibilidad, se puede conseguir una buena reputación online."
+      },
+      "explicacion": "Reputación online y credibilidad de marca están estrechamente vinculadas: no es posible construir ni sostener una reputación online positiva si la marca carece de credibilidad. La coherencia entre lo que la empresa promete y lo que realmente cumple (transparencia, honestidad y calidad) es la base de su prestigio en la red.\n\n**Ejemplo práctico:** Si una marca textil presume de sostenibilidad en sus campañas digitales (*greenwashing*) pero los usuarios descubren y difunden en redes sociales que sus fábricas incumplen normativas ambientales, pierde su credibilidad y su reputación online se desploma inmediatamente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Para ganar crédito para una marca en Internet, es necesario generar contenidos que sean:",
+      "opciones": {
+        "a": "Útiles.",
+        "b": "Que duren poco y el usuario deba volver a consultar en un breve espacio de tiempo.",
+        "c": "Con sentido del humor.",
+        "d": "Interesantes para la propia marca."
+      },
+      "explicacion": "Para ganar crédito, autoridad y confianza en Internet, una marca debe aportar valor real a su comunidad generando contenidos **útiles** que resuelvan dudas, eduquen o ayuden al usuario, en lugar de limitarse a mensajes autopromocionales centrados únicamente en los intereses de la propia empresa.\n\n**Ejemplo práctico:** **Leroy Merlin** gana credibilidad y prestigio online publicando tutoriales detallados en vídeo y guías paso a paso sobre cómo instalar suelos laminados o reparar una cisterna, aportando una utilidad práctica directa a los usuarios.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Para evaluar de forma continua el estado de la reputación online corporativa, se tiene en cuenta la difusión, que consiste en:",
+      "opciones": {
+        "a": "Que los interlocutores se interesen por captar datos sobre la empresa o marca.",
+        "b": "Que los interlocutores se interesen por los contenidos hasta el punto de compartirlos con los demás y difundirlos.",
+        "c": "Que los interlocutores no se interesen en la empresa o marca.",
+        "d": "Que los usuarios accedan a dialogar con la marca."
+      },
+      "explicacion": "Dentro del modelo de evaluación continua de la reputación online (Observación, Difusión, Relación, Conversación), la variable **difusión** mide el grado en que los interlocutores consideran tan relevantes los contenidos de la marca que deciden compartirlos, enlazarlos y propagarlos entre sus propias redes y contactos.\n\n**Ejemplo práctico:** Cuando un informe de tendencias tecnológicas publicado por **Telefónica** es compartido miles de veces en LinkedIn y citado mediante enlaces entrantes en decenas de blogs especializados, la compañía registra un alto índice de difusión.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Otra variable para evaluar la reputación online es la relación, fase en la cual los interlocutores deciden seguir y participar de manera constante en la actividad online de la organización. Esta variable se evalúa a través de:",
+      "opciones": {
+        "a": "Enlaces entrantes, con Yahoo Site Explorer.",
+        "b": "Menciones a tus marcas, con Google.",
+        "c": "Afiliaciones. Fans de la página corporativa en Facebook, miembros del foro o wiki de la organización; contactos en LinkedIn; seguidores en Twitter, etc.",
+        "d": "Visitas a determinadas páginas, a través de Google Analytics."
+      },
+      "explicacion": "La variable **relación** evalúa el compromiso continuado (*engagement* estructural) de los usuarios que deciden vincularse formalmente para seguir y participar de forma constante en la actividad online de la empresa, lo cual se cuantifica mediante métricas de **afiliación**: seguidores en redes sociales (Facebook, X/Twitter), contactos en LinkedIn, suscriptores al canal o miembros registrados en la comunidad corporativa.\n\n**Ejemplo práctico:** Para medir el crecimiento de su dimensión de relación durante el último trimestre, una marca de automoción contabiliza la evolución neta de sus seguidores en Instagram, fans en Facebook, suscriptores de su newsletter y miembros de su club oficial de propietarios.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Qué es un community manager ?",
+      "opciones": {
+        "a": "Es la persona encargada de crear, gestionar y dinamizar una comunidad de gente que forman parte de una empresa para que los diferentes departamentos colaboren entre sí.",
+        "b": "Es la persona encargada de crear, gestionar y dinamizar una comunidad de usuarios en Internet con independencia de la plataforma que empleen.",
+        "c": "Es la persona encargada de formar comunidades de empleados dentro de la empresa y crear actividades lúdicas para cada uno de ellos.",
+        "d": "Un directivo que trabaja online, siempre a través de una comunidad virtual."
+      },
+      "explicacion": "El **Community Manager** (gestor de comunidades online) es el profesional responsable de construir, gestionar, moderar y dinamizar la comunidad de usuarios en torno a una marca o institución en Internet, actuando como nexo estratégico entre la organización y sus públicos en cualquiera de las plataformas sociales donde interactúen.\n\n**Ejemplo práctico:** El *Community Manager* de **Renfe** o de una aerolínea gestiona diariamente las comunidades de la empresa en X, Instagram y Facebook, atendiendo consultas de viajeros en tiempo real, dinamizando conversaciones y trasladando el *feedback* de los usuarios a los departamentos internos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes NO es una de las funciones del community manager:",
+      "opciones": {
+        "a": "Monitorizar constantemente la red.",
+        "b": "Explicar la posición de la empresa a la comunidad.",
+        "c": "Encontrar vías de colaboración ente la comunidad y la empresa.",
+        "d": "Estar todo el día conectado a Internet, aunque sólo sea para mandar correos a amigos."
+      },
+      "explicacion": "Entre las funciones estratégicas del *Community Manager* destacan monitorizar de forma continua las menciones en la red, transmitir y explicar la postura de la organización ante la comunidad y detectar oportunidades de colaboración con los usuarios y prescriptores. Conectarse para enviar correos personales a amigos es una actividad privada ajena al desempeño profesional.\n\n**Ejemplo práctico:** Ante una caída temporal del servicio en una plataforma de banca móvil, el *Community Manager* monitoriza el volumen de incidencias en redes, publica comunicados claros explicando el estado de la resolución técnica y atiende a los clientes afectados.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Cuál de las siguientes habilidades debe tener un community manager?",
+      "opciones": {
+        "a": "Aptitudes técnicas.",
+        "b": "Habilidades sociales.",
+        "c": "Actitud.",
+        "d": "Todas las anteriores."
+      },
+      "explicacion": "Un *Community Manager* competente requiere un perfil integral que combine **aptitudes técnicas** (dominio de herramientas de monitorización, analítica web, gestores de contenido y plataformas sociales), **habilidades sociales** (empatía, capacidad de comunicación, redacción, escucha activa y mediación) y **actitud** (proactividad, paciencia, sentido común e identificación con la cultura de la marca).\n\n**Ejemplo práctico:** Cuando un cliente enfadado publica una crítica severa en redes sociales, el *Community Manager* utiliza herramientas de *social listening* como **Hootsuite** para detectarla al instante (aptitud técnica), responde con empatía y educación desescalando el conflicto (habilidad social) y mantiene la calma y vocación de servicio (actitud).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los roles del community manager:",
+      "opciones": {
+        "a": "Siempre es el mismo: estar actualizado de cuál es la reputación online corporativa.",
+        "b": "Pueden ser varios, como gestor de la personalidad de marca, de la relación con el cliente, etc.",
+        "c": "No tiene ningún rol específico.",
+        "d": "Cambia según el mes del año."
+      },
+      "explicacion": "El *Community Manager* desempeña múltiples roles complementarios dentro de la organización: actúa como voz y gestor de la personalidad de la marca hacia el exterior, gestor de la relación y atención al cliente en canales sociales, analista de inteligencia competitiva y defensor del cliente (*customer advocate*) dentro de la propia empresa.\n\n**Ejemplo práctico:** En una marca de electrónica de consumo, el *Community Manager* humaniza la marca con un tono cercano en redes (gestor de personalidad), resuelve dudas postventa (relación con el cliente) y reporta al equipo de ingeniería un fallo recurrente detectado en los comentarios para que se corrija en la siguiente actualización.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

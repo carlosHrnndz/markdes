@@ -1,0 +1,126 @@
+{
+  "unidad": 10,
+  "titulo": "Autoevaluación Unidad 10 - Otras Herramientas de los Medios Sociales (Podcasting y RSS)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Qué es el podcasting?",
+      "opciones": {
+        "a": "La distribución de archivos multimedia (normalmente audio o vídeo), mediante un sistema de redifusión (RSS), que permita suscribirse y usar un programa que lo descarga para que el usuario lo escuche en el momento que quiera.",
+        "b": "La distribución de archivos multimedia (normalmente audio o vídeo), mediante un sistema de redifusión (RSS), que permita suscribirse y usar un programa que lo descarga para que el usuario lo escuche en directo en el mismo momento que se realiza.",
+        "c": "La distribución de archivos multimedia (normalmente audio o vídeo), mediante un sistema de redifusión (RSS), que permita contactar e intercambiar comentarios con los otros usuarios en directo.",
+        "d": "El podcasting no puede utilizar archivos multimedia con la tecnología actual."
+      },
+      "explicacion": "El *podcasting* consiste en la distribución de archivos multimedia (principalmente de audio, aunque también de vídeo o *vodcasting*) mediante un sistema de sindicación RSS que permite a los usuarios suscribirse y descargar los episodios automáticamente en su dispositivo o aplicación para escucharlos bajo demanda en el momento y lugar que deseen.\n\n**Ejemplo práctico:** El banco **BBVA** produce su canal de podcasts «Aprendemos Juntos» y «Blink», cuyos episodios se distribuyen mediante RSS a plataformas como Apple Podcasts, Spotify e iVoox para que los suscriptores los descarguen y escuchen en diferido mientras viajan al trabajo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Apple lanzó iTunes 4.9 con soporte para podcasting, lo que provocó que, por primera vez, un software usado por un amplio espectro de la población conociera este nuevo medio de comunicación. Esto fue en el año:",
+      "opciones": {
+        "a": "1995.",
+        "b": "1999.",
+        "c": "2005.",
+        "d": "2012."
+      },
+      "explicacion": "En junio de **2005**, Apple lanzó la versión **iTunes 4.9**, integrando por primera vez un directorio nativo y soporte directo para la suscripción gratuita a podcasts, hito histórico que popularizó masivamente el *podcasting* entre el gran público a escala global.\n\n**Ejemplo práctico:** Tras la actualización de iTunes 4.9 en 2005, medios de comunicación tradicionales como la **BBC** o **RNE** vieron multiplicarse exponencialmente las descargas de sus programas radiofónicos al quedar accesibles con un solo clic para millones de usuarios de iPod.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El podcasting es para las empresas:",
+      "opciones": {
+        "a": "No tiene ningún interés.",
+        "b": "Un nuevo canal de comunicación que va adquiriendo progresivamente nuevos usos y adeptos.",
+        "c": "Una herramienta en declive.",
+        "d": "Una herramienta con pocas utilidades."
+      },
+      "explicacion": "Para las empresas, el *podcasting* representa un canal de comunicación versátil y en constante crecimiento, que permite conectar con audiencias segmentadas mediante contenidos de valor en formato audio, adaptándose a los hábitos de consumo móvil del usuario moderno.\n\n**Ejemplo práctico:** La cadena de supermercados o una firma de cosmética como **Sephora** lanza un podcast con entrevistas a expertos en cuidado de la piel, logrando impactar a consumidores durante su tiempo de gimnasio o conducción, momentos donde no pueden leer una pantalla.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de las siguientes opciones NO es un uso del podcasting a nivel empresarial:",
+      "opciones": {
+        "a": "Crear un canal podcast específico para boletines de novedades de la empresa, para los productos o servicios.",
+        "b": "Crear un canal podcast ordenando y sindicando un argumento comercial para la fuerza de ventas, de tal modo que, sobre todo los comerciales más juniors, puedan escuchar un discurso comercial estructurado cuando todavía no lo tienen asimilado.",
+        "c": "Crear un canal podcast como servicio añadido a un producto.",
+        "d": "Crear un canal podcast para informar a la competencia."
+      },
+      "explicacion": "A nivel corporativo, el *podcasting* se utiliza para boletines de novedades de productos/servicios, formación y argumentarios comerciales para la fuerza de ventas (especialmente útil para comerciales junior en movilidad) o como servicio de valor añadido al cliente. Crear un canal con el objetivo de «informar a la competencia» carece de sentido estratégico.\n\n**Ejemplo práctico:** Una empresa farmacéutica distribuye un podcast interno privado para sus visitadores médicos con el argumentario científico de un nuevo lanzamiento, permitiéndoles repasar las claves clínicas en el coche antes de visitar un hospital.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Para qué sirve la sindicación de contenidos:",
+      "opciones": {
+        "a": "Para difundir información actualizada de forma frecuente a los usuarios que se han suscrito a la fuente de contenidos.",
+        "b": "Para acceder a Internet.",
+        "c": "Para que los usuarios puedan acceder a la página web de una empresa.",
+        "d": "No tiene utilidad a nivel empresarial."
+      },
+      "explicacion": "La sindicación de contenidos (mediante tecnologías como RSS o Atom) sirve para difundir de manera automatizada y frecuente las actualizaciones de una fuente de información a todos los usuarios o agregadores que se han suscrito previamente, evitando que tengan que revisar la web manualmente.\n\n**Ejemplo práctico:** Un despacho de abogados fiscalistas ofrece sindicación RSS en su sección de actualidad tributaria; así, los directores financieros suscritos reciben automáticamente cada nueva circular sobre reformas fiscales en su lector de noticias.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones es una ventaja de la sindicación de contenidos:",
+      "opciones": {
+        "a": "Mejora la imagen de marca.",
+        "b": "Es una forma de combatir el spam.",
+        "c": "Es una vía adicional de tráfico.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La sindicación de contenidos ofrece múltiples ventajas para el marketing digital: refuerza la imagen de marca (asociándola a innovación y transparencia informativa), combate el *spam* (al ser un canal 100 % *opt-in* que no satura la bandeja de correo electrónico) y constituye una fuente recurrente de tráfico cualificado hacia el sitio web.\n\n**Ejemplo práctico:** Un medio especializado en economía como **El Economista** utiliza canales RSS temáticos que atraen miles de visitas diarias hacia sus artículos completos, fidelizando lectores sin necesidad de enviar correos masivos no deseados.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Qué son los marcadores sociales?",
+      "opciones": {
+        "a": "Una forma de relacionarse a nivel social, tanto offline como online.",
+        "b": "Una forma de almacenar, clasificar y compartir enlaces en Internet o en una Intranet.",
+        "c": "Una forma de red social.",
+        "d": "Una forma de blog."
+      },
+      "explicacion": "Los marcadores sociales (*social bookmarking*) son servicios online que permiten a los usuarios almacenar, organizar mediante etiquetas (*tags* o folcsonomías) y compartir públicamente o en una intranet enlaces a páginas web de su interés.\n\n**Ejemplo práctico:** El departamento de investigación de una agencia de publicidad utiliza una plataforma de marcadores sociales como **Diigo** o **Pocket** compartido para guardar y etiquetar por categorías («tendencias diseño», «campañas premiadas», «estadísticas») los enlaces web más relevantes del sector.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de los siguientes es un servicio de gestión de marcadores sociales en web:",
+      "opciones": {
+        "a": "Hotmail.",
+        "b": "Internet.",
+        "c": "Delicious.",
+        "d": "Apple."
+      },
+      "explicacion": "**Delicious** (originalmente *del.icio.us*) es el servicio histórico de referencia en la Web 2.0 para la gestión de marcadores sociales, permitiendo guardar enlaces favoritos en la nube, clasificarlos mediante etiquetas (*tags*) y descubrir qué páginas marcan otros usuarios. Hotmail es correo electrónico, Internet es la red global y Apple es una empresa tecnológica.\n\n**Ejemplo práctico:** Un profesional de marketing digital guarda en **Delicious** enlaces a informes anuales de IAB Spain bajo las etiquetas `#marketingdigital` y `#estadisticas`, pudiendo consultarlos desde cualquier ordenador y compartir su biblioteca de recursos con sus alumnos.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Qué es un sistema de votación como digg o menéame?",
+      "opciones": {
+        "a": "Un sitio web basado en la participación comunitaria, donde los usuarios registrados envían historias que los demás usuarios del sitio (registrados o no) pueden votar.",
+        "b": "Un sistema online para votar en las elecciones de cada país.",
+        "c": "Un tipo de correo electrónico.",
+        "d": "Una opción que ofrece Facebook."
+      },
+      "explicacion": "Los agregadores sociales de noticias y sistemas de votación comunitaria como **Digg** o **Menéame** son plataformas de participación colectiva donde los usuarios registrados envían enlaces a noticias o historias de la web, y el conjunto de la comunidad las vota y comenta, promoviendo a la portada aquellas que alcanzan mayor puntuación.\n\n**Ejemplo práctico:** Un bloguero publica una investigación original sobre el ahorro energético en hogares y un lector la envía a **Menéame**; tras recibir cientos de votos positivos («meneos») de la comunidad, la noticia llega a portada y genera un pico de 50.000 visitas al blog en pocas horas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "¿Qué es menéame?",
+      "opciones": {
+        "a": "Una red social especializada.",
+        "b": "Es un sitio web de participación comunitaria inspirado en el modelo anglosajón de digg, que combina marcadores sociales, el blogging y la sindicación con un sistema de publicación sin editores.",
+        "c": "Una mezcla de wiki, red social, y podcasting.",
+        "d": "Un tipo de podcasting específico de algunas empresas."
+      },
+      "explicacion": "**Menéame** es el agregador social de noticias en español más emblemático, creado por Ricardo Galli e inspirado en el modelo anglosajón de **Digg**, que integra marcadores sociales, difusión de blogs y sindicación RSS bajo un sistema de filtrado colaborativo sin editores jerárquicos, donde los propios usuarios deciden qué llega a portada.\n\n**Ejemplo práctico:** Cuando un medio digital español publica una exclusiva de alto interés social, los propios lectores la comparten en **Menéame**, donde el algoritmo pondera los votos y comentarios de los usuarios para posicionarla en la página principal y distribuirla por su canal RSS.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

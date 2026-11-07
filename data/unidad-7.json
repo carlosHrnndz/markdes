@@ -1,0 +1,126 @@
+{
+  "unidad": 7,
+  "titulo": "Autoevaluación Unidad 7 - Comunicación a través de Internet y Web 2.0",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "SMM es acrónimo de:",
+      "opciones": {
+        "a": "Intelectual Media Marketing.",
+        "b": "Social Media Marketing.",
+        "c": "Social Media Mentoring.",
+        "d": "Social Medium Marketing."
+      },
+      "explicacion": "El acrónimo SMM corresponde en inglés a *Social Media Marketing* (Marketing en Medios Sociales). Hace referencia al conjunto de estrategias y acciones de comunicación y marketing que las empresas desarrollan a través de las plataformas de la Web 2.0 (redes sociales, blogs, wikis, comunidades virtuales) para generar visibilidad, tráfico web, diálogo e interacción con su comunidad de usuarios.\n\n**Ejemplo práctico:** Una marca de cosmética diseña una estrategia de SMM que combina tutoriales en vídeo en Instagram y TikTok, artículos de cuidado de la piel en su blog corporativo y atención al cliente en tiempo real a través de X (Twitter) para fidelizar a su audiencia joven.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La web 2.0:",
+      "opciones": {
+        "a": "Es la primera generación en el desarrollo de la tecnología web.",
+        "b": "Es la próxima generación en el desarrollo de la tecnología web que se espera para dentro de unos años.",
+        "c": "Se basa en la interacción que se logra a partir de diferentes aplicaciones en la web, que facilitan el compartir información, la interoperabilidad, el diseño centrado en el usuario y la colaboración en la World Wide Web.",
+        "d": "Se basa en páginas estáticas programadas en HTML (Hyper Text Mark Language), que no se actualizan frecuentemente."
+      },
+      "explicacion": "El término Web 2.0 (popularizado por Tim O'Reilly en 2004) define la evolución de Internet desde páginas estáticas de solo lectura (Web 1.0) hacia un ecosistema participativo basado en aplicaciones web que facilitan el intercambio bidireccional de información, la interoperabilidad, el diseño centrado en el usuario y la creación colaborativa de contenidos por parte de los propios internautas.\n\n**Ejemplo práctico:** Mientras que en la Web 1.0 una agencia de viajes solo mostraba un catálogo estático de tarifas en HTML, en la Web 2.0 plataformas como TripAdvisor o Airbnb permiten que los propios usuarios suban fotografías, publiquen reseñas, puntúen alojamientos e interactúen entre sí.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El éxito de la web 2.0 consiste en:",
+      "opciones": {
+        "a": "Utilizar Internet.",
+        "b": "La inversión económica que hay detrás.",
+        "c": "Que es exclusiva y elitista.",
+        "d": "Aprovechar la inteligencia colectiva."
+      },
+      "explicacion": "La clave del éxito de la Web 2.0 reside en aprovechar la «inteligencia colectiva»: el valor de las plataformas aumenta a medida que más usuarios participan, aportan conocimientos, etiquetan contenidos (*folksonomías*), valoran productos y colaboran en red, convirtiendo al consumidor tradicional en un *prosumidor* (productor y consumidor de contenido).\n\n**Ejemplo práctico:** El navegador GPS comunitario Waze basa su eficacia en la inteligencia colectiva de la Web 2.0: millones de conductores reportan en tiempo real atascos, obras o accidentes, creando entre todos un mapa de tráfico mucho más preciso que el que podría elaborar una empresa en solitario.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La web 2.0 y la empresa:",
+      "opciones": {
+        "a": "La empresa todavía no encuentra beneficios en participar en la web 2.0.",
+        "b": "Sólo el departamento de marketing se puede beneficiar de la web 2.0.",
+        "c": "La web 2.0 ya está aportando muchos beneficios a las empresas que la están utilizando, a varios niveles, y en un futuro las oportunidades aumentarán.",
+        "d": "Las empresas sólo utilizan la web 1.0."
+      },
+      "explicacion": "La integración de las herramientas de la Web 2.0 aporta beneficios tangibles e inmediatos a las empresas en múltiples áreas (no solo en marketing, sino también en atención al cliente, innovación abierta, recursos humanos y comunicación interna), permitiendo escuchar activamente al mercado, reducir costes de investigación y fortalecer la relación con los usuarios, con un potencial de crecimiento continuo.\n\n**Ejemplo práctico:** La plataforma «My Starbucks Idea» permitió a Starbucks utilizar la Web 2.0 para que miles de clientes propusieran y votaran mejoras en productos y locales, beneficiando simultáneamente a los departamentos de I+D, operaciones, atención al cliente y marketing.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El usuario 2.0:",
+      "opciones": {
+        "a": "Todos los consumidores han tenido alguna experiencia en Internet que les ha hecho cambiar su opinión sobre una marca.",
+        "b": "Más del 50% de los consumidores han tenido al menos una experiencia en Internet que les ha hecho cambiar su opinión sobre una marca.",
+        "c": "Los consumidores no tienen experiencias con marcas en Internet.",
+        "d": "Sólo el 10% de consumidores han cambiado de opinión sobre una marca debido a su experiencia en Internet."
+      },
+      "explicacion": "Los estudios sobre el comportamiento del consumidor en el entorno digital (el denominado «usuario 2.0») demuestran el enorme peso de las opiniones y experiencias en la red: más del 50 % de los consumidores afirma haber vivido al menos una experiencia en Internet (lectura de reseñas en foros, comentarios en redes sociales, blogs o trato recibido online) que les ha llevado a modificar su opinión previa sobre una marca.\n\n**Ejemplo práctico:** Un comprador que tenía previsto adquirir un modelo concreto de televisor consulta foros especializados y reseñas verificadas en comercios electrónicos; al detectar que numerosos usuarios reportan fallos recurrentes en el panel tras un año de uso, cambia su percepción sobre la marca y elige otra alternativa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de los siguientes NO es un medio social:",
+      "opciones": {
+        "a": "Las redes sociales.",
+        "b": "Los blogs.",
+        "c": "Los wikis.",
+        "d": "El correo electrónico."
+      },
+      "explicacion": "Los medios sociales (*Social Media*) son plataformas abiertas o comunitarias de la Web 2.0 concebidas para la publicación abierta, la conversación multilateral y la construcción colaborativa de contenido, entre las que destacan las redes sociales, los blogs y los wikis. El correo electrónico, por el contrario, es una herramienta de comunicación interpersonal o directa tradicional (propia ya de la Web 1.0) y no se clasifica como un medio social.\n\n**Ejemplo práctico:** Una empresa utiliza su blog corporativo y su página en LinkedIn (medios sociales) para generar debates públicos abiertos a cualquier profesional del sector, mientras que emplea el correo electrónico únicamente para enviar facturas privadas a cada cliente individual.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las implicaciones de los nuevos medios sociales son:",
+      "opciones": {
+        "a": "Individualidad y lentitud.",
+        "b": "Velocidad y ubicuidad.",
+        "c": "Compartir y lentitud.",
+        "d": "Actividades sin valor virtual."
+      },
+      "explicacion": "Los nuevos medios sociales transforman radicalmente la dinámica comunicativa al introducir dos implicaciones esenciales: la velocidad (los mensajes, noticias o crisis se propagan de forma instantánea y en tiempo real a escala global) y la ubicuidad (la información y la interacción están presentes y accesibles en cualquier momento y desde cualquier lugar a través de dispositivos conectados).\n\n**Ejemplo práctico:** Un pasajero publica desde su teléfono móvil un vídeo sobre una incidencia en un vuelo antes incluso de que el avión despegue (ubicuidad), y en menos de dos horas el contenido acumula cientos de miles de visualizaciones y llega a los telediarios nacionales (velocidad).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El marketing viral en los medios consiste en:",
+      "opciones": {
+        "a": "Transformar al receptor de una comunicación en emisor de la misma en sus círculos de influencia y de convivencia y fuera de ellos.",
+        "b": "Transformar al receptor de una comunicación en emisor de la misma en sus círculos de influencia y de convivencia.",
+        "c": "Transformar al emisor de una comunicación en receptor de la misma en sus círculos de influencia y de convivencia.",
+        "d": "No tiene nada que ver con el receptor ni con el emisor."
+      },
+      "explicacion": "El marketing viral consiste en diseñar contenidos o mensajes tan atractivos, relevantes o sorprendentes que logran transformar al propio receptor de la comunicación en un emisor activo, quien lo reenvía y comparte voluntariamente dentro de sus círculos de influencia y convivencia (amigos, familiares, compañeros), generando una difusión exponencial similar a la propagación de un virus.\n\n**Ejemplo práctico:** La campaña «Real Beauty Sketches» de Dove emocionó de tal manera a quienes vieron el vídeo que millones de usuarios decidieron compartirlo espontáneamente en sus muros de redes sociales y grupos de mensajería con sus amigos y familiares, convirtiéndose en los principales difusores del mensaje.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes recomendaciones NO ayudaría a realizar una campaña de marketing viral eficaz:",
+      "opciones": {
+        "a": "Escoger bien el target.",
+        "b": "Crear expectación y sorpresa.",
+        "c": "Cuanto más largo y lento mejor.",
+        "d": "Pensar estratégicamente."
+      },
+      "explicacion": "Para que una campaña de marketing viral sea eficaz, debe seleccionar cuidadosamente su público objetivo (*target*), generar sorpresa y expectación, planificarse estratégicamente y emplear formatos ágiles, breves y fáciles de consumir y compartir. Hacer un contenido largo y de ritmo lento actúa como un freno para la viralidad, ya que provoca el abandono prematuro del usuario y dificulta su difusión espontánea.\n\n**Ejemplo práctico:** Una marca deportiva lanza un *spot* viral de 45 segundos con un giro inesperado en los primeros cinco segundos que acumula millones de reenvíos; si hubiera publicado un vídeo corporativo lento de 20 minutos, la tasa de retención y compartición habría sido mínima.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los recursos más utilizados en el marketing viral son:",
+      "opciones": {
+        "a": "El humor.",
+        "b": "El enfrentamiento.",
+        "c": "La música.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "En el diseño de campañas de marketing viral, los creativos recurren a estímulos emocionales y expresivos de alto impacto que motivan al usuario a compartir el contenido. Entre los recursos más utilizados y efectivos destacan el humor, el enfrentamiento o rivalidad dialéctica entre marcas/conceptos y la música pegadiza, siendo todos ellos ingredientes habituales de las piezas virales de éxito.\n\n**Ejemplo práctico:** La célebre campaña «The Epic Split» de Volvo Trucks con Jean-Claude Van Damme combinó un toque de humor e ironía, un reto visual sorprendente y la música envolvente de Enya, logrando más de cien millones de reproducciones orgánicas en YouTube.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

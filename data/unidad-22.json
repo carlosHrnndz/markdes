@@ -1,0 +1,126 @@
+{
+  "unidad": 22,
+  "titulo": "Autoevaluación Unidad 22 - Gestión de los Procesos de Diseño y Desarrollo de Nuevos Productos y Servicios (I)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Qué es diseñar?",
+      "opciones": {
+        "a": "Cuidar el aspecto externo de un producto o servicio.",
+        "b": "Crear o definir cómo debe ser algo que satisface unos requisitos, idear algo que no existe o que no sabemos que existe.",
+        "c": "Producir un producto o servicio.",
+        "d": "Dibujar y adornar."
+      },
+      "explicacion": "Desde la perspectiva de la gestión de la innovación y los sistemas de gestión de la calidad (ISO 9000), diseñar no se limita a la estética superficial, sino que constituye el proceso creativo y técnico de concebir, definir y especificar las características de un producto, servicio o proceso inexistente para transformar unos requisitos previos en una solución viable y funcional.\n\n**Ejemplo práctico:** Cuando Dyson diseña una nueva aspiradora ciclónica sin bolsa, el diseño abarca la ingeniería aerodinámica del motor digital, la ergonomía del chasis, la eficiencia energética y la especificación técnica de cada componente para cumplir los requisitos de succión e higiene.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las actividades de diseño y desarrollo afectan a:",
+      "opciones": {
+        "a": "Productos y su aspecto externo.",
+        "b": "Ideas.",
+        "c": "Productos, servicios y procesos.",
+        "d": "Servicios al cliente."
+      },
+      "explicacion": "El alcance de las actividades de diseño y desarrollo en una organización es integral y transversal: comprende tanto bienes tangibles (productos físicos) como prestaciones intangibles (servicios) y las secuencias operativas internas (procesos) necesarias para producirlos y entregarlos con eficacia y eficiencia.\n\n**Ejemplo práctico:** Cuando una entidad bancaria lanza una hipoteca 100 % digital, el proyecto de diseño y desarrollo abarca el producto financiero (tipos y plazos), el servicio de asesoramiento remoto al cliente y el proceso interno automatizado de evaluación de riesgos (scoring) y firma electrónica.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de los siguientes factores NO hay que tener en cuenta en el diseño y desarrollo de un producto o servicio:",
+      "opciones": {
+        "a": "El ciclo de vida.",
+        "b": "El marketing-mix y la fecha de lanzamiento.",
+        "c": "La facilidad de utilización.",
+        "d": "El medio ambiente."
+      },
+      "explicacion": "Durante la actividad técnica de diseño y desarrollo del producto o servicio se deben integrar criterios intrínsecos al desempeño y sostenibilidad de la solución, tales como su ciclo de vida, la ergonomía o facilidad de uso (usabilidad) y el impacto medioambiental (ecodiseño). En cambio, la configuración táctica del marketing-mix comercial y la fecha comercial de lanzamiento pertenecen a la planificación de comercialización o marketing operativo, no a los parámetros técnicos de concepción del diseño.\n\n**Ejemplo práctico:** El equipo de ingeniería de Renault que diseña un nuevo vehículo eléctrico incorpora en el diseño la reciclabilidad de las baterías (medio ambiente), la durabilidad de los materiales (ciclo de vida) y la intuitividad del salpicadero (facilidad de uso), mientras que las campañas promocionales de lanzamiento las gestiona el departamento comercial.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿Qué es la verificación?",
+      "opciones": {
+        "a": "Comprobar lo que es verdad y lo que no.",
+        "b": "Revisar aquello que ya se había revisado previamente.",
+        "c": "La distinción entre lo que está bien y lo que no.",
+        "d": "La confirmación mediante la aportación de evidencia objetiva de que se han cumplido los requisitos especificados."
+      },
+      "explicacion": "Conforme al vocabulario normativo de gestión de la calidad (ISO 9000), la verificación se define rigurosamente como la confirmación, mediante la aportación de evidencia objetiva (cálculos alternativos, ensayos, inspecciones o revisiones documentales), de que los resultados del diseño cumplen con los requisitos especificados en los elementos de entrada.\n\n**Ejemplo práctico:** En el desarrollo de un software de facturación, la verificación consiste en ejecutar baterías de pruebas unitarias e informes de auditoría de código (evidencia objetiva) que confirmen que el programa calcula los impuestos exactamente según las especificaciones técnicas iniciales.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El proceso de diseño y desarrollo de un producto consta de:",
+      "opciones": {
+        "a": "2 etapas.",
+        "b": "7 etapas.",
+        "c": "No hay etapas.",
+        "d": "El número de etapas es infinito."
+      },
+      "explicacion": "De acuerdo con la metodología estructurada de gestión de los procesos de diseño y desarrollo (alineada con el estándar ISO 9001), el proceso completo se articula secuencialmente en 7 etapas: 1) Planificación del diseño y desarrollo, 2) Elementos de entrada, 3) Resultados del diseño y desarrollo, 4) Revisión, 5) Verificación, 6) Validación y 7) Control de los cambios.\n\n**Ejemplo práctico:** Una empresa farmacéutica o de equipamiento médico estructura su manual de calidad en estas 7 etapas obligatorias para garantizar la trazabilidad completa desde la planificación inicial del dispositivo hasta la validación clínica y el control de modificaciones de ingeniería.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La primera etapa, planificación del diseño y desarrollo, responde a la pregunta:",
+      "opciones": {
+        "a": "Quién va a hacer qué.",
+        "b": "Cuánto cuesta el proceso.",
+        "c": "Cuándo habrá finalizado el proceso.",
+        "d": "Porqué hay que iniciar el proceso."
+      },
+      "explicacion": "La primera etapa del proceso —la planificación del diseño y desarrollo— tiene como propósito estructurar organizativamente el proyecto, asignando responsabilidades y autoridades claras a los miembros del equipo e identificando las interfaces entre los distintos grupos participantes; es decir, responde esencialmente a la cuestión de 'quién va a hacer qué'.\n\n**Ejemplo práctico:** Al iniciar el desarrollo de un nuevo smartwatch, el director de proyecto elabora el plan de diseño asignando el diseño de hardware al equipo de microelectrónica, la interfaz de usuario al equipo de UX/UI y la homologación regulatoria al departamento de calidad.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La segunda etapa de un proceso de diseño y desarrollo consiste en:",
+      "opciones": {
+        "a": "La puesta en marcha del proceso.",
+        "b": "El inicio.",
+        "c": "Los elementos de entrada.",
+        "d": "La finalización del proyecto."
+      },
+      "explicacion": "Una vez completada la planificación inicial (primera etapa), la segunda etapa del proceso de diseño y desarrollo consiste en la determinación y registro de los 'elementos de entrada' (inputs), donde se recopilan todos los requisitos funcionales, legales, normativos y de experiencia previa que deben guiar la creación del producto o servicio.\n\n**Ejemplo práctico:** Tras planificar el equipo de trabajo para diseñar un nuevo casco de motociclismo (etapa 1), la empresa ejecuta la etapa 2 recopilando los elementos de entrada: límites de peso máximo, normativa europea de homologación ECE 22.06 y datos de impacto de modelos anteriores.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "A la hora de revisar los elementos de entrada para el diseño y desarrollo de un producto, hay que tener en cuenta:",
+      "opciones": {
+        "a": "Los requisitos funcionales y de desempeño.",
+        "b": "Los requisitos legales.",
+        "c": "La información proveniente de diseños  previos similares.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "De acuerdo con la norma ISO 9001, al determinar y revisar los elementos de entrada para el diseño y desarrollo es imprescindible integrar tres pilares fundamentales: los requisitos funcionales y de desempeño esperados por el uso, los requisitos legales y reglamentarios aplicables al sector, y el aprendizaje acumulado de diseños previos similares.\n\n**Ejemplo práctico:** Para diseñar una nueva caldera doméstica de condensación, el fabricante revisa como elementos de entrada la potencia térmica y el rendimiento energético requeridos (funcionales), el Reglamento de Instalaciones Térmicas en los Edificios - RITE (legales) y los informes de mantenimiento del modelo anterior (diseños previos).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El demandante de un diseño:",
+      "opciones": {
+        "a": "No tiene nada que ver con el proceso de diseño y desarrollo.",
+        "b": "Sabe qué quiere y lo comunica especificando todas las funcionalidades que el producto debe satisfacer.",
+        "c": "Es el proveedor.",
+        "d": "No sabe lo que quiere."
+      },
+      "explicacion": "En la gestión formal de proyectos de diseño bajo encargo o especificación técnica, el demandante del diseño (ya sea un cliente externo o un departamento interno como Marketing) actúa como el agente que identifica la necesidad y la traduce en una comunicación precisa de las funcionalidades, prestaciones y requisitos que el nuevo producto o servicio debe satisfacer.\n\n**Ejemplo práctico:** Cuando una cadena hotelera (demandante) encarga a un estudio de arquitectura e ingeniería el diseño de un nuevo sistema de climatización automatizada, le entrega un pliego de prescripciones técnicas detallando exactamente los rangos de temperatura, consumo máximo y control por habitación que necesita.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los elementos externos de entrada incluyen:",
+      "opciones": {
+        "a": "Necesidades y expectativas del cliente o del mercado.",
+        "b": "Requisitos de competencia para el personal que realiza el diseño y desarrollo.",
+        "c": "Información procedente de experiencias previas.",
+        "d": "Registros y datos de productos y procesos existentes."
+      },
+      "explicacion": "Los elementos de entrada del diseño se clasifican en internos y externos. Los elementos externos de entrada provienen del entorno exterior a la organización e incluyen fundamentalmente las necesidades y expectativas de los clientes o del mercado, así como las normativas legales y estándares industriales; por el contrario, las competencias del personal, registros históricos y experiencias previas constituyen elementos internos.\n\n**Ejemplo práctico:** En el diseño de una nueva línea de cosmética vegana, las encuestas a consumidores que demandan envases biodegradables y fórmulas sin parabenos constituyen un elemento externo de entrada procedente del mercado.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 25,
+  "titulo": "Autoevaluación Unidad 25 - Validación de los Procesos de la Producción y Prestación de un Servicio",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La trazabilidad es la capacidad para seguir la historia, la aplicación o la localización de todo aquello que está bajo consideración. La trazabilidad puede estar relacionada con varias cosas, pero NO con:",
+      "opciones": {
+        "a": "El origen de los materiales y las partes.",
+        "b": "La historia del procesamiento.",
+        "c": "La distribución y localización del producto después de la entrega.",
+        "d": "Los vestuarios del personal de producción."
+      },
+      "explicacion": "Según las normas de gestión de la calidad (familia ISO 9000 e ISO 9001), la trazabilidad abarca el rastreo completo de un producto o servicio a lo largo de la cadena de valor: el origen de las materias primas y componentes, el historial de los procesos productivos aplicados y la ruta de distribución y ubicación posterior a la entrega. Los vestuarios del personal constituyen infraestructuras auxiliares de higiene o bienestar laboral, pero no forman parte del flujo trazable del producto en sí.\n\n**Ejemplo práctico:** En una planta ensambladora de marcapasos cardíacos, el sistema ERP registra el lote de titanio del proveedor (origen), los parámetros de soldadura láser aplicados en planta (procesamiento) y el hospital de destino de cada número de serie (localización post-entrega), sin incluir la asignación de taquillas en los vestuarios de los operarios.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes opciones NO es un método habitual para asegurar la trazabilidad:",
+      "opciones": {
+        "a": "Las anotaciones en las fichas o tarjetas de obra o de fabricación.",
+        "b": "La memoria del operario.",
+        "c": "Las etiquetas.",
+        "d": "El seguimiento por ordenador."
+      },
+      "explicacion": "Para garantizar una trazabilidad rigurosa y auditable dentro de un sistema de gestión de la calidad, es imprescindible emplear soportes documentales o digitales objetivos (etiquetas con códigos de barras o RFID, hojas de ruta, tarjetas de fabricación o sistemas informáticos MES/ERP). Confiar en la memoria humana del operario carece de validez técnica y normativa, dado que es subjetiva, falible, no auditable e incapaz de mantener un registro permanente.\n\n**Ejemplo práctico:** En una línea de envasado farmacéutico, cada lote se vincula mediante códigos DataMatrix leídos por escáneres ópticos conectados a la base de datos central y respaldados por partes de fabricación firmados; si dependiera de que el operario recordara qué principio activo cargó el martes anterior, sería imposible gestionar una alerta sanitaria con seguridad.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La necesidad para la identificación y la trazabilidad puede provenir de:",
+      "opciones": {
+        "a": "Los requisitos del contrato, tales como la capacidad de recuperación del producto.",
+        "b": "Los requisitos legales y reglamentarios pertinentes.",
+        "c": "Los materiales peligrosos.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La exigencia de implantar mecanismos de identificación y trazabilidad responde tanto a imperativos legales o reglamentarios (como en alimentación, farmacia o automoción) y al manejo seguro de materiales peligrosos, como a cláusulas contractuales pactadas con el cliente (por ejemplo, para garantizar la retirada selectiva o recuperación de lotes defectuosos en el mercado). Por tanto, todas las opciones citadas justifican su implantación.\n\n**Ejemplo práctico:** Un proveedor de baterías de litio para vehículos eléctricos implementa trazabilidad unitaria por triple vía: por normativa de transporte de mercancías peligrosas (ADR), por exigencia legal europea de pasaporte de baterías y por cláusula contractual con el fabricante automovilístico para poder aislar rápidamente una partida específica en caso de llamada a revisión (recall).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Respecto a la “propiedad del cliente”, la Norma ISO 9001 plantea:",
+      "opciones": {
+        "a": "Se puede utilizar para el uso propio de la empresa cualquier cosa propiedad del cliente.",
+        "b": "La organización debe cuidar los bienes que son propiedad del cliente mientras estén bajo el control de la organización o estén siendo utilizados por la misma. La organización debe identificar, verificar, proteger y salvaguardar los bienes que son propiedad del cliente suministrados para su utilización o incorporación dentro del producto.",
+        "c": "Si se usa alguna propiedad del cliente con fines diferentes a los establecidos, mejor que éste no se entere.",
+        "d": "La propiedad del cliente pasa a ser de la empresa automáticamente."
+      },
+      "explicacion": "El apartado correspondiente de la Norma ISO 9001 sobre propiedad perteneciente al cliente establece que la organización tiene el deber fiduciario y operativo de identificar, verificar, proteger y salvaguardar cualquier bien suministrado por el cliente (materias primas, matrices, equipos de medición, datos personales o propiedad intelectual) mientras permanezca bajo su custodia o se incorpore al producto o servicio, notificando además cualquier pérdida o deterioro.\n\n**Ejemplo práctico:** Un taller de inyección de plásticos recibe un molde de acero de alta precisión propiedad de un cliente del sector de electrodomésticos; el taller lo etiqueta con un código exclusivo de propiedad del cliente, verifica su estado dimensional al recibirlo y lo almacena en una zona climatizada con mantenimiento preventivo para evitar su corrosión.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuando se habla de “preservación del producto”, se hace referencia a:",
+      "opciones": {
+        "a": "Cuidar el producto.",
+        "b": "Utilizar el producto al máximo posible.",
+        "c": "Informarse sobre el uso del producto.",
+        "d": "Eliminar el producto."
+      },
+      "explicacion": "En el ámbito de la gestión de la calidad y la norma ISO 9001, el concepto de «preservación del producto» hace referencia al conjunto de disposiciones y cuidados destinados a mantener la conformidad del producto (incluyendo sus partes constitutivas) desde el inicio del procesamiento interno hasta su entrega en el destino previsto, evitando cualquier alteración de sus propiedades.\n\n**Ejemplo práctico:** Una empresa elaboradora de vacunas aplica protocolos de preservación cuidando la cadena de frío entre 2 °C y 8 °C durante el envasado, el almacenamiento intermedio y el despacho logístico para asegurar que la eficacia inmunológica del compuesto permanezca intacta.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "En el proceso de preservación del producto, NO hay que involucrar a:",
+      "opciones": {
+        "a": "Proveedores.",
+        "b": "Aliados de negocios.",
+        "c": "Personal interno de la empresa.",
+        "d": "La competencia."
+      },
+      "explicacion": "La preservación integral del producto a lo largo de la cadena de suministro exige la coordinación y el compromiso del personal interno de la organización, de los proveedores de insumos o logística y de los aliados de negocio (distribuidores, operadores logísticos o franquiciados). Por el contrario, las empresas competidoras son agentes externos rivales del mercado que quedan totalmente al margen de los procesos internos de custodia y calidad de la compañía.\n\n**Ejemplo práctico:** Un fabricante de semiconductores coordina el control de descargas electrostáticas (ESD) con sus proveedores de obleas de silicio, sus operarios de sala limpia y su socio logístico de transporte aéreo, sin dar intervención alguna a sus competidores del sector electrónico.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El controlar y garantizar la calidad del producto:",
+      "opciones": {
+        "a": "Es solamente en el momento de su fabricación.",
+        "b": "Consiste en garantizar el tratamiento adecuado hasta que el producto llegue a manos del usuario final.",
+        "c": "No incluye el almacenamiento.",
+        "d": "No incluye el almacenamiento ni el transporte."
+      },
+      "explicacion": "El aseguramiento y control de la calidad no concluye cuando el artículo sale de la línea de montaje, sino que abarca todas las etapas posteriores (manipulación, envasado, almacenamiento, conservación y transporte) hasta que el producto es entregado de forma efectiva y en condiciones óptimas al cliente o usuario final.\n\n**Ejemplo práctico:** Una fábrica de paneles solares fotovoltaicos verifica eléctricamente cada panel tras su ensamblaje, pero además certifica el paletizado amortiguado, las condiciones de humedad en el almacén logístico y el aseguramiento de la carga en los camiones hasta la descarga en el parque solar del comprador.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Los requisitos de almacenamiento:",
+      "opciones": {
+        "a": "Son los mismos en todos los casos.",
+        "b": "No hay que tenerlos en cuenta según la Norma ISO 9001.",
+        "c": "Varían de un sector industrial a otro.",
+        "d": "Sólo hay que tenerlos en cuenta en el caso de de almacenamiento de alimentos fríos."
+      },
+      "explicacion": "Los requisitos técnicos y ambientales de almacenamiento (temperatura, humedad relativa, iluminación, ventilación, apilamiento máximo o segregación física) dependen directamente de la naturaleza física, química o biológica del bien, por lo que varían sustancialmente de un sector industrial a otro y deben adaptarse a las especificaciones de cada producto.\n\n**Ejemplo práctico:** Mientras que en la industria siderúrgica las bobinas de acero galvanizado requieren almacenes secos con cunas de apoyo para evitar deformaciones mecánicas, en la industria agroalimentaria los productos lácteos exigen cámaras frigoríficas sanitarias con control continuo de temperatura y rotación estricta FEFO (First Expired, First Out).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Respecto al embalaje:",
+      "opciones": {
+        "a": "Se requiere que siempre esté presente.",
+        "b": "Debe ser el apropiado para el producto, el transporte previsto y el uso final.",
+        "c": "Cuánto más frágil, mejor.",
+        "d": "No es un aspecto que la Norma ISO 9001 tenga en cuenta."
+      },
+      "explicacion": "Conforme a las directrices de preservación de la norma ISO 9001, el embalaje debe diseñarse y seleccionarse de manera coherente con las características intrínsecas del producto, los riesgos mecánicos o climáticos del medio de transporte previsto (marítimo, aéreo, terrestre) y las condiciones de recepción y uso final por parte del destinatario.\n\n**Ejemplo práctico:** Un fabricante de equipos de diagnóstico médico por resonancia magnética diseña un embalaje con cajas de madera tratada, sensores de impacto e inclinación y bolsas desecantes al vacío para soportar el tránsito marítimo transoceánico y permitir su desembalaje seguro en la sala limpia del hospital.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La conservación del producto consiste en:",
+      "opciones": {
+        "a": "La aplicación de unas prácticas de trabajo que eviten que el producto sufra daño, deterioro o contaminación alguna durante el tiempo que permanezca a nuestro cargo.",
+        "b": "Que el producto tenga un buen embalaje.",
+        "c": "Que haya una buena temperatura de conservación durante todo el proceso de producción.",
+        "d": "Que el almacenamiento del producto se realice en el sitio adecuado."
+      },
+      "explicacion": "Dentro de la preservación del producto, la conservación se define específicamente como la implantación sistemática de prácticas operativas y controles preventivos orientados a evitar cualquier daño físico, deterioro funcional, degradación química o contaminación del producto durante todo el periodo en que permanece bajo la responsabilidad de la organización.\n\n**Ejemplo práctico:** En una planta de componentes aeronáuticos de precisión, la conservación incluye recubrir las piezas mecanizadas con aceite anticorrosivo temporal, manipularlas exclusivamente con guantes de nitrilo y cubrirlas con fundas antiestáticas mientras esperan en la zona de ensamblaje final.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 21,
+  "titulo": "Autoevaluación Unidad 21 - Tipos de Marca",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En la opción de “una marca para todos los productos”:",
+      "opciones": {
+        "a": "Cada producto lleva su propia marca que lo identifica en el mercado en el que compite.",
+        "b": "Se puede hacer diferentes posicionamientos.",
+        "c": "Se trata de que todos los productos de una empresa tengan la misma marca.",
+        "d": "No se puede ayudar a los nuevos productos en su introducción."
+      },
+      "explicacion": "La estrategia de marca única (también denominada marca monolítica o marca paraguas pura) consiste en comercializar la totalidad del catálogo de productos y servicios de la organización bajo una misma denominación e identidad corporativa. Esta arquitectura permite capitalizar las economías de escala en comunicación publicitaria, transferir el capital de marca (brand equity) de forma inmediata a los nuevos lanzamientos y consolidar una imagen corporativa coherente ante el mercado.\n\n**Ejemplo práctico:** Yamaha o Mitsubishi utilizan su misma marca corporativa tanto para motocicletas e instrumentos musicales (en el caso de Yamaha) como para climatización, ascensores y automoción (en el caso de Mitsubishi), transfiriendo la percepción de fiabilidad e ingeniería japonesa a cada nueva línea.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Una opción de tipo de marca es \"marca madre y otras marcas\":",
+      "opciones": {
+        "a": "Se trata de que todos los productos de una empresa tengan la misma marca.",
+        "b": "El nombre de la empresa o la marca principal que “firma” y apoya a todas (o a otras) las marcas diferentes de la empresa.",
+        "c": "Cada producto lleva su propia marca que lo identifica en el mercado en el que compite.",
+        "d": "Una empresa puede presentarse al mercado con un portafolio de marcas que vayan dirigidas a diferentes segmentos."
+      },
+      "explicacion": "En la arquitectura de marca respaldada (conocida como 'marca madre y otras marcas' o endorsed brands), la marca corporativa principal actúa como avalista o garante ('firma') de diversas marcas individuales de producto. De este modo, cada submarca mantiene su propio posicionamiento específico en su segmento de mercado, pero se beneficia de la credibilidad, confianza y reputación institucional de la marca madre.\n\n**Ejemplo práctico:** Nestlé aplica esta estrategia al respaldar con su firma y sello corporativo a marcas específicas de su portafolio como KitKat, Nescafé o Nesquik, otorgándoles garantía nutricional y de calidad mientras cada una conserva su personalidad propia.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En cuanto a la propiedad de marca, un licensing consiste en:",
+      "opciones": {
+        "a": "Una marca propiedad de la empresa, registrada a su nombre.",
+        "b": "Marcas que se alquilan por un período de tiempo pactado a otras empresas por una cantidad o royalty a pagar a la empresa propietaria.",
+        "c": "Una marca blanca.",
+        "d": "Cuando una marca pertenece a dos o más empresas propietarias."
+      },
+      "explicacion": "El licensing (o licencia de marca) es un acuerdo contractual mediante el cual el titular registral de una marca (licenciante) cede a otra empresa (licenciatario) el derecho de uso y explotación comercial de dicha marca sobre determinados productos o territorios durante un plazo estipulado, a cambio de una contraprestación económica basada en cánones o royalties sobre las ventas.\n\n**Ejemplo práctico:** The Walt Disney Company o Warner Bros conceden licencias de sus personajes y marcas registradas a fabricantes textiles y de juguetería para que produzcan mochilas o prendas infantiles, cobrando un porcentaje (royalty) por cada unidad vendida sin asumir la fabricación directa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuando la distribución crea sus propias marcas es para:",
+      "opciones": {
+        "a": "Ofrecerlas a sus clientes consumidores y establecer así una relación mucho más profunda con ellos.",
+        "b": "Competir en el mercado en precio-calidad.",
+        "c": "Usar los precios como factor de competencia contra sus otras tiendas competidoras.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "El desarrollo de marcas del distribuidor (MDD o marcas propias) responde a una estrategia integral del comercio minorista: busca fidelizar al consumidor final vinculándolo emocional y racionalmente con la enseña comercial (y no solo con marcas de terceros), ofrecer una propuesta de valor altamente competitiva en términos de relación calidad-precio y emplear el diferencial de precios como herramienta competitiva frente a otras cadenas de distribución.\n\n**Ejemplo práctico:** Mercadona ha consolidado sus marcas propias (Hacendado, Deliplus y Bosque Verde) para fidelizar a sus clientes ('Jefes'), garantizar una excelente relación calidad-precio y diferenciarse frente a cadenas competidoras como Carrefour o Lidl.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Hay empresas que no fabrican productos para marcas del distribuidor. El motivo para no hacerlo es:",
+      "opciones": {
+        "a": "Porque no quieren trasmitir su tecnología de fabricación y la calidad de sus productos a los distribuidores.",
+        "b": "Porque se consigue demasiado volumen.",
+        "c": "Porque el margen es muy grande.",
+        "d": "Porque el margen es muy pequeño."
+      },
+      "explicacion": "Los fabricantes líderes de marcas de fabricante (MDF) que rechazan producir para marcas del distribuidor (MDD) lo hacen por razones estratégicas de protección de sus activos intangibles e industriales: evitar transferir su know-how tecnológico, sus procesos de I+D y sus estándares de calidad al distribuidor, así como impedir que el consumidor perciba que la marca blanca es idéntica a su marca líder a un precio inferior.\n\n**Ejemplo práctico:** Danone o The Coca-Cola Company mantienen la política estratégica de no fabricar marcas blancas para cadenas de supermercados, preservando en exclusiva sus fórmulas, patentes fermentativas y estándares de calidad para sus propias marcas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Para que una marca sea global:",
+      "opciones": {
+        "a": "Debe tener el mismo nombre, posicionamiento, logo y mensaje.",
+        "b": "Debe tener el mismo logo pero el posicionamiento y el nombre pueden ser diferentes.",
+        "c": "Debe dirigirse a diferentes segmentos y debe utilizar distintos estilos publicitarios.",
+        "d": "El precio y el logo pueden variar."
+      },
+      "explicacion": "Una marca global se define por seguir una estrategia de estandarización internacional en la que el nombre comercial, el logotipo, el posicionamiento estratégico y la proposición central del mensaje comunicativo se mantienen uniformes en todos los mercados geográficos donde opera, proyectando una identidad única y consistente a escala mundial.\n\n**Ejemplo práctico:** Apple o Nike mantienen exactamente el mismo nombre, logotipo (la manzana mordida o el Swoosh), posicionamiento de innovación/superación y eslogan central ('Just Do It') tanto en Estados Unidos como en Europa o Asia.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La cartera de marcas:",
+      "opciones": {
+        "a": "Es la cartera donde los comerciales llevan un muestrario de todas las marcas.",
+        "b": "Es el conjunto de marcas y líneas de marca que ofrece una empresa concreta para la venta dentro de una categoría concreta.",
+        "c": "Son las marcas que fabrica una empresa.",
+        "d": "Son las marcas que una empresa fabrica para los distribuidores."
+      },
+      "explicacion": "La cartera o portafolio de marcas (brand portfolio) comprende el conjunto estructurado de todas las marcas y líneas de marca que una empresa comercializa dentro de una categoría de mercado o en el conjunto de sus unidades de negocio, gestionadas de forma coordinada para maximizar la cobertura de mercado y evitar la canibalización interna.\n\n**Ejemplo práctico:** En la categoría de detergentes y cuidado de la ropa, Procter & Gamble (P&G) gestiona una cartera de marcas integrada por Ariel, Dash y Lenor, cubriendo distintos segmentos de beneficios y niveles de precio sin solaparse.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Dentro de una cartera de marcas, éstas pueden desempeñar diversas funciones. Las marcas “defensoras” son aquéllas que:",
+      "opciones": {
+        "a": "Son marcas rentables que generan flujo de caja y en las que hay que invertir relativamente poco para obtener de ellas la máxima rentabilidad.",
+        "b": "Protegen a las marcas más importantes de la empresa de los ataques de la competencia.",
+        "c": "Son aquéllas de precio bajo para poder atraer a clientes.",
+        "d": "Buscan añadir prestigio a la empresa y al resto de las marcas y productos."
+      },
+      "explicacion": "Dentro de la gestión estratégica de la cartera de marcas, las marcas 'defensoras' (también denominadas marcas luchadoras o flanker/fighter brands) se diseñan y posicionan específicamente para hacer frente a la competencia agresiva en precios o a las marcas de distribución, protegiendo así la cuota de mercado, el prestigio y los márgenes de la marca insignia (buque insignia) de la compañía.\n\n**Ejemplo práctico:** El grupo aéreo IAG lanzó Iberia Express y opera con Vueling en determinadas rutas para competir directamente con aerolíneas de bajo coste como Ryanair, protegiendo el posicionamiento premium y las tarifas de su marca principal Iberia en vuelos de largo radio y negocios.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes afirmaciones NO es una tendencia de futuro de las marcas:",
+      "opciones": {
+        "a": "Desarrollo de las marcas de distribución.",
+        "b": "Mayor importancia de los aspectos emocionales de las marcas.",
+        "c": "Disminución en la importancia de las marcas globales.",
+        "d": "Creciente importancia de las marcas nicho muy cercanas a la realidad local."
+      },
+      "explicacion": "En el entorno competitivo contemporáneo, la globalización de los mercados, la digitalización y las economías de escala refuerzan el peso de las marcas globales, las cuales coexisten con el auge de las marcas de distribución, la conexión emocional con el usuario y el surgimiento de marcas nicho hiperespecializadas o locales. Por tanto, afirmar que disminuye la importancia de las marcas globales es falso.\n\n**Ejemplo práctico:** Marcas globales como Samsung, Spotify o Zara continúan incrementando su valor de marca (brand equity) en los rankings internacionales de Interbrand, demostrando que la escala global sigue siendo un vector clave de competitividad junto con la adaptación local.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los consumidores y las marcas:",
+      "opciones": {
+        "a": "El consumidor mandará cada vez menos sobre las marcas.",
+        "b": "Creciente deslealtad de los consumidores hacia las marcas.",
+        "c": "Consumidores cada vez más homogéneos.",
+        "d": "Cada vez habrá menos relación entre consumidores y marcas."
+      },
+      "explicacion": "La evolución del comportamiento del consumidor muestra un comprador más informado, exigente, fragmentado y empoderado digitalmente, lo que se traduce en una creciente infidelidad o deslealtad hacia las marcas tradicionales si estas no renuevan constantemente su propuesta de valor. El consumidor compara activamente alternativas y cambia de marca con mayor facilidad.\n\n**Ejemplo práctico:** En el sector de la telefonía móvil o del comercio electrónico, un usuario que antes permanecía fiel a una marca durante años ahora compara reseñas en línea y especificaciones técnicas, cambiando de Samsung a Xiaomi o de un proveedor de streaming a otro según la oferta vigente.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

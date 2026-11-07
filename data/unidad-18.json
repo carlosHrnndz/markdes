@@ -1,0 +1,126 @@
+{
+  "unidad": 18,
+  "titulo": "Autoevaluación Unidad 18 - El Envase, la Etiqueta y el Embalaje",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las decisiones sobre el envase de un producto:",
+      "opciones": {
+        "a": "Son importantes sólo para decidir la cantidad de producto que va a contener.",
+        "b": "No transmiten ninguna información al consumidor.",
+        "c": "Son un tema complejo que engloba variables como la compatibilidad con la producción a bajo coste, comunicación que transmite al consumidor, cumplimiento de la legislación, etc.",
+        "d": "Es mejor dejarlas en manos de los diseñadores."
+      },
+      "explicacion": "El diseño y selección del envase (*packaging*) constituye una decisión estratégica multidimensional dentro del marketing de producto. No se limita a una función meramente física de contención, sino que debe equilibrar la eficiencia económica en las líneas de envasado y logística, el cumplimiento estricto de normativas técnicas, sanitarias y medioambientales, la ergonomía de uso y la capacidad comunicativa para captar la atención y persuadir al comprador en el lineal (actuando como «vendedor silencioso»).\n\n**Ejemplo práctico:** Al rediseñar los envases de sus salsas, Heinz introdujo la botella de plástico invertida (*top-down*): tuvo que asegurar costes de fabricación competitivos en serie, plásticos aptos para uso alimentario reciclables, facilidad de dosificación sin desperdicio para el usuario y mantener la icónica silueta octogonal que identifica a la marca en el supermercado.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El tamaño del envase NO tiene implicaciones en:",
+      "opciones": {
+        "a": "La cantidad de producto vendida.",
+        "b": "El precio del producto.",
+        "c": "La frecuencia de uso del producto.",
+        "d": "El color del producto."
+      },
+      "explicacion": "Las decisiones sobre el formato o tamaño del envase influyen directamente en variables comerciales clave: los envases grandes o familiares suelen incrementar la cantidad total vendida y fomentar un mayor consumo por ocasión o frecuencia de uso (al haber mayor disponibilidad en el hogar), mientras que los formatos pequeños reducen el desembolso unitario facilitando la prueba del producto. Sin embargo, la dimensión volumétrica del envase no altera las propiedades intrínsecas como el color del producto contenido.\n\n**Ejemplo práctico:** Coca-Cola comercializa desde minilatas de 200 ml (para consumo puntual y control calórico a un precio unitario reducido) hasta botellas familiares de 2 litros (que aumentan el volumen consumido en comidas grupales), manteniéndose inalterado el característico color oscuro de la bebida en todos los formatos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Qué es la etiqueta de un producto?",
+      "opciones": {
+        "a": "Es el elemento que está directamente en contacto con el producto y lo contiene, también lo protege y lo conserva en perfecto estado de uso.",
+        "b": "La información o inscripción que va colocada encima del envase y proporciona al consumidor el nombre de la marca, la descripción del producto, información general, información obligada por la legislación vigente en cada caso, etc.",
+        "c": "La inscripción que va colocada encima del envase pero no proporciona ninguna información.",
+        "d": "La inscripción que protege el producto."
+      },
+      "explicacion": "Desde el punto de vista técnico y normativo, mientras que el envase primario es el recipiente que está en contacto directo con el producto para contenerlo y protegerlo, la etiqueta es la leyenda, marca o inscripción gráfica adherida, impresa o fijada sobre dicho envase. Su cometido esencial es identificar al fabricante y la marca, describir las características del artículo, orientar sobre su modo de empleo y satisfacer las exigencias legales de información y protección al consumidor.\n\n**Ejemplo práctico:** En un tarro de cristal de mermelada Bonne Maman, el frasco de vidrio con tapa metálica constituye el envase primario que conserva el alimento, mientras que el papel adherido en el frontal y reverso —donde figuran la marca, el porcentaje de fruta, el cuadro nutricional, el lote y la fecha de consumo preferente— es la etiqueta.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre las etiquetas de los productos NO es cierta:",
+      "opciones": {
+        "a": "Es un anuncio publicitario y así debe considerarse a la hora de su diseño.",
+        "b": "Es un instrumento de comunicación con el consumidor.",
+        "c": "Contiene mucha información de gran trascendencia.",
+        "d": "A nivel de marketing, no tiene interés."
+      },
+      "explicacion": "Resulta completamente falso afirmar que la etiqueta carece de interés para el marketing. En los modernos sistemas de distribución en régimen de libre servicio (supermercados, hipermercados y comercio electrónico), la etiqueta opera como una herramienta promocional y comunicativa de primer orden: proyecta la identidad visual de la marca, diferencia el producto de sus competidores directos en el lineal y aporta argumentos racionales y emocionales decisivos en el momento exacto de la compra.\n\n**Ejemplo práctico:** En el sector vinícola, marcas como *The Prisoner* o *Matsu* (que utiliza retratos fotográficos de viticultores de distintas generaciones en sus etiquetas) han demostrado cómo el diseño de la etiqueta es determinante para captar la atención del consumidor y posicionar el vino en segmentos *premium* frente a centenares de referencias en la estantería.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Al confeccionar la etiqueta, hay que tener en cuenta:",
+      "opciones": {
+        "a": "El logotipo de la marca.",
+        "b": "Los textos obligados por la ley.",
+        "c": "Los mensajes que queremos transmitir.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "El diseño integral de una etiqueta exige armonizar tres niveles de contenido: la identidad corporativa y de marca (logotipo, símbolos y códigos cromáticos que facilitan el reconocimiento inmediato), la información técnica y legalmente obligatoria (ingredientes, alérgenos, peso neto, origen, caducidad e instrucciones de seguridad) y los mensajes persuasivos o promocionales de marketing (reclamos nutricionales, propuestas de valor o sugerencias de presentación).\n\n**Ejemplo práctico:** En un envase de cereales Kellogg's se integran simultáneamente el logotipo rojo destacado de la marca en la parte superior, los mensajes promocionales sobre el aporte de fibra y vitaminas en el frontal, y el listado legal obligatorio de ingredientes, alérgenos (gluten) y tabla nutricional estandarizada en los laterales.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La trazabilidad consiste en:",
+      "opciones": {
+        "a": "Poder hacer un seguimiento del producto desde el “principio hasta el final”, saber dónde está, en qué parte de la cadena de distribución, cuántas unidades, etc.",
+        "b": "Trazar una separación entre el producto y el envase.",
+        "c": "Es un control de calidad para asegurar que la producción ha sido adecuada.",
+        "d": "Trazar una línea de separación entre la empresa y el consumidor."
+      },
+      "explicacion": "La trazabilidad es la capacidad técnica y organizativa de rastrear y reconstruir el historial, la aplicación o la localización de un producto o lote de productos a través de todas las etapas de aprovisionamiento, fabricación, transformación, almacenaje y distribución comercial hasta el consumidor final. Este seguimiento bidireccional (hacia atrás, hasta las materias primas, y hacia adelante, hasta el punto de venta) resulta crítico para la gestión logística y la seguridad alimentaria o farmacéutica.\n\n**Ejemplo práctico:** Si se detecta una contaminación microbiológica en una partida de lácteos infantiles, el sistema de trazabilidad permite a la empresa identificar en cuestión de horas de qué granja procedía la leche, en qué planta y turno se envasó el lote afectado y a qué supermercados exactos se distribuyeron esas unidades para proceder a su retirada inmediata.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La codificación de los productos:",
+      "opciones": {
+        "a": "Sirve para mantener en secreto el nombre del producto.",
+        "b": "Sólo complica el trabajo.",
+        "c": "Da respuesta a las exigencias de trazabilidad y de seguridad que hay a día de hoy.",
+        "d": "No tiene gran utilidad."
+      },
+      "explicacion": "La codificación estandarizada de los productos (mediante códigos de barras EAN/GTIN, códigos QR o etiquetas de radiofrecuencia RFID) permite identificar de manera unívoca cada unidad comercial y logística a lo largo de la cadena de suministro. Gracias a ello, las empresas satisfacen los estrictos requerimientos actuales de trazabilidad, control de inventarios en tiempo real, agilidad en el punto de venta (TPV) y seguridad para el consumidor.\n\n**Ejemplo práctico:** El sistema de codificación GS1-128 empleado en los palés y cajas de productos frescos de Mercadona permite registrar automáticamente en cada plataforma logística el origen, lote y fecha de caducidad de la mercancía antes de su expedición a las tiendas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Relacionado con el producto y los códigos utilizados para diferenciar a unos de otros, existe el EPC, acrónimo de:",
+      "opciones": {
+        "a": "Electronic Problem Clarification.",
+        "b": "Electronic Product Code.",
+        "c": "Elementary Product Comission.",
+        "d": "Estándar Pyramid Code."
+      },
+      "explicacion": "Las siglas EPC corresponden a *Electronic Product Code* (Código Electrónico de Producto). Se trata de un estándar internacional de identificación única de objetos físicos almacenado habitualmente en etiquetas de identificación por radiofrecuencia (RFID), concebido como evolución del código de barras tradicional (UPC/EAN) para permitir la lectura a distancia sin línea de visión directa y el seguimiento individualizado de cada unidad en tiempo real.\n\n**Ejemplo práctico:** Inditex (Zara) implanta etiquetas RFID con código EPC en las alarmas de sus prendas desde el mismo centro de fabricación; esto permite inventariar una tienda completa en pocos minutos mediante lectores inalámbricos y localizar al instante cualquier talla solicitada por un cliente en el almacén o en el probador.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El embalaje:",
+      "opciones": {
+        "a": "Está compuesto por todos los elementos que contienen a los envases.",
+        "b": "Es un papel de embalar que cubre el producto.",
+        "c": "No tiene interés a nivel de marketing en ningún caso.",
+        "d": "No contiene ningún tipo de información."
+      },
+      "explicacion": "Mientras que el envase primario contiene directamente el producto y el envase secundario agrupa varias unidades de consumo para su venta o presentación, el embalaje (o envase terciario) comprende todos aquellos materiales, cajas, envolturas o palés diseñados para agrupar, unificar y proteger un conjunto de envases durante las operaciones de manipulación, carga, transporte y almacenamiento logístico a lo largo del canal de distribución.\n\n**Ejemplo práctico:** Una colonia se vierte en un frasco de vidrio (envase primario), que se introduce en un estuche de cartón individual (envase secundario); a su vez, 24 estuches se agrupan dentro de una caja de cartón corrugado de alta resistencia retractilada sobre un palé europeo (embalaje) para su transporte seguro desde la fábrica hasta las perfumerías.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La Ley de Residuos y Envases:",
+      "opciones": {
+        "a": "No menciona nada sobre el embalaje.",
+        "b": "Afecta considerablemente al material de embalaje.",
+        "c": "Sólo afecta a los envases.",
+        "d": "Sólo afecta a las etiquetas."
+      },
+      "explicacion": "La legislación medioambiental sobre envases y residuos de envases (como la Ley de Envases y Residuos de Envases y las directivas europeas de economía circular) regula de forma exhaustiva tanto los envases de venta como los envases colectivos y los materiales de embalaje industrial y comercial. Obliga a las empresas a aplicar planes de prevención, ecodiseño (reducción de peso y volumen), uso de materiales reciclados y reciclables, y a asumir la responsabilidad ampliada del productor sobre su gestión final.\n\n**Ejemplo práctico:** Para cumplir con la normativa de residuos y envases, Amazon ha sustituido progresivamente los rellenos plásticos de burbujas y las cajas sobredimensionadas en sus embalajes de envío por sobres de papel reciclado ajustables y cajas certificadas 100 % reciclables que minimizan el volumen de residuo generado.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

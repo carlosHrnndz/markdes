@@ -1,0 +1,126 @@
+{
+  "unidad": 24,
+  "titulo": "Autoevaluación Unidad 24 - Calidad en la Producción y Servicios",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Qué son los requisitos del cliente?",
+      "opciones": {
+        "a": "El presupuesto que el cliente está dispuesto a pagar por un servicio o producto.",
+        "b": "Las necesidades y expectativas que se expresan en la especificación del producto.",
+        "c": "El conjunto de clientes de una empresa.",
+        "d": "La calidad de los clientes."
+      },
+      "explicacion": "En el marco de la gestión de la calidad (ISO 9000), los requisitos del cliente comprenden el conjunto de necesidades y expectativas —tanto explícitas como implícitas o habituales— que se traducen y formalizan en las especificaciones técnicas del producto o servicio para lograr la satisfacción del usuario.\n\n**Ejemplo práctico:** Cuando un cliente contrata un servicio de mensajería urgente 24 horas, sus necesidades de rapidez e integridad del paquete se expresan en la especificación del servicio (entrega antes de las 10:00 h del día siguiente con seguimiento en tiempo real y seguro de rotura).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Qué es el enfoque basado en procesos?",
+      "opciones": {
+        "a": "Un enfoque donde hay muchos procesos.",
+        "b": "Cuando la estrategia de la empresa busca los procesos más innovadores.",
+        "c": "Es la identificación y gestión sistemática de los procesos empleados en la organización y, en particular, las interacciones entre tales procesos.",
+        "d": "Cuando hay un proceso que es el más importante para la empresa."
+      },
+      "explicacion": "El enfoque basado en procesos es un principio fundamental de la gestión de la calidad que consiste en identificar, comprender y gestionar de manera sistemática todas las actividades interrelacionadas que transforman elementos de entrada (inputs) en resultados (outputs) dentro de la organización, prestando especial atención a las interacciones e interfaces entre dichos procesos.\n\n**Ejemplo práctico:** En una fábrica de muebles, el enfoque basado en procesos conecta sistemáticamente el proceso de compras de madera con el de corte, ensamblaje, barnizado y logística, asegurando que la salida de cada etapa cumpla exactamente los estándares que necesita la etapa siguiente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Cuál es el objetivo de la familia de normas ISO 9000?",
+      "opciones": {
+        "a": "Fomentar la adopción del enfoque basado en procesos para gestionar una organización.",
+        "b": "Una serie de normas que llegan hasta 9000.",
+        "c": "Que todas las empresas actúen de forma legal.",
+        "d": "Que las empresas españolas sean competitivas dentro del marco de la Unión Europea."
+      },
+      "explicacion": "La familia de normas internacionales ISO 9000 promueve de forma explícita la adopción de un enfoque basado en procesos al desarrollar, implementar y mejorar la eficacia de un sistema de gestión de la calidad, con el fin de aumentar la satisfacción del cliente mediante el cumplimiento de sus requisitos.\n\n**Ejemplo práctico:** Una empresa de servicios logísticos que implanta la familia de normas ISO 9000 abandona la gestión por departamentos aislados (silos) y organiza su operativa mediante un mapa de procesos estratégicos, operativos y de soporte orientados al cliente.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿Qué es la trazabilidad?",
+      "opciones": {
+        "a": "Una actividad recurrente para aumentar la capacidad para cumplir los requisitos.",
+        "b": "La relación entre el resultado alcanzado y los recursos utilizados.",
+        "c": "La capacidad para seguir la historia, la aplicación o la localización de todo aquello que está bajo consideración.",
+        "d": "El resultado de un proceso."
+      },
+      "explicacion": "De acuerdo con la definición normativa de ISO 9000, la trazabilidad es la capacidad para reconstruir y seguir el historial, la aplicación, el uso o la localización de un producto, servicio o proceso a través de todas las etapas de aprovisionamiento, producción, transformación y distribución mediante identificaciones registradas.\n\n**Ejemplo práctico:** En la industria alimentaria o farmacéutica, un código de lote impreso en un envase de leche permite rastrear exactamente de qué granja procedía la materia prima, en qué fecha y tanque se pasteurizó y a qué supermercados se distribuyó.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La documentación relacionada con los procesos debe ayudar a:",
+      "opciones": {
+        "a": "Formar al personal en la operación de los procesos.",
+        "b": "Compartir conocimiento y experiencia en equipos y grupos de trabajo.",
+        "c": "Medir y auditar los procesos.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La documentación de los procesos dentro de un sistema de gestión de la calidad cumple múltiples funciones estratégicas y operativas: sirve como material didáctico para capacitar y formar al nuevo personal, facilita la preservación y transmisión del saber hacer (know-how) entre equipos de trabajo y aporta la base objetiva de referencia para medir, controlar y auditar los procesos.\n\n**Ejemplo práctico:** El manual de procedimientos operativos estandarizados (SOP) de un laboratorio clínico permite entrenar a los nuevos técnicos de análisis, unificar criterios entre los distintos turnos y disponer de evidencias documentales ante una auditoría externa de certificación ISO 9001.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La norma ISO 9001 hace referencia a:",
+      "opciones": {
+        "a": "La planificación y desarrollo de los procesos necesarios para la realización del producto de forma coherente con los requisitos de calidad.",
+        "b": "La realización de productos o servicios competitivos en el mercado exterior.",
+        "c": "La fabricación de productos que cumplan la normativa legal.",
+        "d": "Las leyes anti-monopolio."
+      },
+      "explicacion": "La norma ISO 9001 establece en sus requisitos para la realización del producto que la organización debe planificar y desarrollar todos los procesos necesarios para la producción y prestación del servicio de manera coherente con los requisitos del producto y con el resto de los procesos del sistema de gestión de la calidad.\n\n**Ejemplo práctico:** Una empresa de desarrollo de software certificada en ISO 9001 planifica sus procesos de ingeniería de requisitos, codificación, pruebas QA y despliegue en servidor de forma alineada con los objetivos de calidad y los acuerdos de nivel de servicio (SLA) pactados.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Cuál de los siguientes NO es un elemento de entrada del proceso?",
+      "opciones": {
+        "a": "La competencia del personal.",
+        "b": "El seguimiento y capacidad del equipo.",
+        "c": "El punto de venta del producto una vez ya está finalizado.",
+        "d": "La salud, la seguridad y el ambiente de trabajo."
+      },
+      "explicacion": "Para planificar y controlar la operativa de un proceso de producción o servicio se consideran elementos de entrada o factores condicionantes internos tales como la competencia técnica del personal, la capacidad y seguimiento de los equipos y las condiciones de salud, seguridad y ambiente de trabajo. En cambio, el punto de venta minorista una vez que el producto ya ha sido totalmente finalizado es externo a la ejecución del proceso productivo.\n\n**Ejemplo práctico:** En el proceso de fabricación de componentes electrónicos en una sala blanca, la cualificación de los operarios, la calibración de las máquinas de soldadura y el control de humedad/temperatura ambiental son entradas críticas del proceso, independientemente de en qué tienda se venda luego el dispositivo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuando la Norma ISO 9001 plantea “la disponibilidad de instrucciones de trabajo, cuando sea necesario”, se trata de un aspecto que es de aplicación en el siguiente caso:",
+      "opciones": {
+        "a": "Cuando la ausencia de procedimientos e instrucciones de trabajo puede afectar a la calidad.",
+        "b": "En todos los casos.",
+        "c": "En ningún caso.",
+        "d": "En casos muy poco habituales."
+      },
+      "explicacion": "La norma ISO 9001 aplica un criterio de proporcionalidad y eficacia documental al exigir 'la disponibilidad de instrucciones de trabajo, cuando sea necesario': esto significa que deben elaborarse y estar disponibles en el puesto de trabajo siempre que su ausencia pueda comprometer o afectar negativamente a la calidad del producto o a la regularidad del proceso.\n\n**Ejemplo práctico:** En una línea de ensamblaje aeronáutico, el apriete de pernos críticos del tren de aterrizaje requiere una instrucción de trabajo detallada con pares de apriete exactos en el puesto del operario, ya que su ausencia pondría en grave riesgo la calidad y seguridad.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuando la Norma ISO 9001 plantea “el uso del equipo apropiado”, hace referencia a:",
+      "opciones": {
+        "a": "Que las máquinas sean lo más nuevas posible.",
+        "b": "Que el equipo a utilizar haya superado el período de garantía por parte del proveedor.",
+        "c": "Que garanticemos que el equipo es apto para el fin al que se ha destinado y que no existen otras dificultades añadidas en la zona de trabajo empleada.",
+        "d": "Que el equipo se haya comprado a un proveedor de confianza."
+      },
+      "explicacion": "El requisito de ISO 9001 relativo al 'uso del equipo apropiado' en la producción y prestación del servicio no exige que la maquinaria sea recién adquirida, sino que la organización garantice técnicamente que el equipamiento empleado posee la capacidad e idoneidad funcional para el fin previsto y que el entorno de la zona de trabajo no presenta interferencias o dificultades añadidas.\n\n**Ejemplo práctico:** Una imprenta industrial cumple este requisito utilizando una rotativa que, aunque tenga cinco años de antigüedad, recibe mantenimiento preventivo riguroso, mantiene la precisión de registro cromático requerida y opera en una nave con ventilación e iluminación óptimas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuando la Norma ISO 9001 habla de “la disponibilidad y uso de equipos de seguimiento y medición”, se refiere a:",
+      "opciones": {
+        "a": "Que los dispositivos que nos permiten mantener el control en la elaboración del producto estén disponibles oportunamente.",
+        "b": "Que los equipos sean buenos.",
+        "c": "Que la gente sepa hacer su trabajo.",
+        "d": "Que la gente tenga la formación adecuada."
+      },
+      "explicacion": "El requisito de 'disponibilidad y uso de equipos de seguimiento y medición' en la norma ISO 9001 garantiza que los operarios y responsables de calidad cuenten en el momento y lugar oportunos con los instrumentos de medida calibrados y verificados necesarios para controlar las variables del proceso y asegurar la conformidad del producto.\n\n**Ejemplo práctico:** En una planta de producción de piezas mecanizadas para automoción, los operarios disponen a pie de máquina de micrómetros y calibres digitales calibrados para verificar en tiempo real que el diámetro de cada eje fabricado se mantiene dentro de las tolerancias micrométricas especificadas.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

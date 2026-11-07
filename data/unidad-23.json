@@ -1,0 +1,126 @@
+{
+  "unidad": 23,
+  "titulo": "Autoevaluación Unidad 23 - Gestión de los Procesos de Diseño y Desarrollo de Nuevos Productos y Servicios (II)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Etapa 3, resultados del diseño y desarrollo, permite que los datos finales de diseño se expresen de muchas formas, como por ejemplo:",
+      "opciones": {
+        "a": "Un diseño de artes gráficas puede presentarse como la maquetación que se utilizará en una publicación.",
+        "b": "Un producto alimenticio puede concretarse por medio de una receta.",
+        "c": "Un diseño de una agencia de publicidad puede presentarse como un plan para una campaña de promoción comercial.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La Etapa 3 (Resultados del diseño y desarrollo / outputs) establece que la materialización final del diseño adopta el formato técnico propio de cada sector o naturaleza del producto/servicio: desde planos de ingeniería o esquemas de maquetación editorial hasta fórmulas químicas, recetas gastronómicas estandarizadas o planes integrales para campañas publicitarias.\n\n**Ejemplo práctico:** En una cadena de restauración organizada como Grupo Vips, el resultado del diseño de un nuevo plato se documenta en una ficha técnica de receta (escandallo de ingredientes, gramajes y tiempos de cocción), mientras que en una editorial se plasma en el arte final maquetado listo para imprenta.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Los resultados del diseño y desarrollo:",
+      "opciones": {
+        "a": "Deben cumplir sólo algunos de los requisitos de los elementos de entrada para el diseño y desarrollo.",
+        "b": "No deben proporcionar información apropiada para la compra.",
+        "c": "No deben hacer referencia a los criterios de aceptación del producto.",
+        "d": "Deben especificar las características del producto que son esenciales para el uso seguro y correcto."
+      },
+      "explicacion": "Según los requisitos de la norma ISO 9001, los resultados del diseño y desarrollo deben cumplir todos los requisitos de los elementos de entrada, proporcionar información adecuada para las compras, producción y prestación del servicio, contener o referenciar los criterios de aceptación del producto y especificar las características esenciales para su uso seguro y correcto.\n\n**Ejemplo práctico:** El resultado del diseño de un electrodoméstico industrial incluye obligatoriamente las especificaciones de aislamiento eléctrico, los límites de tensión y el manual de advertencias operativas para garantizar un uso seguro y evitar accidentes laborales.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La etapa 4, revisión del diseño y desarrollo, responde a la pregunta:",
+      "opciones": {
+        "a": "¿Vamos por el camino correcto?",
+        "b": "¿A dónde vamos?",
+        "c": "¿Cuándo llegaremos?",
+        "d": "¿Cuál es el camino?"
+      },
+      "explicacion": "La Etapa 4 (Revisión del diseño y desarrollo) consiste en evaluaciones sistemáticas realizadas en fases planificadas del proyecto para analizar la capacidad de los resultados parciales de cumplir los requisitos e identificar cualquier problema a tiempo. Por ello, sintetiza la pregunta de control de gestión: '¿Vamos por el camino correcto?'.\n\n**Ejemplo práctico:** A mitad del desarrollo de una nueva aplicación móvil de banca, el comité de proyecto celebra una reunión de revisión de diseño (design review) para evaluar si la arquitectura en curso cumple los plazos y estándares de ciberseguridad previstos o si requiere reconducirse.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Al decidir cuántas revisiones se necesitarán, hay que considerar:",
+      "opciones": {
+        "a": "Quién hace el diseño.",
+        "b": "La delimitación en el tiempo del proceso de diseño.",
+        "c": "Quién paga el diseño.",
+        "d": "Se deben hacer todas las revisiones necesarias sin ningún tipo de consideración."
+      },
+      "explicacion": "La determinación del número y frecuencia de las revisiones de diseño depende de la complejidad del proyecto y, de manera crítica, de la delimitación temporal (cronograma y duración) del proceso de diseño: un diseño breve y sencillo puede requerir una única revisión, mientras que proyectos largos y complejos exigen múltiples hitos de revisión escalonados.\n\n**Ejemplo práctico:** El diseño de un folleto promocional con un plazo de una semana puede requerir una sola revisión antes de enviarlo a imprenta, mientras que el diseño de una aeronave en Airbus (que abarca varios años) exige decenas de revisiones formales por fases (PDR, CDR).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes opciones NO es un ejemplo de puntos a considerar en las revisiones:",
+      "opciones": {
+        "a": "Datos del ciclo de vida sobre el desempeño del producto.",
+        "b": "Identificación y corrección de problemas.",
+        "c": "Oportunidades para mejorar el proceso de diseño y desarrollo.",
+        "d": "La personalidad del director del proyecto."
+      },
+      "explicacion": "Las revisiones del diseño y desarrollo son evaluaciones técnico-objetivas centradas en el desempeño del producto durante su ciclo de vida, la detección y corrección de fallos o no conformidades y la identificación de oportunidades de mejora del propio proceso. Aspectos subjetivos o personales como la personalidad del director del proyecto son ajenos a los criterios técnicos de revisión.\n\n**Ejemplo práctico:** En una sesión de revisión de diseño de un nuevo envase farmacéutico, los ingenieros analizan la resistencia del blíster a la humedad (ciclo de vida) y corrigen un defecto en el troquelado (identificación de problemas), basándose exclusivamente en datos técnicos.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Para verificar un diseño:",
+      "opciones": {
+        "a": "Hay muchas formas de hacerlo, como por ejemplo realizar ensayos y demostraciones.",
+        "b": "Sólo se puede realizar de una manera.",
+        "c": "No se pueden verificar los diseños.",
+        "d": "No hace falta verificar los diseños."
+      },
+      "explicacion": "La verificación del diseño (Etapa 5) admite múltiples metodologías objetivas para comprobar que los resultados del diseño cumplen con los requisitos de entrada: realización de ensayos y demostraciones experimentales, ejecución de cálculos alternativos, comparación del nuevo diseño con un diseño probado similar o revisión de los documentos antes de su liberación.\n\n**Ejemplo práctico:** Una empresa de ingeniería civil verifica el diseño estructural de un puente tanto mediante simulaciones informáticas de carga y ensayos en túnel de viento como realizando cálculos de resistencia mediante un método matemático alternativo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "En la etapa de validación del diseño y desarrollo:",
+      "opciones": {
+        "a": "Es cuando se inicia el proceso.",
+        "b": "Se verifica que el producto final podrá satisfacer o ya satisface las necesidades del cliente.",
+        "c": "Es cuando se acaba el proceso.",
+        "d": "No es ninguna etapa del proceso."
+      },
+      "explicacion": "La validación del diseño y desarrollo (Etapa 6) tiene por objeto confirmar, mediante evidencia objetiva, que el producto o servicio resultante es capaz de satisfacer los requisitos para su aplicación especificada o uso previsto por el cliente final en condiciones reales o simuladas de operación.\n\n**Ejemplo práctico:** Mientras que la verificación de un navegador GPS comprueba en laboratorio que el software cumple las especificaciones técnicas, la validación consiste en instalar el GPS en vehículos reales y conducir por carretera con usuarios para confirmar que guía eficazmente al conductor hasta su destino.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La etapa de control de los cambios y del diseño y desarrollo responde a la pregunta:",
+      "opciones": {
+        "a": "¿Se ha empezado el proceso?",
+        "b": "¿Se ha validado el proceso?",
+        "c": "¿Se han realizado los cambios?",
+        "d": "¿El proceso ha finalizado?"
+      },
+      "explicacion": "La séptima y última etapa del proceso —el control de los cambios del diseño y desarrollo— se centra en identificar, registrar, revisar, verificar, validar y aprobar cualquier modificación introducida en el diseño antes de su implementación, respondiendo operativamente a la cuestión de seguimiento: '¿Se han realizado los cambios?'.\n\n**Ejemplo práctico:** Si tras las pruebas iniciales de un automóvil se decide sustituir el material de las pastillas de freno, la etapa de control de cambios audita y documenta que la modificación ha sido aprobada, probada e incorporada efectivamente en los planos definitivos de fabricación.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La etapa de control de los cambios y del diseño y desarrollo se realiza:",
+      "opciones": {
+        "a": "Al principio.",
+        "b": "Al final.",
+        "c": "No es una etapa del proceso.",
+        "d": "No es necesario realizarla."
+      },
+      "explicacion": "Dentro de la secuencia metodológica de las 7 etapas del proceso de diseño y desarrollo presentada en el temario (1. Planificación, 2. Elementos de entrada, 3. Resultados, 4. Revisión, 5. Verificación, 6. Validación y 7. Control de los cambios), el control de los cambios constituye la séptima etapa, situándose al final del esquema secuencial para gestionar las modificaciones derivadas de las fases previas o de la vida del producto.\n\n**Ejemplo práctico:** Al concluir las fases de verificación y validación de un nuevo modelo de impresora 3D, el departamento de ingeniería cierra el ciclo aplicando el protocolo de control de cambios (etapa 7) para consolidar la versión final de producción.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los cambios del diseño:",
+      "opciones": {
+        "a": "Pueden hacer necesario plantear la posibilidad de efectuar una revisión del contrato con el cliente.",
+        "b": "No tienen ninguna repercusión.",
+        "c": "Nunca aparecen.",
+        "d": "Implican dejar el diseño tal como está."
+      },
+      "explicacion": "Cualquier modificación en el diseño puede alterar las prestaciones, los plazos de entrega, los costes o las especificaciones técnicas originalmente pactadas, además de afectar a componentes ya fabricados. Por ello, la gestión de cambios del diseño puede requerir revisar formalmente el contrato suscrito con el cliente para consensuar y autorizar las nuevas condiciones.\n\n**Ejemplo práctico:** Si una constructora que diseña y edifica una planta industrial detecta la necesidad de cambiar el diseño de la cimentación por condiciones geotécnicas imprevistas, debe evaluar el impacto en coste y plazo y tramitar una adenda o revisión del contrato con el cliente promotor.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

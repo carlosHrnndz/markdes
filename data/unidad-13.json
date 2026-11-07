@@ -1,0 +1,126 @@
+{
+  "unidad": 13,
+  "titulo": "Autoevaluación Unidad 13 - Introducción al Producto o Servicio como Variable del Marketing",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "La P de producto del marketing-mix incluye:",
+      "opciones": {
+        "a": "La distribución del producto y los intermediarios que intervienen.",
+        "b": "La comunicación y promoción del producto o servicio.",
+        "c": "Las características y beneficios del producto para el consumidor.",
+        "d": "El precio o descuentos del producto."
+      },
+      "explicacion": "Dentro del modelo tradicional del marketing-mix (las 4 P de McCarthy: Producto, Precio, Distribución/Place y Promoción), la variable Producto engloba el conjunto de atributos tangibles e intangibles, características técnicas, diseño, marca, envase y, fundamentalmente, la propuesta de beneficios funcionales y emocionales orientados a satisfacer las necesidades y deseos del consumidor. Las demás opciones corresponden respectivamente a las variables de distribución (Place), comunicación (Promotion) y precio (Price).\n\n**Ejemplo práctico:** Cuando Apple diseña el iPhone, la P de producto abarca desde su chasis de titanio, la resolución de su cámara y el sistema operativo iOS (características) hasta la facilidad de uso, seguridad y estatus que experimenta el usuario al utilizarlo (beneficios para el consumidor).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La P de producto o servicio también se denomina desde la perspectiva del consumidor como:",
+      "opciones": {
+        "a": "Coste.",
+        "b": "Valor para el consumidor.",
+        "c": "Comodidad.",
+        "d": "Comunicación."
+      },
+      "explicacion": "En la evolución del marketing hacia un enfoque centrado en el cliente (modelo de las 4 C de Lauterborn: Consumidor/Valor para el consumidor, Coste, Conveniencia/Comodidad y Comunicación), la P de Producto o servicio se traduce como el 'Valor para el consumidor' (Customer value). Esto se debe a que el cliente no adquiere un bien por sus especificaciones físicas aisladas, sino por la solución y el valor percibido que dicho producto o servicio le aporta frente a una necesidad.\n\n**Ejemplo práctico:** Un cliente que contrata Spotify Premium no piensa en la arquitectura de servidores ni en los algoritmos de compresión de audio (el producto técnico), sino en el valor de acceder instantáneamente y sin anuncios a millones de canciones desde cualquier dispositivo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La P de producto incluye:",
+      "opciones": {
+        "a": "Bienes físicos, servicios y experiencias.",
+        "b": "El cliente.",
+        "c": "El consumidor.",
+        "d": "El fabricante."
+      },
+      "explicacion": "En la teoría contemporánea de marketing (Kotler y Keller), el concepto de producto no se limita exclusivamente a objetos materiales, sino que abarca cualquier oferta susceptible de ser comercializada en un mercado para satisfacer un deseo o necesidad. Por tanto, la variable producto integra bienes físicos tangibles, servicios intangibles y experiencias memorables diseñadas para el usuario (además de ideas, lugares o eventos).\n\n**Ejemplo práctico:** The Walt Disney Company comercializa una oferta integral de producto que incluye bienes físicos (merchandising y juguetes en Disney Store), servicios (plataformas de streaming como Disney+ y hostelería) y experiencias inmersivas completas (visitar los parques temáticos de Disneyland).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Existen varios niveles de producto. Cuál de los siguientes NO es uno de ellos:",
+      "opciones": {
+        "a": "Producto básico.",
+        "b": "Producto esperado.",
+        "c": "Producto aumentado.",
+        "d": "Producto de distribución."
+      },
+      "explicacion": "Según la jerarquía de niveles de producto formulada por Theodore Levitt y desarrollada por Philip Kotler, un producto se estructura en cinco niveles concéntricos que añaden valor progresivo para el cliente: beneficio o producto básico, producto genérico, producto esperado, producto aumentado (o incrementado) y producto potencial. El término 'producto de distribución' no existe dentro de esta clasificación teórica de los niveles del producto.\n\n**Ejemplo práctico:** En un hotel de negocios como NH Collection, el producto básico es el descanso nocturno; el producto esperado incluye una cama limpia, baño privado y conexión Wi-Fi gratuita; y el producto aumentado incorpora check-out tardío sin coste, carta de almohadas y gimnasio 24 horas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿Qué es el producto básico?",
+      "opciones": {
+        "a": "Aquel servicio o beneficio básico que los consumidores buscan cuando compran el producto.",
+        "b": "El producto que sobrepasa en alguna característica las expectativas de los consumidores.",
+        "c": "Un producto mejorado.",
+        "d": "El producto actual en el futuro."
+      },
+      "explicacion": "El producto básico (o beneficio central, 'core benefit') constituye el primer nivel fundamental de la dimensión del producto y hace referencia a la necesidad esencial o servicio intrínseco que el comprador realmente busca resolver con su adquisición. Como señalaba Levitt, el consumidor no compra el objeto físico en sí, sino la solución o beneficio nuclear que este le proporciona.\n\n**Ejemplo práctico:** Como ilustró célebremente Theodore Levitt, quien compra una broca de un cuarto de pulgada en una ferretería como Leroy Merlin no desea el cilindro metálico en sí (el bien tangible), sino un agujero de un cuarto de pulgada en la pared (el beneficio o producto básico).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Características de los servicios:",
+      "opciones": {
+        "a": "Intangibles, heterogéneos y variables.",
+        "b": "No perdurables. No se pueden guardar ni almacenar.",
+        "c": "De mayor contacto y relación con el cliente (usuario), que es directo y continuado. La confianza es pieza clave.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Los servicios presentan propiedades diferenciales frente a los bienes físicos puros que condicionan su gestión comercial: son intangibles (no se pueden tocar ni evaluar sensorialmente antes de su compra), heterogéneos o variables (su calidad depende de quién, cuándo y cómo los preste), perecederos o no perdurables (no se pueden almacenar en inventario para su venta posterior) e inseparables (requieren una interacción directa y continuada con el cliente, donde la confianza resulta determinante).\n\n**Ejemplo práctico:** En una consulta médica privada en Sanitas, el paciente no puede 'almacenar' una cita no utilizada (carácter perecedero), la experiencia varía según el facultativo que le atienda (heterogeneidad) y el éxito del servicio depende del trato directo y la confianza depositada en el profesional (intangibilidad y relación continuada).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre los servicios es FALSA:",
+      "opciones": {
+        "a": "Permiten una mayor personalización de la oferta, a medida del cliente.",
+        "b": "Prima el factor confianza y seguridad.",
+        "c": "La imagen y reputación de la empresa, así como las personas que se relacionan con el cliente, no son parte importante ni inseparable del servicio.",
+        "d": "Los clientes pueden plantear demandas particulares para que el servicio se entregue a su medida (Customización = a medida)."
+      },
+      "explicacion": "Es falso afirmar que la imagen corporativa, la reputación de la empresa y el personal en contacto con el público no sean relevantes ni inseparables del servicio. Al contrario, debido a la intangibilidad e inseparabilidad de los servicios, el factor humano (empleados de primera línea o 'front-office') y el prestigio de la marca actúan como indicadores esenciales de calidad y tangibilización, siendo inseparables de la propia prestación.\n\n**Ejemplo práctico:** En la banca privada de entidades como Bankinter o Santander Private Banking, el gestor patrimonial asignado al cliente y la reputación de solvencia del banco son parte indisociable del servicio financiero; una mala atención del asesor deteriora inmediatamente la percepción global del servicio recibido.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes opciones NO es una tendencia actual respecto a los productos y servicios:",
+      "opciones": {
+        "a": "Los productos tienen cada vez más servicios incorporados y los servicios tienen cada vez más materia incorporada.",
+        "b": "Hay una gran diferencia entre productos y servicios.",
+        "c": "Se está produciendo una convergencia entre servicios y productos, intangibles y tangibles.",
+        "d": "A los productos se les están añadiendo características intangibles y a los servicios se le suman elementos tangibles."
+      },
+      "explicacion": "En la economía actual, la frontera rígida entre bienes físicos y servicios se ha diluido notablemente, por lo que afirmar que 'hay una gran diferencia entre productos y servicios' no representa una tendencia vigente. Por el contrario, asistimos a una marcada convergencia (servitización de los productos y tangibilización de los servicios), donde los bienes incorporan cada vez más prestaciones intangibles y los servicios se apoyan en soportes físicos.\n\n**Ejemplo práctico:** Fabricantes industriales como Michelin o Rolls-Royce ya no venden únicamente neumáticos o turbinas de aviación (bienes tangibles), sino contratos de mantenimiento predictivo y pago por kilómetro o por hora de vuelo ('Power by the Hour'), fusionando producto físico y servicio.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los productos han evolucionado con el tiempo en lo que se denomina la “progresión en la cadena de valor”, que consiste en:",
+      "opciones": {
+        "a": "Pasar de productos genéricos o commodities a productos de marcas diferenciadas, servicios, experiencias y finalmente transformaciones.",
+        "b": "Fomentar que todos los productos sean commodities.",
+        "c": "Hacer que todo producto tenga su marca.",
+        "d": "Evitar las experiencias en la compra de productos."
+      },
+      "explicacion": "El modelo de la 'progresión del valor económico' (formulado por Pine y Gilmore en su teoría de la Economía de la Experiencia) explica cómo las ofertas evolucionan históricamente para escapar de la comoditización y aumentar su margen y diferenciación: parten de materias primas o productos genéricos (commodities), pasan a bienes estandarizados con marca diferenciada, evolucionan hacia servicios personalizados, ascienden a experiencias memorables y culminan en transformaciones duraderas en el cliente.\n\n**Ejemplo práctico:** El grano de café verde a granel es una commodity de bajo precio; envasado por Marcilla en el supermercado pasa a ser un bien de marca diferenciada; servido en una cafetería de barrio es un servicio; pero consumido en un Starbucks Reserve Roastery se convierte en una experiencia multisensorial por la que el cliente paga un precio muy superior.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La “progresión de la cadena de valor” conlleva que las empresas más avanzadas estén orientadas a:",
+      "opciones": {
+        "a": "El precio.",
+        "b": "El producto.",
+        "c": "La comunicación.",
+        "d": "Los servicios y experiencias que proporciona un producto."
+      },
+      "explicacion": "Como consecuencia de la progresión en la cadena de valor, las organizaciones líderes y más avanzadas del mercado superan la mera fabricación de objetos o la competencia exclusiva en precios, orientando su estrategia hacia la creación de servicios de valor añadido y experiencias integrales en torno al producto que generen un vínculo emocional y una diferenciación difícilmente imitable.\n\n**Ejemplo práctico:** Nespresso no compite simplemente vendiendo cápsulas de aluminio con café molido, sino que articula toda su ventaja competitiva en torno a la experiencia de degustación en sus boutiques exclusivas, el servicio de reciclaje y las ventajas del club de fidelización Nespresso & You.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

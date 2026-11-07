@@ -1,0 +1,126 @@
+{
+  "unidad": 11,
+  "titulo": "Autoevaluación Unidad 11 - Optimización de los Medios Sociales (SMO)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las siglas SMO son acrónimo de:",
+      "opciones": {
+        "a": "Social Media Organization.",
+        "b": "Social Media Optimization.",
+        "c": "Security Margin Organization.",
+        "d": "Service Measuring Organization."
+      },
+      "explicacion": "Las siglas **SMO** corresponden a *Social Media Optimization* (Optimización de los Medios Sociales), concepto acuñado originalmente por Rohit Bhargava para referirse al conjunto de estrategias y acciones orientadas a optimizar un sitio web y sus contenidos con el fin de facilitar su difusión, enlazado y visibilidad en las redes y medios sociales.\n\n**Ejemplo práctico:** Una tienda online de deporte aplica **SMO** integrando botones de compartir en redes sociales en cada ficha de producto, optimizando las etiquetas *Open Graph* para que las previsualizaciones en LinkedIn o X sean atractivas y creando guías descargables fácilmente viralizables.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La Regla 1 del SMO habla de “Aumentar los links hacia tu web”, lo cual consiste en:",
+      "opciones": {
+        "a": "Facilitar que la web se pueda añadir como favoritos.",
+        "b": "Hacer la web popular en las redes sociales.",
+        "c": "Facilitar y aumentar los links (enlaces) desde las redes sociales hacia el contenido de la web.",
+        "d": "Enlazarse con los consumidores."
+      },
+      "explicacion": "La Regla 1 del SMO formulada por Rohit Bhargava («Aumentar los links hacia tu web» / *Increase your linkability*) consiste en crear contenido de valor, recursos, agregaciones o herramientas que incentiven y faciliten que los blogs y medios sociales enlacen de forma natural hacia las páginas de nuestro sitio web, rompiendo el estatismo de las webs corporativas tradicionales.\n\n**Ejemplo práctico:** Una empresa de software SEO como **Ahrefs** publica estudios estadísticos gratuitos y herramientas abiertas en su web; gracias a ello, miles de blogueros y usuarios en redes sociales enlazan directamente hacia esos estudios como fuente de referencia.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La Regla 5 del SMO consiste en “Animar el mashup (híbridos)”, lo que significa:",
+      "opciones": {
+        "a": "Ayudar al contenido a viajar.",
+        "b": "Co-creación, dejar que los otros utilicen tus contenidos para crear otros.",
+        "c": "Crear enlaces.",
+        "d": "Destruir enlaces."
+      },
+      "explicacion": "La Regla 5 del SMO («Animar el *mashup*» o creación de híbridos) promueve la co-creación y la apertura de los contenidos (por ejemplo, mediante licencias abiertas, códigos de inserción *embed* o APIs) para permitir que otros usuarios y desarrolladores reutilicen, combinen o integren nuestros contenidos para generar nuevas creaciones que amplifican el alcance de la marca.\n\n**Ejemplo práctico:** **YouTube** y **Spotify** permiten insertar (*embed*) sus reproductores en cualquier blog de terceros, y **Google Maps** ofrece su API para que portales inmobiliarios como **Idealista** creen *mashups* combinando mapas interactivos con ofertas de viviendas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Según la regla 9 del SMO hay que “Aprender cómo llegar a la audiencia”, para la cual cosa hay que:",
+      "opciones": {
+        "a": "Centrarse en una audiencia específica que encontrará interesante nuestros contenidos y procurar agradar al que de verdad está interesado.",
+        "b": "Unirse a la conversación.",
+        "c": "Participar.",
+        "d": "Crear enlaces."
+      },
+      "explicacion": "La Regla 9 del SMO («Aprender cómo llegar a la audiencia») subraya que pretender gustar a todo el mundo de forma indiscriminada diluye el impacto; por el contrario, la marca debe identificar y centrarse en su público objetivo específico (*niche audience*), comprendiendo sus intereses reales y diseñando contenidos que satisfagan genuinamente a quienes están interesados en su propuesta.\n\n**Ejemplo práctico:** Una marca de equipamiento técnico de escalada como **Petzl** no publica memes genéricos para captar tráfico masivo irrelevante, sino tutoriales de seguridad vertical y reportajes de alpinismo dirigidos específicamente a la comunidad de escaladores.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Para que tenga éxito una estrategia de medios sociales, debe apoyarse como elemento básico en:",
+      "opciones": {
+        "a": "La conectividad.",
+        "b": "La generosidad.",
+        "c": "El ser humano.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "El éxito sostenible de una estrategia en medios sociales descansa sobre tres pilares esenciales: la **conectividad** (aprovechar la red de enlaces y plataformas), la **generosidad** (compartir conocimiento útil, enlazar a otros y aportar valor sin exigir retorno inmediato) y, ante todo, **el ser humano** (recordar que detrás de cada perfil hay personas que buscan conversaciones auténticas y empáticas).\n\n**Ejemplo práctico:** Una marca de alimentación saludable comparte gratuitamente recetarios elaborados por nutricionistas (generosidad), facilita su difusión multicanal (conectividad) y responde de manera cercana y personalizada a las dudas de cada seguidor (enfoque humano).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Por qué es importante la imaginación en una estrategia de SMO?",
+      "opciones": {
+        "a": "Porque hay que conectar con el público.",
+        "b": "Porque hay que ser honesta.",
+        "c": "Para que no decaiga el diálogo y siempre haya historias o bromas nuevas.",
+        "d": "Para evitar la competencia."
+      },
+      "explicacion": "En una estrategia de SMO, la imaginación y la creatividad son determinantes para mantener vivo el interés de la comunidad, evitando que la conversación se vuelva monótona o repetitiva mediante la aportación constante de nuevos enfoques, historias (*storytelling*), dinámicas participativas o toques de humor.\n\n**Ejemplo práctico:** La cuenta de redes sociales de **Netflix España** o **KFC** utiliza continuamente la imaginación con giros de guion, referencias culturales y humor fresco para que el diálogo diario con sus seguidores nunca decaiga ni resulte predecible.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Cuál es la era de las redes sociales que ya ha finalizado?",
+      "opciones": {
+        "a": "Era de las relaciones sociales.",
+        "b": "Era de la funcionalidad social.",
+        "c": "Era de la colonización social.",
+        "d": "Era del contexto social."
+      },
+      "explicacion": "Según el informe prospectivo de Forrester Research sobre la evolución de los medios sociales (*The Future of the Social Web*), la primera etapa —la **Era de las relaciones sociales** (*Era of Social Relationships*)—, caracterizada por el descubrimiento inicial de la conexión entre amigos y perfiles básicos en redes pioneras, ya ha sido superada dando paso a eras más avanzadas de funcionalidad, colonización, contexto y comercio social.\n\n**Ejemplo práctico:** El uso primigenio de redes como **MySpace** o los primeros años de **Tuenti**, donde la novedad consistía simplemente en localizar conocidos y agregar contactos a una lista de amigos, dio paso a ecosistemas complejos de aplicaciones, contenido algorítmico y social commerce.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La era de las relaciones sociales es aquélla en que:",
+      "opciones": {
+        "a": "Todavía no hay relaciones sociales a través de Internet.",
+        "b": "Todavía no existía Internet.",
+        "c": "Los individuos empezaron a conectarse formando grupos online y creando un mundo más conectado.",
+        "d": "Se acaba Internet."
+      },
+      "explicacion": "La **Era de las relaciones sociales** fue aquella etapa fundacional de la web social en la que los individuos comenzaron a registrarse en plataformas online para conectarse entre sí, crear perfiles personales y formar grupos virtuales, tejiendo un mundo digital más interconectado.\n\n**Ejemplo práctico:** Cuando millones de antiguos alumnos universitarios comenzaron a abrir sus primeros perfiles en **Facebook** para reencontrarse con compañeros de promoción y crear grupos de su facultad, protagonizaron la era de las relaciones sociales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En la era del comercio social, los consumidores:",
+      "opciones": {
+        "a": "Darán el poder a las comunidades para hacer grupos de compras.",
+        "b": "No se conectarán a Internet.",
+        "c": "Los grupos de compras no tendrán ningún poder.",
+        "d": "El comercio será socialmente sostenible."
+      },
+      "explicacion": "En la **Era del comercio social** (*Social Commerce*), el poder de prescripción y negociación se traslada de las marcas individuales hacia las comunidades de consumidores conectados, quienes comparten reseñas, organizan compras colectivas, demandan productos co-creados y condicionan las decisiones de compra en tiempo real.\n\n**Ejemplo práctico:** Plataformas de compra colectiva o comunidades de usuarios que se agrupan en foros y redes para negociar descuentos por volumen en la compra conjunta de paneles solares o vehículos eléctricos ejemplifican el poder comunitario en el comercio social.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Como recomendaciones para el futuro dirigidas a adaptar las herramientas de marketing online a las nuevas tendencias que están llegando, destaca:",
+      "opciones": {
+        "a": "No prestar demasiada atención ni dejarse influenciar por los nuevos líderes de opinión que irán apareciendo en las comunidades.",
+        "b": "Las empresas y los profesionales de marketing deberán estar informados de los cambios que vayan sucediendo en los medios sociales, aunque éstos tendrán muy poca repercusión.",
+        "c": "Pedir información de forma cada vez más directa a los usuarios, ya que éstos estarán dispuestos a dársela con gran facilidad.",
+        "d": "Las empresas y los profesionales de marketing deberán estudiar las redes sociales y su evolución, entenderlas e incluirlas en la cultura interna de la empresa para sacarles el máximo provecho y beneficio."
+      },
+      "explicacion": "Para adaptarse con éxito a las tendencias de los medios sociales, las organizaciones y los profesionales de marketing no pueden limitarse a acciones tácticas aisladas: deben estudiar continuamente la evolución de las redes sociales, comprender sus dinámicas e integrarlas dentro de la propia cultura corporativa de la empresa para obtener el máximo retorno estratégico.\n\n**Ejemplo práctico:** **L'Oréal** integra la cultura digital y el análisis de tendencias de redes sociales en todos sus departamentos —desde I+D hasta atención al cliente y dirección general—, capacitando a sus equipos para detectar microtendencias en TikTok e Instagram y transformarlas en lanzamientos reales.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

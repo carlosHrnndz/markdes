@@ -1,0 +1,126 @@
+{
+  "unidad": 28,
+  "titulo": "Autoevaluación Unidad 28 - Control de No Conformidades en Nuevos Productos y Servicios",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Qué es un requisito?",
+      "opciones": {
+        "a": "Una necesidad o expectativa establecida, generalmente implícita u obligatoria.",
+        "b": "Una regla o norma.",
+        "c": "Una característica específica que debe tener el producto.",
+        "d": "Una norma de actuación."
+      },
+      "explicacion": "Según la definición oficial de la norma internacional ISO 9000, un «requisito» es una necesidad o expectativa establecida, ya sea declarada explícitamente (en un contrato, plano o especificación técnica), generalmente implícita (por la costumbre o práctica habitual de la organización y sus clientes para el uso previsto) u obligatoria (impuesta por leyes o reglamentos aplicables).\n\n**Ejemplo práctico:** Al adquirir un casco de motocicleta, el comprador establece como requisito explícito que sea de talla M y color negro mate, espera como requisito implícito que la visera sea transparente y permita ver con nitidez, y se exige como requisito obligatorio que cumpla con la homologación de impacto reglamentaria ECE 22.06.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "¿Qué se entiende por acción correctiva?",
+      "opciones": {
+        "a": "Una acción tomada sobre un producto no conforme para impedir su uso inicialmente previsto y eliminarlo.",
+        "b": "Es una acción de reparación.",
+        "c": "Es una acción de desecho.",
+        "d": "Una acción tomada para eliminar la causa de una no conformidad detectada u otra situación indeseable."
+      },
+      "explicacion": "De acuerdo con la norma ISO 9000 e ISO 9001, una «acción correctiva» es aquella que se emprende para eliminar la causa raíz de una no conformidad detectada o de otra situación indeseable, con el propósito específico de prevenir que vuelva a ocurrir (recurrencia). No debe confundirse con la simple «corrección» (como reparar, reprocesar o desechar el producto defectuoso puntual), que actúa solo sobre el síntoma o efecto inmediato.\n\n**Ejemplo práctico:** Al detectarse que un lote de cajas de cartón presenta el logotipo impreso desplazado, la corrección inmediata consiste en retirar dicho lote, pero la acción correctiva consiste en investigar la causa raíz (un rodillo guía desgastado en la impresora flexográfica), sustituir el rodillo por uno reforzado e incluir su revisión semanal en el plan de mantenimiento preventivo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Qué es un producto no conforme?:",
+      "opciones": {
+        "a": "Un producto que no es uniforme.",
+        "b": "Un producto que incumple con uno o varios de sus requisitos.",
+        "c": "Un producto que no gusta a la Dirección General.",
+        "d": "Un producto que no gusta al cliente."
+      },
+      "explicacion": "En la terminología de gestión de la calidad (ISO 9000), la «no conformidad» se define como el incumplimiento de un requisito. Por consiguiente, un «producto no conforme» es todo aquel producto o servicio que incumple uno o varios de los requisitos establecidos para el mismo, ya sean especificaciones del cliente, estándares internos de fabricación o normativas legales.\n\n**Ejemplo práctico:** En una fábrica de tornillería aeronáutica cuya especificación exige un diámetro de vástago de $10{,}00 \\pm 0{,}02\\text{ mm}$, cualquier lote de tornillos que en la medición micrométrica arroje un diámetro de $10{,}05\\text{ mm}$ se clasifica automáticamente como producto no conforme, aunque visualmente parezca uniforme.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El primer paso para tratar los productos no conformes es su identificación. Para ello, hay que determinar los requisitos relacionados con el producto, concretamente:",
+      "opciones": {
+        "a": "Los requisitos especificados por el cliente.",
+        "b": "Los requisitos no establecidos por el cliente pero necesarios para el uso especificado o para el uso previsto.",
+        "c": "Los requisitos legales y reglamentarios aplicables al producto.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Conforme al apartado de determinación de los requisitos relacionados con el producto de la Norma ISO 9001, para poder identificar si un producto es conforme o no conforme la organización debe haber determinado previamente tres bloques integrales de requisitos: los especificados por el cliente (incluyendo entrega y posventa), los no declarados por el cliente pero indispensables para el uso previsto y los legales o reglamentarios aplicables.\n\n**Ejemplo práctico:** Un fabricante de cunas infantiles determina para su control de calidad los requisitos del cliente (medidas y acabado en madera de haya), los requisitos funcionales implícitos de uso previsto (estabilidad estructural y facilidad de montaje) y los requisitos reglamentarios europeos (distancia segura entre barrotes y pinturas atóxicas libres de plomo).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuando se detecta un producto no conforme, existen varias alternativas. Cuál de las siguientes opciones NO se debe seguir:",
+      "opciones": {
+        "a": "Reprocesar el producto para satisfacer los requisitos especificados.",
+        "b": "Poner el producto a la venta sin necesidad de concesión.",
+        "c": "Reclasificar el producto para otras aplicaciones.",
+        "d": "Rechazar o desechar el producto."
+      },
+      "explicacion": "Cuando se detecta un producto no conforme, la Norma ISO 9001 permite tratarlo mediante su reproceso o reparación para que cumpla los requisitos, su reclasificación para usos alternativos (segunda calidad o subproductos), su rechazo o desecho (chatarra), o su aceptación bajo concesión autorizada formalmente por el cliente o una autoridad competente. Lo que jamás debe hacerse es poner a la venta un producto defectuoso ocultando el fallo y sin obtener la correspondiente autorización o concesión.\n\n**Ejemplo práctico:** En una fábrica de baldosas cerámicas, una partida que presenta una ligera variación de tono respecto al catálogo estándar puede reclasificarse como «segunda calidad» para almacenes industriales o entregarse a un promotor bajo una concesión firmada con descuento, pero nunca comercializarse como primera calidad sin advertirlo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La norma propone dos tipos de acciones para evitar que en el futuro se presenten no conformidades en los productos que elaboramos, son las siguientes:",
+      "opciones": {
+        "a": "Acciones correctivas y preventivas.",
+        "b": "Acciones de disculpas y perdón a los clientes.",
+        "c": "Acciones de rechazo a las quejas.",
+        "d": "Acciones de desecho y reparación."
+      },
+      "explicacion": "La gestión clásica de la calidad bajo estándares ISO distingue dos grandes herramientas proactivas y reactivas para evitar no conformidades futuras: las «acciones correctivas» (orientadas a eliminar las causas de no conformidades reales ya ocurridas para evitar su repetición) y las «acciones preventivas» (orientadas a eliminar las causas de no conformidades potenciales antes de que lleguen a producirse).\n\n**Ejemplo práctico:** En una planta de envasado de lácteos, instalar un detector de metales adicional tras haber encontrado una partícula metálica en un lote constituye una acción correctiva; en cambio, instalar un sistema de alimentación ininterrumpida (SAI) tras analizar el riesgo de cortes eléctricos estivales —sin que aún se haya perdido ningún lote— constituye una acción preventiva.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "¿Qué es la solución de la no conformidad?",
+      "opciones": {
+        "a": "Descubrir por qué ocurrió una no conformidad.",
+        "b": "Corregir el problema, ya sea mediante el reproceso, reemplazo o alguna otra actividad.",
+        "c": "Conseguir que la no conformidad se convierta en conformidad como se pueda, lo antes posible y sin que se entere nadie.",
+        "d": "La solución a una acción correctiva."
+      },
+      "explicacion": "La solución inmediata o tratamiento de una no conformidad (denominada técnicamente «corrección» en la norma ISO 9000) consiste en la acción tomada para eliminar directamente la no conformidad detectada sobre el producto o servicio afectado, ya sea mediante su reproceso, reparación, reemplazo, ajuste o reclasificación, devolviendo la situación a las condiciones normales.\n\n**Ejemplo práctico:** Si durante la auditoría pre-entrega de un vehículo nuevo se detecta un arañazo en el parachoques delantero (no conformidad), la solución de la no conformidad consiste en llevar el coche al taller de pintura para pulir o sustituir el parachoques antes de entregárselo al comprador.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuando se decide una acción correctiva, se debe:",
+      "opciones": {
+        "a": "Implementar lo antes posible para evitar futuras no conformidades y posteriormente comprobar que funciona.",
+        "b": "Esperar un periodo mínimo de 24 meses para comprobar que funciona.",
+        "c": "Documentar y quedar sometida a un seguimiento durante un período de tiempo razonable para comprobar que funciona.",
+        "d": "Documentar y comunicar al cliente antes de hacer nada."
+      },
+      "explicacion": "Para que una acción correctiva sea eficaz y cumpla con las exigencias de la Norma ISO 9001, no basta con decidirla e implantarla; es obligatorio documentar (conservar información documentada de la naturaleza de la no conformidad y de las acciones tomadas) y someter dicha acción a un seguimiento y revisión durante un plazo razonable para verificar objetivamente su eficacia, es decir, comprobar que la causa raíz ha desaparecido y el fallo no se ha vuelto a repetir.\n\n**Ejemplo práctico:** Tras modificar el protocolo de esterilización en una planta conservera como acción correctiva ante un lote defectuoso, el responsable de calidad registra el cambio en el sistema documental y programa un seguimiento especial durante los siguientes tres meses de producción para verificar que la tasa de contaminación microbiológica se mantiene en cero antes de cerrar el expediente.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuando se detectan las no conformidades, hay que analizar que no exista ningún problema en potencia, para lo cual se puede utilizar como fuente de información:",
+      "opciones": {
+        "a": "Las reclamaciones en periodo de garantía.",
+        "b": "La competencia.",
+        "c": "Es mejor no utilizar ninguna fuente de información.",
+        "d": "No existe ninguna fuente de información disponible para ello."
+      },
+      "explicacion": "Para identificar problemas potenciales o tendencias incipientes de fallo y activar acciones preventivas o de mejora, las organizaciones deben analizar fuentes de datos internas y externas sobre el comportamiento del producto en el mercado, siendo las reclamaciones de clientes durante el periodo de garantía (junto con partes de servicio técnico y devoluciones) una de las fuentes de información más valiosas y directas.\n\n**Ejemplo práctico:** Un fabricante de lavadoras analiza estadísticamente los partes de reparación en garantía de los primeros seis meses tras el lanzamiento de un nuevo modelo; al observar un repunte incipiente de avisos por vibración en el centrifugado, rediseña preventivamente el soporte de los amortiguadores antes de que se convierta en un fallo masivo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Las acciones correctivas y preventivas son parámetros que deben utilizar aquellas organizaciones que quieran:",
+      "opciones": {
+        "a": "Gastar dinero.",
+        "b": "Lograr ahorros en los costes evitando errores.",
+        "c": "Estar a la última.",
+        "d": "Trabajar en varios turnos."
+      },
+      "explicacion": "La implantación sistemática de acciones correctivas y preventivas tiene un impacto económico directo en la cuenta de resultados al reducir los «costes de la no calidad» (desperdicios, achatarramiento, reprocesos, horas extras de inspección, devoluciones y pérdida de imagen), permitiendo a la organización lograr importantes ahorros de costes mediante la prevención de errores.\n\n**Ejemplo práctico:** Una empresa metalúrgica que gastaba 120.000 euros anuales en achatarrar piezas fundidas con porosidades implanta un programa de acciones correctivas y preventivas sobre el control de humedad de las arenas de moldeo, reduciendo los rechazos en un 85 % y ahorrando más de 100.000 euros netos al año.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 2,
+  "titulo": "Autoevaluación Unidad 2 - Estrategias Publicitarias",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El acrónimo USP corresponde a las palabras:",
+      "opciones": {
+        "a": "Unique Sending Positioning.",
+        "b": "Unique Selling Proposition.",
+        "c": "User Sending Proposition.",
+        "d": "User Sending Positioning."
+      },
+      "explicacion": "El acrónimo USP (*Unique Selling Proposition* o Propuesta Única de Venta), formulado originalmente por Rosser Reeves en la década de 1940, hace referencia a la estrategia creativa basada en destacar un único beneficio o característica diferencial, relevante y exclusiva del producto frente a la competencia, capaz de persuadir por sí sola al consumidor.\n\n**Ejemplo práctico:** El histórico eslogan de los chocolates M&M's, «Se derriten en tu boca, no en tu mano», constituye un caso clásico de *Unique Selling Proposition* (USP), ya que resalta una ventaja funcional única y demostrable derivada de su recubrimiento de azúcar.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el proceso creativo NO es un punto básico que interviene en el enunciado de la estrategia creativa:",
+      "opciones": {
+        "a": "La promesa o beneficio para el consumidor. Por qué el consumidor deberá comprar su producto.",
+        "b": "Apoyo o reason why. Una razón que demuestre ese beneficio.",
+        "c": "El estilo. El tipo de comunicación que deseamos para nuestra publicidad: estilo informal, humor, innovador, tecnológico, emotivo, apelando al prestigio, basado en personajes famosos...",
+        "d": "El marketing-mix de la competencia."
+      },
+      "explicacion": "El enunciado de la estrategia creativa (contenida en el *briefing* y la *copy strategy*) se articula en torno a tres pilares esenciales: la promesa básica o beneficio para el consumidor, la justificación o *reason why* que sustenta y da credibilidad a dicha promesa, y el estilo o tono de comunicación. El marketing-mix de la competencia forma parte del análisis externo del mercado, pero no integra la formulación de la estrategia creativa propia.\n\n**Ejemplo práctico:** En una campaña de dentífrico Sensodyne, la estrategia creativa define como promesa «aliviar la sensibilidad dental», como *reason why* «su fórmula clínicamente probada que bloquea los túbulos dentinarios» y como estilo un «tono experto y prescriptivo con odontólogos», sin incluir en dicho enunciado creativo las políticas de precios o distribución de marcas rivales.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes opciones son posibles estilos publicitarios:",
+      "opciones": {
+        "a": "Una publicidad  seria y con un tono muy formal.",
+        "b": "Un estilo de publicidad desenfadada.",
+        "c": "Una publicidad, basada en testimonios, o incorporar una gran variedad de elementos imaginativos.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "En la ejecución publicitaria existe una amplia diversidad de estilos o tonos comunicativos que pueden adoptarse según los objetivos de la campaña y la personalidad de la marca: desde estilos serios, informativos y formales, hasta estilos desenfadados y humorísticos, pasando por el uso de testimonios reales o prescriptores y el empleo de recursos altamente imaginativos o fantásticos.\n\n**Ejemplo práctico:** Mientras una aseguradora médica como Sanitas emplea un estilo serio y formal para transmitir confianza, una marca de desodorantes como Old Spice recurre a un estilo desenfadado y surrealista, y una marca de productos capilares como Pantene utiliza testimonios de consumidoras y celebridades.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre el estilo publicitario NO es correcta:",
+      "opciones": {
+        "a": "Es preciso definir con claridad el estilo y mantenerlo en el tiempo.",
+        "b": "El estilo publicitario es una variable poco importante para la creación publicitaria.",
+        "c": "El mantener un mismo estilo en los diferentes medios de comunicación y a lo largo de los años facilita la comunicación y permite incrementar la eficiencia de la publicidad.",
+        "d": "El estilo también viene influido por el medio empleado."
+      },
+      "explicacion": "Es falso afirmar que el estilo publicitario sea una variable poco relevante. Por el contrario, el estilo o tono de comunicación resulta determinante para dotar a la marca de una personalidad propia, diferenciarla del ruido competitivo y generar un recuerdo consistente; mantener un estilo coherente a través de los distintos medios y a lo largo del tiempo refuerza el capital de marca (*brand equity*).\n\n**Ejemplo práctico:** La marca de tiendas de muebles IKEA ha mantenido durante décadas un estilo publicitario cercano, cotidiano y con toques de humor inteligente («Bienvenido a la República Independiente de tu Casa»), lo que hace que sus anuncios sean inmediatamente reconocibles por el público antes incluso de ver el logotipo final.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "La estrategia de medios:",
+      "opciones": {
+        "a": "Permite decidir los medios y soportes en los que se difundirán los mensajes para alcanzar los objetivos de la campaña publicitaria.",
+        "b": "No tiene en cuenta los medios y soportes en los que se difundirán los mensajes.",
+        "c": "Se basa en la competencia.",
+        "d": "Es lo mismo que la estrategia creativa."
+      },
+      "explicacion": "La estrategia de medios es la vertiente de la planificación publicitaria encargada de seleccionar y combinar de manera óptima los medios de comunicación (televisión, radio, prensa, exterior, digital) y los soportes específicos dentro de cada medio en los que se insertarán los anuncios, con el propósito de alcanzar al público objetivo definido cumpliendo los objetivos de cobertura, frecuencia y presupuesto.\n\n**Ejemplo práctico:** Para promocionar un nuevo videojuego dirigido a jóvenes de 15 a 25 años, la estrategia de medios descarta la prensa escrita tradicional y selecciona medios digitales y soportes específicos como canales de Twitch, vídeos en YouTube y perfiles de TikTok para maximizar la afinidad con el target.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones NO es un aspecto que defina la estrategia de medios:",
+      "opciones": {
+        "a": "Investigación de medios.",
+        "b": "Estilo publicitario.",
+        "c": "Planificación de medios.",
+        "d": "Negociación y compra de medios."
+      },
+      "explicacion": "La estrategia de medios comprende tres grandes áreas operativas y analíticas: la investigación de medios (análisis de audiencias y soportes), la planificación de medios (selección de soportes, calendario y dosificación de inserciones) y la negociación y compra de espacios publicitarios. El «estilo publicitario», en cambio, pertenece al ámbito de la estrategia creativa y de diseño del mensaje.\n\n**Ejemplo práctico:** Una agencia de medios como Carat o Havas Media se encarga de investigar qué programas de televisión ven los compradores de coches (investigación), diseñar el calendario de pases del spot (planificación) y negociar descuentos con Atresmedia o Mediaset (compra), mientras que el estilo humorístico o serio del anuncio lo decide la agencia creativa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La planificación de medios exige recurrir a una serie de fuentes de información especializadas. Una de ellas es el EGM, acrónimo de:",
+      "opciones": {
+        "a": "Estudio General de Música.",
+        "b": "Estudio Global de Mensajes.",
+        "c": "Estudio General de Medios.",
+        "d": "Escala Global de Mensajes."
+      },
+      "explicacion": "El acrónimo EGM corresponde al Estudio General de Medios, la principal investigación multimedia de referencia en España (elaborada por la Asociación para la Investigación de Medios de Comunicación, AIMC), que mide de forma periódica el comportamiento y consumo de la población respecto a los distintos medios de comunicación (prensa, revistas, radio, televisión, cine, internet y exterior).\n\n**Ejemplo práctico:** Cuando una cadena de radio como la Cadena SER anuncia que su programa matinal es líder de audiencia con más de tres millones de oyentes diarios, utiliza como fuente oficial los datos publicados en las oleadas trimestrales del Estudio General de Medios (EGM).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "¿Qué es la audiencia?",
+      "opciones": {
+        "a": "El público objetivo.",
+        "b": "El conjunto de individuos de la población que entran en contacto con un medio o soporte  en un período de tiempo determinado.",
+        "c": "El porcentaje de audiencia que tiene un soporte o medio sobre una población determinada.",
+        "d": "El porcentaje de la audiencia de un soporte con respecto a la audiencia total del medio en un mismo período."
+      },
+      "explicacion": "En terminología de planificación de medios, la audiencia bruta o neta se define estrictamente como el conjunto de individuos pertenecientes a una población que entran en contacto (ven, leen o escuchan) con un determinado medio o soporte de comunicación durante un intervalo de tiempo específico, con independencia de si forman parte o no del público objetivo de la marca.\n\n**Ejemplo práctico:** Si la retransmisión de la final de la Champions League en televisión es vista por 6 millones de espectadores en España durante esa noche, esos 6 millones de personas constituyen la audiencia de dicho soporte televisivo en ese período.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los GRP (Gross Rating Points):",
+      "opciones": {
+        "a": "Representan el número de veces no que se verá un anuncio.",
+        "b": "Representan el número de veces que se verá un anuncio.",
+        "c": "Es un tipo de estilo publicitario.",
+        "d": "Representan el número de personas que verán un anuncio."
+      },
+      "explicacion": "Los GRP (*Gross Rating Points* o Puntos de Evaluación Bruta) constituyen una métrica fundamental de presión publicitaria que indica el número total de impactos o exposiciones brutas de una campaña expresado como porcentaje sobre el público objetivo (o población base), calculándose como el producto de la cobertura (porcentaje de personas alcanzadas) por la frecuencia media (número medio de veces que cada persona ve el anuncio).\n\n**Ejemplo práctico:** Si una campaña televisiva de Danone alcanza al 50% de su público objetivo (cobertura) y cada persona alcanzada ve el anuncio una media de 4 veces (frecuencia), la campaña habrá conseguido un total de 200 GRPs (50 × 4), reflejando la intensidad de veces que el anuncio ha sido visto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes opciones NO es una fase del plan de medios:",
+      "opciones": {
+        "a": "Recomendación de medios.",
+        "b": "Elaboración del calendario.",
+        "c": "Desarrollo del producto.",
+        "d": "Resumen de resultados esperados."
+      },
+      "explicacion": "La elaboración de un plan de medios comprende fases específicas de distribución del mensaje: el análisis y recomendación de medios y soportes, la confección del calendario de inserciones (*timing* o *flowchart*) y la estimación o resumen de los resultados esperados (cobertura, frecuencia, GRPs y coste por impacto). El «desarrollo del producto» es un proceso industrial y de marketing de producto ajeno al plan de medios.\n\n**Ejemplo práctico:** Al presentar el plan de medios a un cliente de perfumería para la campaña del Día de la Madre, el planificador entrega el documento con los soportes recomendados (revistas femeninas y TV), el calendario de apariciones en abril y mayo, y la previsión de GRPs a obtener, estando el perfume ya completamente desarrollado y fabricado de antemano.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

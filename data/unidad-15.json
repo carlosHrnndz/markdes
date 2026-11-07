@@ -1,0 +1,126 @@
+{
+  "unidad": 15,
+  "titulo": "Autoevaluación Unidad 15 - El Posicionamiento",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "¿Cuál de las siguientes afirmaciones sobre el posicionamiento NO es correcta?",
+      "opciones": {
+        "a": "La batalla del posicionamiento no se gana en el mercado, se gana en la mente de los consumidores.",
+        "b": "Posicionamiento es responder a la pregunta de ¿cómo queremos que los clientes nos vean?",
+        "c": "El posicionamiento consiste en colocar el producto y la marca en la mente de los consumidores de manera que lo identifiquen rápidamente y le atribuyan unas características muy concretas, claras y relevantes.",
+        "d": "El posicionamiento depende únicamente del sitio de venta del producto."
+      },
+      "explicacion": "El posicionamiento, concepto popularizado por Al Ries y Jack Trout, no es lo que se hace con el producto físico ni depende exclusivamente del punto de venta donde se comercializa, sino el lugar distintivo y valioso que la marca ocupa en la mente del consumidor frente a los competidores. Aunque la distribución influye como variable del marketing-mix, reducir el posicionamiento únicamente al establecimiento físico de venta es conceptualmente erróneo.\n\n**Ejemplo práctico:** Relojes como Casio y Swatch pueden venderse en los mismos grandes almacenes (como El Corte Inglés) o plataformas online, pero ocupan posicionamientos radicalmente distintos en la mente del consumidor: funcionalidad resistente y económica frente a diseño suizo juvenil y coleccionable.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Uno de los errores que algunas empresas cometen al posicionar sus productos es el subposicionamiento, que consiste en:",
+      "opciones": {
+        "a": "No dar una razón fundamental para comprar la marca.",
+        "b": "Comunicar varios beneficios que se contradicen entre sí.",
+        "c": "Presentar un beneficio que no interesa.",
+        "d": "Presentar un beneficio que nadie cree."
+      },
+      "explicacion": "Dentro de los cuatro errores clásicos de posicionamiento identificados por Kotler (subposicionamiento, sobreposicionamiento, posicionamiento confuso y posicionamiento dudoso o irrelevante), el subposicionamiento ocurre cuando la empresa no logra transmitir ningún beneficio diferencial claro ni una razón convincente de compra, de modo que los consumidores tienen una idea vaga de la marca y la perciben como una más del montón.\n\n**Ejemplo práctico:** Si un nuevo fabricante de smartphones lanza un teléfono al mercado limitándose a comunicar que 'tiene pantalla táctil, cámara y batería para todo el día' sin destacar ningún atributo distintivo (ni el mejor precio, ni la mejor fotografía, ni un diseño único), sufrirá subposicionamiento al no ofrecer al comprador un motivo claro para elegirlo frente a Samsung o Xiaomi.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La ley de la percepción afirma que:",
+      "opciones": {
+        "a": "El marketing es una batalla de productos.",
+        "b": "La percepción es la realidad.",
+        "c": "La percepción y los productos tienen la misma importancia.",
+        "d": "Los criterios respecto a los productos deben ser lo más complejos posible."
+      },
+      "explicacion": "En su obra 'Las 22 leyes inmutables del marketing', Al Ries y Jack Trout formulan la Ley de la Percepción, según la cual en el mercado no existen realidades objetivas ni mejores productos en abstracto: lo único que existe en el mundo del marketing son las percepciones en la mente de los clientes actuales y potenciales. Por tanto, 'la percepción es la realidad', y el marketing es una batalla de percepciones, no de productos.\n\n**Ejemplo práctico:** En numerosas catas a ciegas, muchos consumidores prefieren el sabor de Pepsi frente al de Coca-Cola; sin embargo, en el mercado real Coca-Cola lidera ampliamente las ventas porque la percepción de autenticidad, felicidad y tradición asociada a su marca domina en la mente del público.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La ley del enfoque dice que:",
+      "opciones": {
+        "a": "El principio más poderoso en marketing es poseer una palabra en la mente de los consumidores.",
+        "b": "Las palabras más sencillas son las mejores.",
+        "c": "Esta palabra concentra toda la energía en un concepto.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La Ley del Enfoque de Ries y Trout establece que el principio más poderoso en marketing consiste en apropiarse de una palabra o concepto sencillo en la mente de los clientes potenciales. Al concentrar todos los esfuerzos de comunicación en un único atributo claro, sencillo y relevante, la marca logra un efecto halo y se vuelve sinónimo de esa característica frente a cualquier competidor.\n\n**Ejemplo práctico:** Volvo aplicó magistralmente la Ley del Enfoque al concentrar toda su ingeniería y comunicación histórica en una sola palabra en la mente de los conductores: 'Seguridad'. Del mismo modo, FedEx se adueñó del concepto de 'entrega al día siguiente' (overnight).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes opciones NO es una razón para lanzar un nuevo producto:",
+      "opciones": {
+        "a": "La utilización de capacidades productivas excedentes.",
+        "b": "El deseo de aparecerse ante los consumidores.",
+        "c": "La necesidad de garantizarse el crecimiento, las ventas, la rentabilidad futura.",
+        "d": "La necesidad de mejorar los actuales productos, la oferta de valor al consumidor."
+      },
+      "explicacion": "El lanzamiento de nuevos productos responde a razones estratégicas, operativas y financieras fundamentadas: aprovechar capacidad industrial ociosa, asegurar el crecimiento y la rentabilidad futura ante la obsolescencia de la cartera actual, o mejorar la propuesta de valor ofrecida al cliente. El simple 'deseo de aparecerse ante los consumidores' por vanidad corporativa, sin un propósito comercial ni de valor, no constituye una justificación estratégica válida para innovar.\n\n**Ejemplo práctico:** Cuando Pascual lanzó la gama de bebidas vegetales ViveSoy, lo hizo por razones estratégicas claras: aprovechar su red logística y capacidad de envasado (capacidades productivas), responder a la tendencia creciente de consumidores intolerantes a la lactosa o veganos (mejorar la oferta de valor) y garantizar nuevas fuentes de ingresos ante la madurez del mercado de leche tradicional.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Qué son los productos me too?",
+      "opciones": {
+        "a": "Nuevas versiones de un producto dentro de la misma categoría.",
+        "b": "Aquellos productos que, en esencia, son iguales a otros que ya existen, por tanto se pueden considerar copias.",
+        "c": "Las nuevas versiones de un producto dentro de la misma categoría.",
+        "d": "Los productos que aportan una verdadera innovación."
+      },
+      "explicacion": "En la terminología de marketing y desarrollo de productos, los productos 'me too' (o de imitación) son aquellos lanzados por empresas seguidoras que replican las características, funcionalidades y posicionamiento de un producto exitoso ya existente en el mercado, sin aportar una innovación sustancial propia, buscando captar parte de la demanda generada por el líder (a menudo compitiendo con un precio inferior).\n\n**Ejemplo práctico:** Tras el éxito disruptivo de las cápsulas de café Nespresso de Nestlé, numerosas marcas de distribuidor y fabricantes cafeteros lanzaron cápsulas compatibles de aluminio o plástico con formatos y mezclas prácticamente idénticos, actuando como productos 'me too' para aprovechar el parque de cafeteras ya instalado.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes opciones NO es una actividad/coste asociado al lanzamiento de un nuevo producto:",
+      "opciones": {
+        "a": "Aprovisionamiento de materias primas.",
+        "b": "Acciones promocionales y de publicidad.",
+        "c": "Procedimientos administrativos de alta.",
+        "d": "Procedimientos administrativos de baja."
+      },
+      "explicacion": "La puesta en marcha y el lanzamiento comercial de un nuevo producto conllevan inversiones y actividades operativas de entrada en el mercado: compra y aprovisionamiento de materias primas, campañas publicitarias y promocionales de introducción, y trámites administrativos de alta de la nueva referencia (códigos EAN, fichas logísticas, referenciación en distribuidores). Los procedimientos administrativos de baja corresponden a la retirada o eliminación de productos obsoletos al final de su vida útil, no a un lanzamiento.\n\n**Ejemplo práctico:** Cuando Mahou lanza una nueva cerveza artesanal embotellada, incurre en costes de aprovisionamiento de lúpulos especiales, campañas de publicidad y degustación en hostelería, y costes de alta de referencia en las plataformas logísticas de Carrefour o Alcampo, pero en ningún caso tramita una baja administrativa.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Al preparar el lanzamiento de un nuevo producto, hay que:",
+      "opciones": {
+        "a": "Definir la necesidad que cubre de forma rigurosa.",
+        "b": "Anular el lanzamiento si existen productos competidores.",
+        "c": "No definir ningún posicionamiento hasta conocer la opinión del consumidor que lo ha comprado y utilizado.",
+        "d": "Estar preparados para unas ventas muy elevadas durante las primeras semanas."
+      },
+      "explicacion": "El éxito en la preparación del lanzamiento de un nuevo producto exige, como punto de partida ineludible, definir con total rigor qué necesidad real del consumidor viene a satisfacer y cuál será su propuesta de valor y posicionamiento diferencial. Lanzar un producto sin haber definido su posicionamiento previo o esperar ventas masivas inmediatas sin planificación suele conducir al fracaso comercial.\n\n**Ejemplo práctico:** Antes de lanzar Dyson Supersonic (su secador de pelo de alta gama), Dyson definió rigurosamente la necesidad insatisfecha que cubría: secar el cabello rápidamente con flujo de aire controlado sin dañarlo por calor extremo ni generar ruido excesivo, justificando así su posicionamiento premium antes de llegar a las tiendas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El grado de fracaso de los lanzamientos de nuevos productos es de:",
+      "opciones": {
+        "a": "0",
+        "b": "0.15",
+        "c": "0.5",
+        "d": "0.8"
+      },
+      "explicacion": "La evidencia empírica y los estudios de consultoras especializadas en gran consumo e innovación (como Nielsen o Kantar) muestran que la tasa de fracaso en el lanzamiento de nuevos productos es sumamente elevada, situándose en torno al 80 % (0,8 en tanto por uno). Esto subraya la importancia crítica de aplicar metodologías rigurosas de investigación de mercados, desarrollo y ejecución en el punto de venta.\n\n**Ejemplo práctico:** En el sector de gran consumo alimentario, de cada diez nuevos snacks, bebidas o postres que se introducen anualmente en los lineales de los supermercados españoles, aproximadamente ocho no superan el primer o segundo año de vida y acaban siendo descatalogados por no alcanzar los umbrales mínimos de rotación.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Un error habitual que se produce al lanzar un nuevo producto y puede llevar a su fracaso es:",
+      "opciones": {
+        "a": "Un exceso de comunicación al consumidor-comprador acerca de en qué parte del establecimiento va a encontrar el producto.",
+        "b": "El cumplimiento de los planes de comunicación y promoción acordados y planificados.",
+        "c": "Un difícil acceso al producto en tienda.",
+        "d": "Unas buenas previsiones de ventas, producción y suministro."
+      },
+      "explicacion": "Uno de los fallos operativos más frecuentes que provocan el fracaso de un nuevo producto en el mercado es una deficiente distribución o visibilidad en el punto de venta (difícil acceso al producto en tienda, roturas de stock o mala ubicación en el lineal). Si la publicidad despierta el interés del consumidor pero este no logra encontrar fácilmente el producto en el establecimiento, la inversión comunicativa se desperdicia y la prueba de producto fracasa.\n\n**Ejemplo práctico:** Si una marca de alimentación invierte millones de euros en televisión para anunciar un nuevo plato preparado refrigerado, pero no negocia adecuadamente su implantación comercial y el producto queda oculto en la balda inferior de pocas tiendas o sufre roturas de stock, el comprador desistirá de buscarlo y el lanzamiento fracasará.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

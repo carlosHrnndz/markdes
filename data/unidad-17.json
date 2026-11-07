@@ -1,0 +1,126 @@
+{
+  "unidad": 17,
+  "titulo": "Autoevaluación Unidad 17 - El Ciclo de Vida del Producto o Servicio",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "En la fase de introducción del ciclo de vida de un producto o servicio:",
+      "opciones": {
+        "a": "Los beneficios son muy altos.",
+        "b": "Las inversiones necesarias son mínimas.",
+        "c": "Las ventas están a niveles bajos porque todavía no hay una amplia aceptación del producto en el mercado.",
+        "d": "La competencia es elevada."
+      },
+      "explicacion": "En la etapa de introducción del ciclo de vida del producto (CVP), la innovación acaba de ser lanzada al mercado, por lo que el desconocimiento por parte de la demanda, las reticencias al cambio de hábitos de consumo y la cobertura todavía limitada en los canales de distribución provocan que el volumen de ventas sea reducido y crezca lentamente. Asimismo, los altos costes de desarrollo y promoción, unidos a la falta de economías de escala, hacen que los beneficios sean nulos o negativos y que la competencia sea escasa o inexistente.\n\n**Ejemplo práctico:** Cuando se lanzaron los primeros televisores OLED al mercado doméstico por parte de LG, las ventas iniciales fueron muy bajas debido a su elevado precio y a que la gran mayoría de los consumidores aún desconocía las ventajas técnicas de los diodos orgánicos frente al LED convencional.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La estrategia de desnatado rápido consiste en:",
+      "opciones": {
+        "a": "Lanzar un producto a un precio elevado para conseguir una imagen de exclusividad y calidad, acompañado de una alta inversión promocional que facilitará una penetración rápida en el mercado.",
+        "b": "Lanzar un producto a precio bajo para animar a los consumidores a comprarlo y con una inversión baja, que aumentará el beneficio neto.",
+        "c": "Lanzar varios productos a la vez y de forma muy rápida.",
+        "d": "Encadenar varios lanzamientos consecutivos como respuesta a una acción de la competencia."
+      },
+      "explicacion": "La estrategia de desnatado o tamizado rápido (*rapid skimming*) combina la fijación de un precio inicial alto con un elevado esfuerzo promocional. El precio alto busca maximizar el margen unitario capturando el excedente de los segmentos más insensibles al precio (*innovadores* y *adoptadores tempranos*) y proyectar una imagen de alta calidad y prestigio, mientras que la intensa inversión publicitaria acelera el conocimiento del producto y convence al mercado de sus méritos diferenciales antes de que entren competidores.\n\n**Ejemplo práctico:** Apple aplica una estrategia de desnatado rápido en el lanzamiento de cada nueva generación del iPhone Pro, fijando un precio superior a los 1.200 € respaldado por campañas publicitarias globales masivas y eventos de presentación de alto impacto.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En la fase de introducción, el producto que se ofrece al mercado es:",
+      "opciones": {
+        "a": "Básico.",
+        "b": "Complicado.",
+        "c": "Muy elaborado.",
+        "d": "Diferenciado."
+      },
+      "explicacion": "Durante la fase de introducción, la empresa suele comercializar una versión básica o estándar del producto, centrada en resolver la función principal sin excesivas variantes ni sofisticaciones accesorias. Esto se debe a que la tecnología y los procesos productivos aún se están ajustando, los costes unitarios son altos y el objetivo prioritario es crear demanda primaria y educar al consumidor sobre la categoría antes de fragmentar la oferta con extensiones de línea.\n\n**Ejemplo práctico:** Cuando Spotify se lanzó inicialmente al mercado, ofrecía un servicio básico centrado exclusivamente en la reproducción de música en *streaming* para ordenadores de escritorio, antes de añadir posteriormente listas algorítmicas personalizadas, pódcast, audiolibros o planes familiares y para estudiantes.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La fase de crecimiento se caracteriza por:",
+      "opciones": {
+        "a": "Beneficios inexistentes.",
+        "b": "Los consumidores son el grupo llamado de los rezagados.",
+        "c": "Una competencia creciente.",
+        "d": "Un presupuesto de marketing nulo."
+      },
+      "explicacion": "Cuando un producto entra en la fase de crecimiento, el rápido incremento de las ventas y la aparición de los primeros beneficios atractivos actúan como una señal de mercado que atrae a numerosos nuevos competidores. Estas empresas rivales entran con versiones imitadoras o mejoradas para captar parte de un mercado en expansión, obligando a la firma pionera a pasar de construir demanda primaria (de la categoría) a estimular la demanda selectiva (hacia su propia marca).\n\n**Ejemplo práctico:** Tras el éxito inicial de Nespresso con su sistema de café en cápsulas y el fuerte despegue de sus ventas, la fase de crecimiento atrajo a múltiples competidores como Dolce Gusto, Tassimo, Senseo y marcas de distribuidor, intensificando notablemente la rivalidad en el sector.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes estrategias de marketing es la más adecuada para seguir en la fase de crecimiento:",
+      "opciones": {
+        "a": "Mejorar el producto, en calidad y atributos, lo cual añade nuevas posibilidades.",
+        "b": "Lanzar nuevos productos bajo la forma de nuevos modelos para defenderse de la competencia.",
+        "c": "Enfocarse a nuevos segmentos de mercado.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Para sostener la cuota de mercado y prolongar el crecimiento de las ventas frente a la entrada de nuevos competidores durante la fase de crecimiento, la dirección de marketing debe desplegar una combinación de acciones estratégicas: perfeccionar la calidad y añadir nuevas prestaciones o atributos al producto básico, lanzar nuevos modelos o flanqueadores que protejan a la marca principal y expandir la cobertura hacia nuevos segmentos de clientes y canales de distribución.\n\n**Ejemplo práctico:** Durante el rápido crecimiento del mercado de patinetes eléctricos y movilidad personal, Xiaomi mejoró la autonomía y el sistema de frenado de su modelo original (mejora de atributos), lanzó las variantes Lite, Pro y Ultra (nuevos modelos) y desarrolló líneas específicas para flotas de uso compartido y usuarios urbanos diarios (nuevos segmentos).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre la fase de madurez NO es correcta:",
+      "opciones": {
+        "a": "Es la más larga.",
+        "b": "Es donde se encuentran la mayoría de productos del mercado.",
+        "c": "La demanda se estabiliza.",
+        "d": "Hay un fuerte aumento de las ventas."
+      },
+      "explicacion": "La fase de madurez se caracteriza precisamente por la ralentización y posterior estabilización de las tasas de crecimiento de las ventas debido a la saturación del mercado potencial, donde la mayoría de las compras son de reposición. Por tanto, es incorrecto afirmar que exista un fuerte aumento de las ventas (rasgo propio de la etapa de crecimiento); por el contrario, la madurez suele ser la etapa más prolongada del ciclo de vida y en la que compiten la mayor parte de los productos existentes.\n\n**Ejemplo práctico:** El mercado de los detergentes para lavadoras (como Ariel o Skip) se encuentra en plena fase de madurez: prácticamente el 100 % de los hogares ya utiliza el producto, la demanda total se mantiene estable año tras año y el crecimiento de una marca sólo se logra arrebatando cuota a la competencia.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Para alargar el máximo posible la fase de madurez, las empresas pueden realizar estrategias de mercado, que consisten en:",
+      "opciones": {
+        "a": "Aumentar el volumen de mercado en el cual se encuentra el producto. Esto se puede hacer o bien aumentando el número de usuarios de la marca, o bien aumentando la tasa de utilización por persona.",
+        "b": "Dejar el producto como está.",
+        "c": "Disminuir el volumen de mercado.",
+        "d": "No modificar ninguna variable del marketing-mix."
+      },
+      "explicacion": "En la etapa de madurez, las estrategias de modificación o expansión del mercado buscan incrementar el consumo total de la categoría o de la marca actuando sobre sus dos componentes fundamentales ($Volumen = Número\\ de\\ usuarios \\times Tasa\\ de\\ uso\\ por\\ usuario$). Esto se consigue convirtiendo a no usuarios, entrando en nuevos segmentos de mercado o ganando clientes de la competencia, así como fomentando un uso más frecuente, mayor cantidad por ocasión de consumo o nuevas aplicaciones del producto.\n\n**Ejemplo práctico:** Champú Johnson's Baby logró alargar su fase de madurez al promover su uso diario entre adultos con cuero cabelludo sensible o que practicaban deporte (aumentando el número de usuarios y la frecuencia de lavado), más allá de su público infantil original.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Una de las características de la fase de declive es que:",
+      "opciones": {
+        "a": "Las ventas del producto aumentan.",
+        "b": "Muchas empresas toman la determinación de dejar de invertir en ese producto.",
+        "c": "El mercado sigue creciendo.",
+        "d": "Los beneficios se estabilizan."
+      },
+      "explicacion": "En la fase de declive, la caída estructural y sostenida de las ventas —motivada por avances tecnológicos, cambios en los gustos de los consumidores o la aparición de productos sustitutivos superiores— provoca un exceso de capacidad productiva, guerras de precios y una erosión severa de los márgenes. Ante esta situación, muchas empresas optan por estrategias de cosecha (reducción drástica de costes e inversiones comerciales) o de desinversión total, abandonando el mercado para reasignar sus recursos a productos más rentables.\n\n**Ejemplo práctico:** Con el auge de la fotografía digital y los *smartphones*, fabricantes históricos como Fujifilm y Kodak dejaron de invertir progresivamente en el desarrollo y promoción de carretes fotográficos de 35 mm, cerrando plantas productivas y reorientando su capital hacia otros sectores como la cosmética, la salud o la impresión industrial.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En la fase de declive, la inversión publicitaria es:",
+      "opciones": {
+        "a": "Alta.",
+        "b": "Moderada.",
+        "c": "Mínima.",
+        "d": "En ascenso."
+      },
+      "explicacion": "Durante la etapa de declive, dado que la demanda se contrae irreversiblemente y los compradores remanentes suelen ser clientes muy fieles o rezagados que ya conocen perfectamente el producto, un gasto publicitario elevado resultaría antieconómico e incapaz de revertir la tendencia estructural. Por ello, la inversión en publicidad se reduce al mínimo indispensable para mantener la presencia básica o recordar la disponibilidad del producto en los puntos de venta que aún lo comercializan.\n\n**Ejemplo práctico:** Los reproductores de DVD y Blu-ray domésticos apenas reciben hoy inversión publicitaria en medios masivos por parte de marcas como Sony o Panasonic, limitándose su comunicación a fichas de catálogo en tiendas de electrónica para los consumidores puntuales que aún demandan formato físico.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Los productos con aprendizaje largo son aquéllos que:",
+      "opciones": {
+        "a": "Tienen un crecimiento rápido de las ventas.",
+        "b": "La etapa de introducción se alarga mucho debido a la dificultad en la aceptación del producto.",
+        "c": "Al poco tiempo de su introducción y crecimiento, pasan directamente a la fase de declive.",
+        "d": "Todas las fases son muy cortas."
+      },
+      "explicacion": "Los productos con ciclo de vida de aprendizaje largo son innovaciones discontinuas o complejas que exigen al consumidor modificar arraigados hábitos de conducta, adquirir nuevas destrezas técnicas o comprender beneficios que no son evidentes a corto plazo. Como consecuencia de esta resistencia psicológica y funcional al cambio, la fase de introducción se prolonga considerablemente en el tiempo hasta que la educación del mercado y la demostración de ventajas logran impulsar su adopción.\n\n**Ejemplo práctico:** Los ordenadores personales domésticos en los años ochenta o los sistemas de domótica integral para el hogar experimentaron una larga etapa de introducción, ya que requerían que el usuario medio superase la barrera del aprendizaje técnico antes de generalizarse su uso cotidiano.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

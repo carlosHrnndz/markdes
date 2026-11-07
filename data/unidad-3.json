@@ -1,0 +1,126 @@
+{
+  "unidad": 3,
+  "titulo": "Autoevaluación Unidad 3 - El Marketing Promocional (I)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre la promoción de ventas NO es cierta:",
+      "opciones": {
+        "a": "Es un conjunto de incentivos a corto plazo que pueden ser dirigidos hacia los consumidores, los distribuidores (el canal), los propios vendedores de la empresa, o incluso a prescriptores, con el fin de estimular la demanda del producto promocionado.",
+        "b": "Es un elemento más de la P de Producto del marketing-mix.",
+        "c": "Es una herramienta comercial para “empujar el producto” hacia el consumidor/cliente.",
+        "d": "Apunta a todos los agentes que intervienen en el canal de distribución, incluido el consumidor."
+      },
+      "explicacion": "La promoción de ventas no forma parte de la variable Producto, sino que constituye una de las herramientas fundamentales de la variable Comunicación (o Promoción/Impulsión) dentro del marketing-mix. Consiste en un conjunto de incentivos materiales o económicos, generalmente a corto plazo, diseñados para estimular una compra rápida o en mayor volumen por parte de consumidores, distribuidores, vendedores o prescriptores.\n\n**Ejemplo práctico:** Cuando una marca de detergentes ofrece un envase con un «20% de producto gratis» o un descuento directo de 2 euros en caja durante un mes, está ejecutando una acción de la variable Comunicación (promoción de ventas) para acelerar la rotación, sin alterar la formulación intrínseca de su producto.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Características de la promoción de ventas:",
+      "opciones": {
+        "a": "Su carácter no temporal y permanente.",
+        "b": "Su carácter temporal, no permanente y, a menudo, local.",
+        "c": "Su carácter temporal, no permanente y nunca local.",
+        "d": "Su carácter local y global, a la vez que temporal y permanente."
+      },
+      "explicacion": "Una característica definitoria de la promoción de ventas es su acotación temporal (carácter no permanente y a corto plazo) y su flexibilidad geográfica, siendo frecuentemente aplicada a escala local o en puntos de venta específicos. Si un incentivo se mantuviera de forma indefinida, perdería su efecto de urgencia psicológica y pasaría a ser percibido como una modificación estructural del precio o del producto.\n\n**Ejemplo práctico:** Una cadena de supermercados lanza una promoción de «3x2 en helados» válida únicamente durante la primera quincena de julio en sus establecimientos de la costa mediterránea; una vez concluido ese plazo temporal y local, los productos recuperan su condición habitual de venta.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "En qué situación NO se emplean las promociones de ventas:",
+      "opciones": {
+        "a": "Los competidores la ponen en práctica.",
+        "b": "Existe poca fidelidad de marca.",
+        "c": "Los productos no están claramente diferenciados.",
+        "d": "Los productos están claramente diferenciados, hay elevada fidelidad de marca y, además, ningún competidor lo pone en práctica."
+      },
+      "explicacion": "Las promociones de ventas resultan innecesarias —e incluso contraproducentes para el margen y el prestigio— cuando la empresa comercializa productos altamente diferenciados, cuenta con una elevada lealtad de marca entre sus clientes y opera en un entorno donde la competencia no recurre a guerras promocionales. Por el contrario, se emplean intensivamente en mercados maduros, con baja diferenciación, escasa fidelidad y fuerte presión competitiva.\n\n**Ejemplo práctico:** Marcas de alta relojería o artículos de lujo exclusivo como Rolex o Louis Vuitton, que gozan de altísima diferenciación y fidelidad de marca y cuyos competidores directos tampoco realizan descuentos, nunca emplean promociones de ventas tipo «2x1» o cupones descuento, ya que dañarían su posicionamiento exclusivo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Para que una promoción de ventas sea eficaz debe:",
+      "opciones": {
+        "a": "Comunicarse.",
+        "b": "Ser fácil de entender.",
+        "c": "Ser estimulante.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Para que una campaña de promoción de ventas alcance la máxima eficacia comercial debe reunir tres condiciones indispensables: ser adecuadamente comunicada para que el público objetivo conozca su existencia, tener una mecánica sencilla y fácil de comprender por el destinatario sin barreras complejas, y ofrecer un incentivo suficientemente atractivo o estimulante que motive la acción inmediata.\n\n**Ejemplo práctico:** Una promoción de una cadena de pizzerías como Telepizza que anuncia claramente en televisión y cartelería «Martes Locos: pizzas medianas a mitad de precio» triunfa porque se comunica masivamente, su mecánica es comprensible al instante y el ahorro del 50% resulta altamente estimulante.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los objetivos promocionales:",
+      "opciones": {
+        "a": "No necesitan coordinación entre sí ni con la estrategia de comunicación de la empresa.",
+        "b": "Pueden ser múltiples y compatibles con la estrategia de comunicación.",
+        "c": "Deben ser siempre únicos, no más de uno a la vez.",
+        "d": "No deben contribuir al cumplimiento de los objetivos generales de comunicación."
+      },
+      "explicacion": "Los objetivos promocionales pueden ser múltiples (por ejemplo, incentivar la prueba del producto, incrementar la compra repetida y dar salida a excesos de inventario) y deben ser plenamente compatibles, coherentes y estar subordinados a la estrategia global de comunicación y de marketing de la empresa, evitando contradicciones con la imagen de marca.\n\n**Ejemplo práctico:** Una marca de café gourmet puede lanzar una promoción consistente en regalar una taza de diseño exclusivo por la compra de tres paquetes: con ello persigue simultáneamente dos objetivos compatibles (aumentar el volumen de compra por acto y reforzar una imagen de marca sofisticada coherente con su publicidad).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones NO es un objetivo de las promociones de ventas:",
+      "opciones": {
+        "a": "Ofrecer ventajas competitivas a la distribución.",
+        "b": "Mejorar la imagen de la empresa.",
+        "c": "Disminuir las ventas de la marca o producto.",
+        "d": "Recompensar a clientes fieles."
+      },
+      "explicacion": "El propósito esencial de cualquier promoción de ventas es estimular la demanda y favorecer el incremento de las ventas a corto plazo, recompensar la lealtad de los clientes actuales, captar nuevos compradores o apoyar a los distribuidores. En ningún caso una promoción de ventas tiene como objetivo disminuir las ventas de la marca o producto.\n\n**Ejemplo práctico:** Cuando un fabricante de refrescos organiza un sorteo de viajes al Caribe introduciendo códigos bajo las anillas de las latas, su objetivo directo es incrementar la rotación y el volumen de ventas durante la campaña estival, nunca reducir su facturación.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Ventaja de las promociones de ventas:",
+      "opciones": {
+        "a": "Distorsiones en la imagen de marca.",
+        "b": "Aumento de las ventas.",
+        "c": "Distorsiones en el posicionamiento del producto o marca.",
+        "d": "Pierden vigencia a corto plazo."
+      },
+      "explicacion": "La principal ventaja operativa de las promociones de ventas radica en su capacidad para generar un incremento rápido, directo y fácilmente medible del volumen de ventas a corto plazo. Las demás opciones (distorsión de la imagen de marca, alteración del posicionamiento o pérdida de vigencia a corto plazo) constituyen, por el contrario, riesgos o desventajas asociados al abuso de las promociones.\n\n**Ejemplo práctico:** Durante la campaña del *Black Friday*, una tienda de electrónica aplica un descuento promocional del 15% durante tres días y registra de forma inmediata un aumento del 200% en su facturación semanal respecto a una semana ordinaria.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Uno de los principales destinatarios de las promociones es:",
+      "opciones": {
+        "a": "La competencia.",
+        "b": "El consumidor final.",
+        "c": "La gente que no consume.",
+        "d": "El fabricante."
+      },
+      "explicacion": "Dentro de la estructura del mercado, el consumidor final constituye uno de los destinatarios primordiales de las acciones promocionales (*consumer promotions*), junto con los intermediarios del canal de distribución, la fuerza de ventas propia y los prescriptores. Las acciones dirigidas al consumidor buscan estimular directamente la prueba, el consumo o la fidelización hacia el producto.\n\n**Ejemplo práctico:** Cuando Nestlé incluye sobres de muestras gratuitas de un nuevo cereal dentro de los envases de leche o reparte vales de descuento de 1 euro en la entrada del hipermercado, el destinatario directo de dicho estímulo promocional es el consumidor final.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Los efectos psicológicos de las promociones en el consumidor son:",
+      "opciones": {
+        "a": "Modificar las actitudes y los comportamientos del público objetivo.",
+        "b": "Los fabricantes logran generar economías de escala.",
+        "c": "Los fabricantes logran generar economías de alcance.",
+        "d": "Un elemento defensivo ante las agresiones comerciales de la competencia."
+      },
+      "explicacion": "Desde la perspectiva del comportamiento del consumidor, las promociones de ventas ejercen efectos psicológicos directos que buscan modificar las actitudes (percepción de valor, predisposición favorable hacia la marca) y los comportamientos de compra (aceleración del momento de compra, cambio de marca o almacenamiento) del público objetivo. Las economías de escala o de alcance son efectos económicos internos del fabricante, no efectos psicológicos en el comprador.\n\n**Ejemplo práctico:** Un consumidor que habitualmente pospone la renovación de sus neumáticos decide acudir al taller esta misma semana al ver una promoción limitada que regala un cheque de 50 euros en combustible, viendo modificado su comportamiento de compra gracias al estímulo promocional.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La promoción atrae a los consumidores de otras marcas, que son:",
+      "opciones": {
+        "a": "Consumidores a los que NO les gusta el cambio.",
+        "b": "Consumidores satisfechos con una marca de la competencia.",
+        "c": "Consumidores leales a una marca de la competencia.",
+        "d": "Consumidores insatisfechos con las marcas de la competencia."
+      },
+      "explicacion": "Las promociones de ventas logran atraer hacia la marca promocionada a consumidores procedentes de la competencia principalmente cuando estos se encuentran insatisfechos con sus marcas actuales o presentan una baja lealtad (buscadores de variedad o sensibles al precio). Por el contrario, los consumidores plenamente satisfechos y fieles a una marca competidora rara vez abandonan su preferencia habitual por un incentivo puntual.\n\n**Ejemplo práctico:** Si un cliente de una operadora de telefonía móvil sufre cortes frecuentes en la cobertura o considera excesiva su factura (consumidor insatisfecho), una promoción de otra compañía que ofrezca un 50% de descuento durante seis meses actuará como el detonante definitivo para que cambie de operador.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

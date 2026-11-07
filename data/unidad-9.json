@@ -1,0 +1,126 @@
+{
+  "unidad": 9,
+  "titulo": "Autoevaluación Unidad 9 - Los Blogs y los Wikis",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Los blogs se pueden definir como:",
+      "opciones": {
+        "a": "Un sitio web no actualizado que recopila cronológicamente fotografías de uno o varios autores, apareciendo primero el más reciente.",
+        "b": "Un sitio web periódicamente actualizado donde sólo tiene acceso el propio autor del mismo para comentar, opinar o informar sobre determinados temas.",
+        "c": "Un sitio web periódicamente actualizado que recopila cronológicamente textos o artículos de uno o varios autores, apareciendo primero el más reciente, donde el autor conserva siempre la libertad de dejar publicado lo que crea pertinente.",
+        "d": "Un sitio web periódicamente actualizado que recopila cronológicamente textos o artículos de uno o varios autores, apareciendo primero el más reciente y desapareciendo los anteriores cada vez que hay otro comentario más actualizado."
+      },
+      "explicacion": "Un blog (o bitácora digital) se define técnicamente como un sitio web actualizado de manera periódica que recopila entradas, artículos o textos (posts) de uno o varios autores siguiendo un orden cronológico inverso, es decir, mostrando en primer lugar la publicación más reciente, mientras los artículos anteriores permanecen archivados y accesibles, manteniendo el autor el control editorial sobre lo que se publica.\n\n**Ejemplo práctico:** El blog oficial de **HubSpot** en español publica diariamente artículos sobre marketing digital e inbound marketing, mostrando siempre en portada el análisis más reciente mientras conserva todo su archivo histórico categorizado para consulta de los lectores.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Los blogs en España:",
+      "opciones": {
+        "a": "No están proliferando, sino que cada vez hay menos.",
+        "b": "Han dejado de representar a unos pocos líderes de opinión, para pasar a convertirse en una herramienta fundamental de comunicación y de búsqueda de información sin pasar por los filtros de las empresas.",
+        "c": "Son muy entretenidos pero con poco interés a nivel empresarial.",
+        "d": "Tanto la lectura como la escritura de blogs no se consolidan en España, a pesar del auge que tuvieron hace cinco años."
+      },
+      "explicacion": "En España, la blogosfera ha experimentado una notable madurez y consolidación: los blogs dejaron de ser espacios exclusivos de unos pocos pioneros o líderes de opinión para convertirse en un canal masivo y democrático de comunicación e información directa, donde los consumidores consultan experiencias y análisis sin depender únicamente del discurso institucional de las empresas.\n\n**Ejemplo práctico:** Antes de comprar un smartphone o contratar una tarifa de fibra, miles de usuarios en España leen análisis independientes en blogs tecnológicos como **Xataka** o blogs de consumidores especializados para contrastar la información real frente a la publicidad del fabricante.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La tecnología RSS ha permitido el auge de la web 2.0. RSS es acrónimo de:",
+      "opciones": {
+        "a": "Reacción Sostenible Sindicada.",
+        "b": "Really Simple and Sweet.",
+        "c": "Really Simple Sindication.",
+        "d": "Reaction and Sindication in Size."
+      },
+      "explicacion": "Las siglas RSS corresponden a *Really Simple Syndication* (Sindicación Realmente Simple), un formato basado en XML que permite distribuir y recibir automáticamente actualizaciones de contenido de blogs y sitios de noticias sin necesidad de visitar manualmente cada página web.\n\n**Ejemplo práctico:** Un director de comunicación utiliza un agregador de feeds RSS como **Feedly** conectado a las fuentes RSS de los principales blogs del sector financiero para recibir en un único panel todos los artículos nuevos tan pronto como se publican.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de los siguientes NO es un elemento de los blogs:",
+      "opciones": {
+        "a": "Enlaces reversos.",
+        "b": "Enlaces inversos.",
+        "c": "Comentarios.",
+        "d": "Fotografías."
+      },
+      "explicacion": "Dentro de la anatomía de un blog se encuentran las entradas (posts), los comentarios de los lectores, los elementos multimedia (fotografías, vídeos), los enlaces permanentes (*permalinks*) y los enlaces inversos (*trackbacks* o *backlinks*, que avisan cuando otro blog enlaza una entrada). El término «enlaces reversos» no corresponde a la terminología estándar de los elementos de un blog.\n\n**Ejemplo práctico:** Cuando un blog de gastronomía publica una receta con fotografías paso a paso, habilita la sección de comentarios para dudas de los lectores y recibe un *trackback* (enlace inverso) automático cuando otro blog culinario cita y enlaza su receta.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Un blog personal es aquél que:",
+      "opciones": {
+        "a": "Está escrito por profesionales de un determinado sector o tema con grandes conocimientos del mismo.",
+        "b": "Los autores ponen artículos y opiniones de índole personal.",
+        "c": "Ha sido creado por una empresa.",
+        "d": "Va dirigido a los proveedores de una empresa."
+      },
+      "explicacion": "Un blog personal es aquel gestionado por un individuo que comparte reflexiones, vivencias, aficiones u opiniones de carácter personal, a diferencia de los blogs profesionales (enfocados en un sector técnico o disciplina) o los blogs corporativos (promovidos por una organización con fines estratégicos y de comunicación empresarial).\n\n**Ejemplo práctico:** Un aficionado al senderismo crea un blog en **WordPress** donde relata en primera persona sus rutas de fin de semana por los Pirineos, sus impresiones personales del paisaje y fotografías de sus excursiones sin ánimo comercial.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 6,
+      "pregunta": "¿Qué es un blogger o bloguero?",
+      "opciones": {
+        "a": "Alguien que escribe en un blog.",
+        "b": "Alguien a quien le gustan los blogs.",
+        "c": "Las personas que leen blogs.",
+        "d": "Aquéllos a quienes no les interesan los blogs."
+      },
+      "explicacion": "El término *blogger* o bloguero designa específicamente al autor o persona que redacta, edita y publica contenidos en un blog, ya sea de forma individual o como parte de un blog colectivo.\n\n**Ejemplo práctico:** Una experta en nutrición que redacta y publica semanalmente artículos divulgativos sobre hábitos saludables en su propia bitácora digital ejerce como *blogger* especializada en salud.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Cuál de las siguientes opciones NO es un beneficio que aportan los blogs corporativos a las empresas:",
+      "opciones": {
+        "a": "Posicionamiento.",
+        "b": "Perder dinero.",
+        "c": "Trabajo en equipo.",
+        "d": "Relaciones."
+      },
+      "explicacion": "Los blogs corporativos aportan múltiples ventajas estratégicas a las empresas: mejoran el posicionamiento orgánico en buscadores (SEO), fomentan el trabajo colaborativo interno y fortalecen las relaciones y el diálogo con los clientes. «Perder dinero» no es en ningún caso un beneficio empresarial.\n\n**Ejemplo práctico:** El blog corporativo de **Ikea** («Ideas Ikea») mejora su posicionamiento en Google cuando los usuarios buscan cómo organizar espacios pequeños, fideliza a la comunidad con consejos de decoración y coordina al equipo de interioristas y marketing de contenidos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Los wikis:",
+      "opciones": {
+        "a": "Son sitios web cuyas páginas web pueden ser editadas por múltiples personas. Los usuarios pueden crear, modificar o borrar un mismo texto que comparten.",
+        "b": "A nivel de la empresa, se trata de una herramienta colaborativa que permite trabajar conjuntamente a personas de diferentes áreas o situaciones geográficas, compartir conocimientos y llevar a cabo proyectos que de otra forma sería más difícil.",
+        "c": "Permiten almacenar información, modificarla, enriquecerla, cambiarla y compartirla de manera que se puede trabajar sobre documentos internos de la empresa con un alto nivel de colaboración y sólo a través de un navegador web.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Los wikis son plataformas web colaborativas cuyas páginas pueden ser creadas, editadas, enriquecidas o modificadas directamente desde el navegador por múltiples usuarios. En el ámbito corporativo constituyen una herramienta de gestión del conocimiento sumamente eficaz para el trabajo en equipo entre distintos departamentos o sedes geográficas.\n\n**Ejemplo práctico:** Una multinacional de software utiliza **Confluence** (un wiki corporativo) para que sus equipos de ingeniería en Madrid, Ciudad de México y Buenos Aires redacten, actualicen y compartan en tiempo real la documentación técnica de un nuevo producto.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes opciones NO es un uso de los wikis en la empresa:",
+      "opciones": {
+        "a": "Sesiones de intercambio de ideas.",
+        "b": "Wikis para los productos o servicios que comercialice la empresa.",
+        "c": "Wikis de intercambio social.",
+        "d": "Wikis para proyectos que involucren a varios departamentos o diferentes zonas geográficas."
+      },
+      "explicacion": "En el entorno empresarial, los wikis se emplean para sesiones de lluvia de ideas (*brainstorming*), documentación de productos o servicios y coordinación de proyectos interdepartamentales o internacionales. En cambio, el «intercambio social» lúdico es propio de las redes sociales generalistas, no la finalidad productiva de un wiki corporativo.\n\n**Ejemplo práctico:** Una consultora estratégica crea un wiki interno para documentar metodologías de proyectos y recoger ideas de innovación entre sus consultores, mientras que para la socialización informal emplea otros canales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes empresas es la creadora de uno de los wikis más conocidos, llamados jams:",
+      "opciones": {
+        "a": "Siemens.",
+        "b": "IBM.",
+        "c": "Google.",
+        "d": "Hotmail."
+      },
+      "explicacion": "IBM fue la compañía pionera en desarrollar e impulsar los *Innovation Jams* (conocidos como *jams*), eventos colaborativos masivos online basados en tecnología wiki y foros donde decenas de miles de empleados, clientes y socios de todo el mundo comparten ideas simultáneamente para resolver retos estratégicos.\n\n**Ejemplo práctico:** A través de su célebre **IBM InnovationJam**, IBM reunió a más de 150.000 participantes de 104 países en un entorno colaborativo online para co-crear nuevas líneas de negocio tecnológicas, invirtiendo 100 millones de dólares en las mejores propuestas surgidas.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

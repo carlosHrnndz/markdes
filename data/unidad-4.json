@@ -1,0 +1,126 @@
+{
+  "unidad": 4,
+  "titulo": "Autoevaluación Unidad 4 - El Marketing Promocional (II)",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las promociones de ventas se pueden orientar a diferentes tipos de públicos, entre los cuales NO se encuentran:",
+      "opciones": {
+        "a": "Los distribuidores o intermediarios.",
+        "b": "La fuerza de ventas de la competencia.",
+        "c": "Los consumidores.",
+        "d": "Los prescriptores."
+      },
+      "explicacion": "Las promociones de ventas se diseñan y dirigen hacia cuatro grandes colectivos que impulsan la comercialización del producto: los consumidores finales, los distribuidores o intermediarios del canal, la propia fuerza de ventas de la empresa y los prescriptores. La fuerza de ventas de las empresas competidoras no constituye un público objetivo de las promociones de la compañía.\n\n**Ejemplo práctico:** Un laboratorio farmacéutico organiza acciones promocionales para farmacéuticos (canal), médicos (prescriptores), sus propios visitadores médicos (fuerza de ventas) y compradores de parafarmacia (consumidores), pero jamás incentiva a los comerciales de un laboratorio rival.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "La promoción de ventas orientada a los equipos comerciales de la empresa:",
+      "opciones": {
+        "a": "Son lo mismo que los incentivos que la fuerza de ventas obtiene por cumplir sus objetivos.",
+        "b": "Tienen un carácter crónico, duran mucho tiempo.",
+        "c": "Pueden encaminarse a introducir nuevos productos, garantizando una cobertura mínima.",
+        "d": "Carecen de interés."
+      },
+      "explicacion": "Las promociones dirigidas a los equipos comerciales o fuerza de ventas propia son acciones puntuales (distintas del sistema salarial o de comisiones ordinarias permanentes) que resultan especialmente eficaces para motivar el esfuerzo comercial en objetivos concretos, tales como la introducción de nuevos productos en el mercado garantizando una cobertura mínima de puntos de venta o la captación de nuevas cuentas.\n\n**Ejemplo práctico:** Ante el lanzamiento de una nueva bebida isotónica, el fabricante convoca un concurso interno de un mes para sus vendedores en el que los diez comerciales que consigan introducir el producto en un mayor número de gimnasios y supermercados recibirán como premio un viaje con todos los gastos pagados.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las promociones al canal de distribución:",
+      "opciones": {
+        "a": "No necesitan la colaboración del canal para su desarrollo.",
+        "b": "Pueden ser una herramienta efectiva para el desarrollo de la cadena de valor del producto y dar un mayor valor al consumidor.",
+        "c": "Nunca incluyen productos gratis, compensaciones o descuentos.",
+        "d": "Si se basan en el precio pueden tener como consecuencia positiva que aumente la sensibilidad al precio, o debilitar la imagen de las marcas."
+      },
+      "explicacion": "Las promociones dirigidas al canal de distribución (*trade promotions*) constituyen una herramienta estratégica para fortalecer la relación con mayoristas y detallistas, impulsar la cadena de valor del producto (logrando mayor espacio en el lineal, mejor exposición o apoyo publicitario conjunto) y trasladar finalmente un mayor valor añadido al consumidor.\n\n**Ejemplo práctico:** Un fabricante de conservas ofrece a una cadena de supermercados una bonificación por volumen y expositores gratuitos de cabecera de góndola (*displays*); gracias a esta colaboración, el distribuidor destaca el producto en tienda y traslada parte del ahorro en forma de precios más competitivos para el comprador.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Respecto a las promociones al consumidor, cuál de las siguientes afirmaciones es FALSA:",
+      "opciones": {
+        "a": "Presentan la desventaja de que sus resultados tardan mucho tiempo en conocerse.",
+        "b": "El consumidor final es el principal destinatario de la acción promocional.",
+        "c": "Pueden tener como objetivo el asegurarse por parte de la empresa determinadas áreas o territorios.",
+        "d": "Pueden tener como objetivo el estimular nuevos hábitos de consumo."
+      },
+      "explicacion": "Es falso afirmar que los resultados de las promociones al consumidor tarden mucho tiempo en conocerse. Precisamente una de las mayores virtudes de las promociones de ventas frente a la publicidad convencional es la inmediatez de su respuesta y la rapidez con la que se pueden medir sus resultados en términos de redención de cupones, unidades vendidas o tráfico generado durante los días de vigencia.\n\n**Ejemplo práctico:** Cuando una cadena de restaurantes como Burger King lanza cupones digitales de descuento a través de su aplicación móvil para un fin de semana, el departamento de marketing conoce en tiempo real y al cierre del domingo el número exacto de cupones canjeados y el incremento inmediato de ventas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las herramientas que utilizan las promociones al consumidor son:",
+      "opciones": {
+        "a": "La muestra o sampling.",
+        "b": "Los cupones o vales de descuento.",
+        "c": "El reembolso.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Las promociones dirigidas al consumidor final se sirven de una amplia batería de herramientas o técnicas promocionales, entre las que destacan la entrega de muestras gratuitas (*sampling*) para inducir la prueba, los cupones o vales de descuento inmediato para incentivar la compra, y los reembolsos (*cashback* o devolución diferida de una parte del importe pagado tras presentar el justificante de compra).\n\n**Ejemplo práctico:** Procter & Gamble combina estas tres técnicas en sus líneas de cuidado personal: reparte sobrecitos de muestra gratuita de champú en revistas (*sampling*), imprime vales de 1 euro de descuento para la próxima compra (cupones) y ofrece el reembolso de 5 euros al subir el ticket de compra de una maquinilla de afeitar a su web (reembolso).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Un factor que puede contribuir al éxito de los concursos y sorteos es:",
+      "opciones": {
+        "a": "Ser actividades desconocidas y nuevas por el consumidor.",
+        "b": "Contar con un premio no demasiado atractivo.",
+        "c": "Que el premio sea muy valioso aunque los consumidores sepan que tienen pocas posibilidades de que les toque.",
+        "d": "Ser actividades conocidas y comprendidas por el consumidor."
+      },
+      "explicacion": "Para que los concursos (basados en la habilidad o mérito del participante) y los sorteos (basados en el azar) alcancen el éxito promocional esperado, resulta fundamental que sus mecánicas sean actividades sencillas, conocidas y fácilmente comprendidas por el consumidor. Si las bases legales o los requisitos de participación son confusos o desconocidos, se genera desconfianza y una drástica caída en la tasa de participación.\n\n**Ejemplo práctico:** Los sorteos de Nescafé («Un sueldo para toda la vida») tienen un éxito masivo porque su mecánica es tradicional, transparente y perfectamente comprendida por millones de consumidores desde hace décadas: basta con introducir códigos de barras de los envases en su página web o enviarlos por correo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Las promociones dirigidas a prescriptores:",
+      "opciones": {
+        "a": "Suelen ser muy agresivas.",
+        "b": "Son poco importantes ya que el prescriptor tiene poca credibilidad.",
+        "c": "Persiguen conseguir por parte del prescriptor la prescripción de la marca de la empresa.",
+        "d": "Nunca utilizan la técnica de visitas a laboratorios o fábricas."
+      },
+      "explicacion": "Los prescriptores son profesionales o líderes de opinión (médicos, arquitectos, profesores, instaladores, veterinarios) cuya recomendación influye decisivamente en la elección de compra del consumidor final. Las promociones dirigidas a este colectivo (muestras profesionales, documentación técnica, congresos, visitas a instalaciones) persiguen que el profesional conozca las bondades de la marca y la prescriba o recomiende a sus clientes o pacientes.\n\n**Ejemplo práctico:** Una marca de alimentación animal como Royal Canin envía muestras gratuitas de piensos dietéticos y organiza seminarios científicos para médicos veterinarios con el objetivo de que estos profesionales prescriban sus productos a los propietarios de mascotas en sus consultas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Sobre la planificación promocional, cuál de las siguientes afirmaciones es FALSA:",
+      "opciones": {
+        "a": "Debe ser organizada y gestionada en torno a los objetivos y planteamientos más generales del plan de marketing de la empresa.",
+        "b": "No necesitan un plan de control, ya que la evaluación de los resultados no es importante.",
+        "c": "Al planificarla, hay que buscar que se complemente y se apoye en la publicidad en el punto de venta.",
+        "d": "Las promociones deben ser gestionadas y planificadas de una forma profesional, ya que pueden presentar importantes efectos sobre las ventas futuras."
+      },
+      "explicacion": "Resulta completamente falso sostener que la planificación promocional no requiera un plan de control o que la evaluación de sus resultados carezca de importancia. Todo plan promocional riguroso exige una fase de control y medición (pre-test, seguimiento durante la campaña y post-test) para evaluar la rentabilidad de la acción (ROI), verificar el cumplimiento de los objetivos y corregir posibles desviaciones.\n\n**Ejemplo práctico:** Tras finalizar una campaña de puntos canjeables por regalos, una estación de servicio como Repsol realiza una auditoría de control comparando el coste total de los regalos entregados y la inversión en cartelería frente al margen neto generado por los litros adicionales de carburante vendidos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de los siguientes aspectos NO es importante para el desarrollo efectivo de una promoción:",
+      "opciones": {
+        "a": "Lanzar promociones sencillas.",
+        "b": "Establecer metas específicas.",
+        "c": "Hacer que el valor sea percibido y no real.",
+        "d": "Conocer el público que ha sido seleccionado como objetivo."
+      },
+      "explicacion": "Para el desarrollo efectivo y sostenible de una promoción de ventas, el valor ofrecido al destinatario debe ser auténtico y real, nunca engañoso o meramente aparente («percibido y no real»). Si el consumidor descubre que el incentivo promocional es ficticio (por ejemplo, inflar artificialmente el precio los días previos para simular un descuento inexistente), se produce frustración, pérdida de credibilidad y deterioro grave de la imagen de marca.\n\n**Ejemplo práctico:** Una tienda de moda que anuncia una promoción de «ahorro real del 30%» manteniendo en la etiqueta tanto el precio original verdadero como el precio rebajado genera confianza y fidelidad, mientras que simular descuentos sobre precios falsamente incrementados destruye la reputación del comercio.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Un modelo de plan de comunicación debe incluir:",
+      "opciones": {
+        "a": "Determinación de objetivos cualitativos y cuantitativos.",
+        "b": "Selección del target.",
+        "c": "Definición los medios.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Un modelo integral de plan de comunicación debe estructurarse de forma sistemática incluyendo la fijación de objetivos tanto cuantitativos (ventas, cobertura, cuota) como cualitativos (notoriedad, imagen, posicionamiento), la identificación precisa del público objetivo (*target*) al que se dirige la acción, y la definición de los medios, soportes y herramientas que vehicularán el mensaje, además del presupuesto y los mecanismos de control.\n\n**Ejemplo práctico:** Al diseñar su plan anual de comunicación, una universidad privada establece objetivos cuantitativos (aumentar un 15% las solicitudes de admisión) y cualitativos (posicionarse como líder en empleabilidad), define su *target* (estudiantes de 2.º de Bachillerato y sus padres) y selecciona los medios idóneos (ferias educativas, redes sociales y buscadores).",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "unidad": 5,
+  "titulo": "Autoevaluación Unidad 5 - Las Relaciones Públicas y el Marketing Relacional",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El publicity consiste en:",
+      "opciones": {
+        "a": "Lo mismo que la publicidad.",
+        "b": "Conseguir inserciones gratuitas en la prensa y la radio fundamentalmente con objeto de promocionar o dar imagen de un producto, lugar o persona.",
+        "c": "Pagar inserciones en la prensa y la radio fundamentalmente con objeto de promocionar o dar imagen de un producto, lugar o persona.",
+        "d": "Lo mismo que las promociones de ventas."
+      },
+      "explicacion": "El *publicity* (o comunicación no pagada en medios) es una técnica de relaciones públicas cuyo objetivo es lograr apariciones o cobertura editorial gratuita en los medios de comunicación (prensa, radio, televisión o medios digitales) mediante la generación de noticias de interés periodístico. A diferencia de la publicidad convencional, la empresa no compra el espacio publicitario, lo que otorga al mensaje una mayor credibilidad y objetividad percibida ante la audiencia.\n\n**Ejemplo práctico:** Una firma tecnológica envía una nota de prensa sobre una innovación sostenible en sus baterías y consigue que un periódico nacional de tirada diaria publique un reportaje de media página hablando del producto sin haber pagado por dicho espacio publicitario.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Los stakeholders en relaciones públicas son:",
+      "opciones": {
+        "a": "La diversidad de públicos considerados en las relaciones públicas.",
+        "b": "Los que tienen acciones.",
+        "c": "Los clientes VIP.",
+        "d": "La propia empresa."
+      },
+      "explicacion": "En el ámbito de las relaciones públicas y la comunicación corporativa, el término *stakeholders* (grupos de interés) engloba a todos aquellos colectivos o públicos estratégicos que afectan o pueden verse afectados por las decisiones y actividades de la organización. Lejos de limitarse únicamente a los accionistas (*shareholders*) o clientes VIP, abarca empleados, proveedores, medios de comunicación, administraciones públicas, comunidad local y consumidores.\n\n**Ejemplo práctico:** Cuando una cadena de supermercados diseña su plan anual de relaciones públicas, mapea sus *stakeholders* e incluye planes específicos de comunicación para productores agrícolas locales (proveedores), sindicatos (empleados), asociaciones de consumidores y ayuntamientos.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre las relaciones públicas NO es correcta:",
+      "opciones": {
+        "a": "Tienen unos objetivos más a largo plazo que la publicidad y la promoción de ventas.",
+        "b": "Se orientan a crear un clima de confianza entre el consumidor y la empresa.",
+        "c": "Elevan la imagen de marca del producto y contrarrestan la excesiva agresividad que puede tener la venta personal o el merchandising.",
+        "d": "Tienen unos objetivos más a corto plazo que la publicidad y la promoción de ventas."
+      },
+      "explicacion": "Las relaciones públicas son una herramienta estratégica de construcción de imagen, reputación y confianza mutua entre la organización y sus grupos de interés, por lo que su horizonte temporal es eminentemente a medio y largo plazo. A diferencia de la promoción de ventas o ciertas campañas publicitarias tácticas que buscan una respuesta inmediata en las ventas a corto plazo, las relaciones públicas consolidan el capital relacional y simbólico de la marca de forma sostenida.\n\n**Ejemplo práctico:** Una empresa energética desarrolla durante cinco años un programa de becas universitarias y jornadas de puertas abiertas para construir una reputación de transparencia e innovación, cuyos frutos se recogen a largo plazo en forma de licencia social para operar y lealidad institucional.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Las relaciones públicas y la publicidad:",
+      "opciones": {
+        "a": "Son lo mismo.",
+        "b": "No son lo mismo pero tienen los mismos objetivos.",
+        "c": "El objetivo de la publicidad es económico, mientras que en el caso de las relaciones públicas se persigue un fin más social.",
+        "d": "Las dos son de naturaleza pagada y controlada por la propia empresa que las realiza."
+      },
+      "explicacion": "Aunque ambas forman parte del mix de comunicación, la publicidad persigue un propósito fundamentalmente comercial y económico (incrementar las ventas o la notoriedad mediante espacios comprados y mensajes controlados), mientras que las relaciones públicas persiguen un fin más social e institucional: construir vínculos de confianza, aceptación social, prestigio y entendimiento mutuo con todos los públicos de la organización.\n\n**Ejemplo práctico:** Mientras la campaña publicitaria de un banco promociona una hipoteca con un tipo de interés atractivo para captar contratos ese trimestre (fin económico), su campaña de relaciones públicas difunde su memoria anual de sostenibilidad y educación financiera para reforzar su legitimidad social.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las relaciones públicas y las promociones de ventas:",
+      "opciones": {
+        "a": "Las dos tienen un efecto sobre las ventas a largo plazo.",
+        "b": "Las relaciones públicas tienen un nivel de presión muy alto (hard) y las promociones muy bajo (soft).",
+        "c": "El mensaje de las relaciones públicas no contiene elementos que estimule la venta y el de la promoción de ventas, sí.",
+        "d": "Las dos tienen como objetivo el producir una venta en el acto."
+      },
+      "explicacion": "Las relaciones públicas emplean una comunicación de carácter *soft* (baja presión comercial), centrada en la información, la credibilidad y la creación de un clima favorable sin incluir incentivos directos de compra inmediata. Por el contrario, la promoción de ventas es una herramienta de presión *hard* cuyo mensaje incorpora un estímulo explícito (descuentos, regalos, cupones) diseñado para provocar el cierre de la venta a corto plazo.\n\n**Ejemplo práctico:** Un fabricante de automóviles organiza una exposición retrospectiva sobre la historia de la seguridad vial (relaciones públicas, sin llamada directa a la compra), mientras que en sus concesionarios lanza una promoción de ventas ofreciendo 2.000 euros de descuento directo durante una semana.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones es un ejemplo de posibles stakeholders de las relaciones públicas:",
+      "opciones": {
+        "a": "Proveedores.",
+        "b": "Trabajadores.",
+        "c": "Administraciones públicas.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Los *stakeholders* o grupos de interés de las relaciones públicas comprenden tanto públicos internos (como los trabajadores y directivos) como públicos externos y semiexternos (proveedores, distribuidores, administraciones públicas, medios de comunicación, accionistas y clientes). La gestión eficaz de las relaciones públicas exige atender las expectativas de todos ellos de manera integral.\n\n**Ejemplo práctico:** Ante la apertura de una nueva planta logística, el departamento de RR. PP. organiza una sesión informativa para la plantilla (trabajadores), un encuentro de homologación con transportistas (proveedores) y una visita institucional con la consejería autonómica y el ayuntamiento (administraciones públicas).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El marketing relacional se orienta a:",
+      "opciones": {
+        "a": "Satisfacer el cliente.",
+        "b": "Vender productos.",
+        "c": "Tener la mayor cuota del mercado.",
+        "d": "Las 4 Ps del marketing-mix."
+      },
+      "explicacion": "El marketing relacional supone una evolución desde el marketing transaccional (centrado en la venta aislada y en las 4 Ps tradicionales) hacia un enfoque centrado en satisfacer de manera integral al cliente y construir con él una relación de valor continuada a largo plazo. Su premisa es que la retención y satisfacción sostenida del cliente genera mayor rentabilidad que la mera captación puntual.\n\n**Ejemplo práctico:** Una compañía de software en la nube asigna gestores de éxito del cliente (*Customer Success Managers*) que acompañan a cada empresa usuaria para asegurar que obtienen el máximo rendimiento de la herramienta, priorizando su satisfacción y permanencia frente a la venta agresiva de licencias.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes opciones NO es un elemento característico del enfoque stakeholder de las relaciones públicas:",
+      "opciones": {
+        "a": "La empresa se ve presionada a hacer converger su propio interés y beneficio con los intereses de los stakeholders.",
+        "b": "La apertura hacia nuevos públicos con intereses en la organización.",
+        "c": "Asumir que la acción de la empresa puede generar conflictos con alguno de sus diferentes públicos.",
+        "d": "Las ventas son el objetivo más importante a corto plazo, aunque a largo plazo determinadas acciones puedan ser negativas."
+      },
+      "explicacion": "El enfoque *stakeholder* en las relaciones públicas se fundamenta en el diálogo simétrico, la responsabilidad social y la búsqueda de un equilibrio duradero entre los intereses de la empresa y los de sus diversos públicos. Priorizar las ventas a corto plazo a costa de perjudicar las relaciones o generar efectos negativos a largo plazo contradice frontalmente esta filosofía y corresponde a una visión miope puramente transaccional.\n\n**Ejemplo práctico:** Una marca textil que rechaza abaratar costes contratando talleres con condiciones laborales precarias aplica el enfoque *stakeholder*: sacrifica un margen comercial inmediato a corto plazo para proteger la dignidad de los trabajadores y la reputación corporativa a largo plazo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Las 7Cs de las relaciones públicas son:",
+      "opciones": {
+        "a": "Credibilidad, contexto, contenido, claridad y continuidad.",
+        "b": "Credibilidad, contexto, contenido, claridad, continuidad, canales y perfil del target.",
+        "c": "Credibilidad, contexto, contenido, circunstancia, consumidor, cliente y crecimiento.",
+        "d": "Credibilidad, contexto, contenido, producto, precio, distribución y consumidor."
+      },
+      "explicacion": "El modelo clásico de las «7 Cs» de las relaciones públicas (formulado por Cutlip y Center) establece los siete principios fundamentales para que la comunicación corporativa sea eficaz: Credibilidad (el receptor debe confiar en el emisor), Contexto (adaptación a la realidad del entorno), Contenido (significativo para el público), Claridad (mensaje comprensible), Continuidad y consistencia (repetición coherente en el tiempo), Canales (uso de medios que el público realmente utiliza) y Capacidad o perfil del *target* (adaptación a las capacidades e intereses de la audiencia).\n\n**Ejemplo práctico:** Al comunicar un plan de transformación digital a sus empleados, una multinacional aplica las 7 Cs: el mensaje lo emite un portavoz respetado (credibilidad), explica cómo afectará al trabajo diario (contexto y contenido), usa un lenguaje sencillo sin tecnicismos (claridad), se mantiene en boletines mensuales (continuidad), a través de la intranet corporativa (canales) y adaptado al nivel técnico de cada departamento (perfil del *target*).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El objetivo general del marketing relacional es:",
+      "opciones": {
+        "a": "El establecimiento de relaciones duraderas y rentables exclusivamente con los clientes.",
+        "b": "Desarrollar correctamente las 4Ps del marketing-mix.",
+        "c": "Vender productos aunque no satisfagan a los clientes.",
+        "d": "El establecimiento de relaciones duraderas y rentables con el denominado “mercado de clientes”, pero también con el resto de mercados, o “mercados ampliados”."
+      },
+      "explicacion": "El marketing relacional contemporáneo (según modelos como el de los «seis mercados» de Christopher, Payne y Ballantyne) no se limita a forjar relaciones duraderas y rentables únicamente con el mercado de clientes finales, sino que extiende su alcance a los denominados «mercados ampliados»: proveedores, empleados (mercado interno), prescriptores, distribuidores e instituciones (mercado de influencia).\n\n**Ejemplo práctico:** Una cadena hotelera implementa un programa de fidelización para sus huéspedes (mercado de clientes), pero simultáneamente desarrolla alianzas estables a diez años con lavanderías ecológicas (mercado de proveedores) y acuerdos con agencias de viajes y portales turísticos (mercados ampliados de prescriptores).",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

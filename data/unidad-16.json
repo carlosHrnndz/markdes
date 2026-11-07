@@ -1,0 +1,126 @@
+{
+  "unidad": 16,
+  "titulo": "Autoevaluación Unidad 16 - Lanzamiento de Nuevos Productos y Servicios",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las empresas deben preocuparse por lanzar nuevos productos o servicios porque:",
+      "opciones": {
+        "a": "La competencia lo hace.",
+        "b": "Para crecer constantemente.",
+        "c": "Es la única forma de supervivencia de la empresa.",
+        "d": "No es imprescindible que una empresa lance nuevos productos o servicios."
+      },
+      "explicacion": "En un entorno competitivo dinámico, caracterizado por el acortamiento de los ciclos de vida de los productos, el cambio tecnológico acelerado y la evolución constante de las preferencias de los clientes, la innovación y el lanzamiento de nuevos productos o servicios no son opcionales, sino la única vía para garantizar la supervivencia a largo plazo de la empresa. Quien no renueva su cartera acaba viendo cómo sus productos actuales entran inevitablemente en declive.\n\n**Ejemplo práctico:** Kodak dominó durante décadas la fotografía analógica, pero su resistencia a comercializar y liderar a tiempo las cámaras digitales (para no canibalizar su negocio de carretes químicos) puso en jaque su propia supervivencia empresarial cuando el mercado migró masivamente a la tecnología digital.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El proceso de desarrollo de un nuevo producto consta de:",
+      "opciones": {
+        "a": "1 etapa.",
+        "b": "2 etapas.",
+        "c": "8 etapas.",
+        "d": "22 etapas."
+      },
+      "explicacion": "De acuerdo con la metodología estándar de dirección de marketing (Kotler y Armstrong), el proceso secuencial de desarrollo de nuevos productos se estructura formalmente en 8 etapas: 1) Generación de ideas, 2) Tamizado o filtrado de ideas, 3) Desarrollo y test del concepto, 4) Diseño de la estrategia de marketing, 5) Análisis del negocio (viabilidad económica), 6) Desarrollo del producto (prototipos), 7) Test de mercado y 8) Comercialización.\n\n**Ejemplo práctico:** Cuando Samsung desarrolla una nueva generación de teléfonos plegables (Galaxy Z Fold), sigue un proceso estructurado en ocho fases que va desde la ideación y filtrado técnico en sus centros de I+D hasta las pruebas de concepto con usuarios, el análisis de rentabilidad, la fabricación de prototipos funcionales, los test en mercados piloto y el lanzamiento comercial global.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 3,
+      "pregunta": "La primera etapa en el desarrollo de un nuevo producto es:",
+      "opciones": {
+        "a": "La comercialización.",
+        "b": "La generación de nuevas ideas.",
+        "c": "El desarrollo del producto.",
+        "d": "El test de mercado."
+      },
+      "explicacion": "El proceso de desarrollo de nuevos productos se inicia siempre con la etapa de generación de nuevas ideas, consistente en la búsqueda sistemática y continua de oportunidades para nuevos productos o servicios. Estas ideas pueden provenir tanto de fuentes internas (departamentos de I+D, empleados, fuerza de ventas) como de fuentes externas (clientes, competidores, distribuidores, universidades o centros tecnológicos).\n\n**Ejemplo práctico:** LEGO impulsa la primera etapa de generación de ideas a través de su plataforma 'LEGO Ideas', donde aficionados y consumidores de todo el mundo proponen diseños de nuevos sets; aquellas propuestas que alcanzan 10.000 votos pasan a ser evaluadas formalmente por la compañía.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La fase de tamizado de ideas consiste en:",
+      "opciones": {
+        "a": "Generar nuevas ideas.",
+        "b": "Mezclar todas las ideas.",
+        "c": "Segmentar y clasificar las ideas.",
+        "d": "Reducir el número de ideas hasta quedarnos con las que son mejores."
+      },
+      "explicacion": "Mientras que la generación de ideas busca maximizar la cantidad de propuestas, el propósito de la segunda etapa —el tamizado o cribado de ideas ('idea screening')— es evaluar y filtrar críticamente dichas propuestas para descartar cuanto antes aquellas que resulten inviables, poco rentables o incompatibles con los objetivos y recursos de la empresa, quedándonos únicamente con las ideas de mayor potencial.\n\n**Ejemplo práctico:** En una empresa farmacéutica o cosmética como Beiersdorf (Nivea), de cientos de ideas de nuevas fórmulas propuestas anualmente por el laboratorio y el equipo de marketing, el comité de innovación aplica un tamizado técnico, legal y comercial para seleccionar solo la docena de proyectos que merecen pasar a la fase de desarrollo de concepto.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿Qué es el concepto de producto?",
+      "opciones": {
+        "a": "Una versión elaborada de una idea, una descripción detallada de esa idea entendible por el consumidor.",
+        "b": "El esquema dibujado del producto.",
+        "c": "La definición teórica de un producto.",
+        "d": "El número de variaciones que incluye un producto: colores, tamaños, etc."
+      },
+      "explicacion": "Es fundamental distinguir entre una idea de producto (posible producto que la empresa podría ofrecer), un concepto de producto y una imagen de producto. El concepto de producto es una versión detallada y elaborada de la idea, expresada en términos significativos y comprensibles para el consumidor, donde se especifica a quién va dirigido, qué beneficio principal aporta y en qué situación de uso se consumirá.\n\n**Ejemplo práctico:** Una simple idea sería 'fabricar un polvo nutritivo para añadir a la leche'; transformada en concepto de producto comprensible para el consumidor sería: 'un preparado instantáneo soluble en leche fría o caliente, enriquecido con vitaminas y cacao, pensado para que los niños tomen un desayuno energético y rápido antes de ir al colegio' (como ColaCao o Nesquik).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La fase de desarrollo del producto consiste en:",
+      "opciones": {
+        "a": "Valorar las preferencias de los consumidores.",
+        "b": "Obtener nuevas ideas para nuevos productos o servicios.",
+        "c": "Generar el producto físico, los prototipos o maqueta.",
+        "d": "Comercializar el producto."
+      },
+      "explicacion": "Superadas las fases de concepto y análisis económico de negocio, la etapa de desarrollo del producto (sexta fase del proceso) es aquella en la que el departamento de I+D o ingeniería transforma el concepto teórico en un producto físico tangible o servicio operativo, construyendo uno o varios prototipos o maquetas funcionales que son sometidos a rigurosas pruebas técnicas y de consumo antes de su producción a escala.\n\n**Ejemplo práctico:** En el desarrollo de una nueva zapatilla de running de Nike, durante la fase de desarrollo del producto los ingenieros fabrican prototipos físicos con nuevas espumas y placas de fibra de carbono, sometiéndolos a pruebas biomecánicas en laboratorio y entrenamientos reales con atletas de élite antes de autorizar la fabricación en serie.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El proceso de adopción de un producto describe:",
+      "opciones": {
+        "a": "Las etapas de creación de un nuevo producto o servicio.",
+        "b": "Cómo los consumidores llegan a conocer el nuevo producto, cómo lo prueban, si lo aceptan o le rechazan y si repiten la compra.",
+        "c": "Las pruebas que hay que hacer antes de lanzar un nuevo producto para cumplir con la normativa legal.",
+        "d": "Los procesos que realizan los ingenieros para probar si un nuevo producto funciona o no."
+      },
+      "explicacion": "El proceso de adopción del consumidor (estudiado por Everett Rogers) describe el proceso mental y conductual que atraviesa un individuo desde que tiene noticia por primera vez de una innovación hasta que finalmente la adopta de forma regular. Comprende cinco fases en el comprador: conciencia (conocimiento), interés, evaluación, prueba (aceptación o rechazo) y adopción definitiva (repetición de compra).\n\n**Ejemplo práctico:** Cuando un consumidor descubre la existencia de los coches eléctricos Tesla (conciencia), busca información sobre su autonomía (interés), compara su coste de mantenimiento frente a la gasolina (evaluación), solicita una prueba de conducción en el concesionario (prueba) y finalmente compra el vehículo convirtiéndose en usuario habitual (adopción).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Cuál de las siguientes opciones es una variable de la tasa de velocidad del proceso de adopción:",
+      "opciones": {
+        "a": "Ventaja relativa.",
+        "b": "Complejidad.",
+        "c": "Posibilidad de comunicación.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Según la teoría de la difusión de innovaciones de Rogers, la velocidad o tasa a la que los consumidores adoptan un nuevo producto depende de cinco características intrínsecas de la innovación: su ventaja relativa (superioridad percibida frente a lo existente), su compatibilidad (ajuste con los valores y hábitos del usuario), su complejidad (grado de dificultad para entenderlo y usarlo), su divisibilidad (posibilidad de probarlo de forma limitada) y su comunicabilidad o posibilidad de comunicación (facilidad para observar y transmitir sus resultados a otros).\n\n**Ejemplo práctico:** El sistema de pago móvil Apple Pay tuvo una tasa de adopción muy rápida porque ofrecía una clara ventaja relativa (pagar sin sacar la cartera), baja complejidad (basta acercar el teléfono con Face ID) y alta comunicabilidad (cualquier persona en la fila de una tienda veía lo rápido y sencillo que resultaba usarlo).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "En la adopción de cualquier innovación o idea, el grupo de personas que en primer lugar compran el producto son los llamados:",
+      "opciones": {
+        "a": "Innovadores.",
+        "b": "Adaptadores iniciales.",
+        "c": "Mayoría temprana.",
+        "d": "Retardados."
+      },
+      "explicacion": "En la curva de difusión de innovaciones de Everett Rogers, los consumidores se clasifican en cinco categorías según el momento en que adoptan un nuevo producto: Innovadores (2,5 %), Adaptadores iniciales o early adopters (13,5 %), Mayoría temprana (34 %), Mayoría tardía (34 %) y Rezagados o retardados (16 %). Los 'Innovadores' son el primer grupo en adquirir el producto: personas audaces, entusiastas de la novedad y dispuestas a asumir el riesgo de probar tecnologías incipientes.\n\n**Ejemplo práctico:** Quienes reservaron y compraron las gafas de realidad mixta Apple Vision Pro el mismo día de su lanzamiento en Estados Unidos por 3.499 dólares, a pesar de ser una primera generación con un catálogo de aplicaciones aún en desarrollo, representan el perfil arquetípico de los 'Innovadores'.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 10,
+      "pregunta": "En la adopción de una innovación, el grupo de personas llamados mayoría temprana son aquéllos que:",
+      "opciones": {
+        "a": "Son los pioneros en probar un nuevo producto.",
+        "b": "Son una mayoría inicial divulgadora, que acogen las ideas antes que la media pero no son líderes.",
+        "c": "Son los que sospechan los cambios y se aferran a las tradiciones.",
+        "d": "Son los que aman la aventura y están deseando probar nuevas ideas con riesgo."
+      },
+      "explicacion": "Dentro de la curva de adopción de innovaciones, la 'Mayoría temprana' (que representa un 34 % del mercado) está compuesta por consumidores reflexivos y pragmáticos: aunque rara vez son líderes de opinión o pioneros arriesgados, adoptan las nuevas ideas antes que el consumidor medio una vez que han comprobado que el producto funciona bien en manos de los adaptadores iniciales, actuando como el gran grupo divulgador que impulsa la masificación del producto.\n\n**Ejemplo práctico:** En la adopción de los robots aspiradores tipo Roomba, la mayoría temprana estuvo formada por aquellos hogares que no compraron los primeros modelos experimentales, pero que adquirieron el producto en cuanto vieron recomendaciones positivas de amigos o familiares cercanos, consolidando su presencia masiva antes de que se convirtiera en un electrodoméstico estándar.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

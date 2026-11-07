@@ -1,0 +1,126 @@
+{
+  "unidad": 26,
+  "titulo": "Autoevaluación Unidad 26 - Seguimiento y Medición de Nuevos Procesos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El propósito final de la  gestión por procesos es:",
+      "opciones": {
+        "a": "Conseguir que una empresa tenga el máximo número posible de procesos en marcha, para así mejorar su eficacia y eficiencia.",
+        "b": "Asegurar que todos los procesos de una organización de desarrollen de forma coordinada, mejorando su efectividad y la satisfacción de todas las partes interesadas (clientes, accionistas, personal, proveedores y sociedad en general).",
+        "c": "Minimizar el número de procesos que tiene una empresa hasta que sólo quede uno.",
+        "d": "Que no existan los procesos en las empresas."
+      },
+      "explicacion": "El objetivo primordial de la gestión por procesos radica en alinear y coordinar horizontalmente todas las actividades de la organización para superar los compartimentos estancos departamentales, incrementando así la eficacia y eficiencia global del sistema y maximizando el valor aportado y la satisfacción de todas las partes interesadas (clientes, empleados, accionistas, proveedores y sociedad).\n\n**Ejemplo práctico:** Una entidad bancaria rediseña su proceso de concesión de préstamos hipotecarios integrando de forma coordinada los departamentos comercial, de análisis de riesgos y de asesoría jurídica en un flujo único digital, reduciendo el tiempo de respuesta al cliente de 30 a 5 días y mejorando la rentabilidad operativa.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Una adecuada gestión de los procesos permite:",
+      "opciones": {
+        "a": "Mejorar los resultados minimizando el consumo de recursos.",
+        "b": "Los procesos nunca pueden tener una gestión adecuada.",
+        "c": "Aumentar el consumo de recursos y disminuir los beneficios de la empresa.",
+        "d": "Evitar que la competencia lance nuevos productos."
+      },
+      "explicacion": "Una gestión por procesos bien estructurada permite identificar actividades que no aportan valor (desperdicios o mermas), eliminar duplicidades y optimizar los flujos de trabajo, logrando así mejorar los resultados operativos y de calidad al tiempo que se minimiza el consumo de recursos materiales, financieros y de tiempo (eficiencia).\n\n**Ejemplo práctico:** Una planta de fabricación de envases de vidrio implanta el control estadístico en su proceso de fundición y moldeo, logrando reducir la tasa de botellas defectuosas del 6 % al 0,8 % y disminuyendo el consumo energético del horno por unidad producida.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "¿Qué es un proceso?",
+      "opciones": {
+        "a": "Un conjunto de etapas secuenciales que pueden variar de orden y de control de calidad.",
+        "b": "Un conjunto de actividades mutuamente relacionadas o que interactúan, las cuales transforman elementos de entrada en resultados.",
+        "c": "Una acción de mejora.",
+        "d": "Un producto."
+      },
+      "explicacion": "De acuerdo con la definición canónica de la norma ISO 9000, un proceso es un conjunto de actividades mutuamente relacionadas o que interactúan entre sí, las cuales transforman elementos de entrada (inputs como materiales, información o requisitos) en resultados o salidas (outputs como productos, servicios o registros) aportando valor añadido.\n\n**Ejemplo práctico:** En un laboratorio de análisis clínicos, el proceso de bioquímica recibe como elementos de entrada las muestras sanguíneas extraídas y la petición médica, ejecuta las actividades interrelacionadas de centrifugación, reacción química y validación facultativa, y genera como resultado el informe diagnóstico calibrado.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Un sistema de gestión de calidad es aquél que sirve para:",
+      "opciones": {
+        "a": "Rentabilizar una inversión de una maquinaria.",
+        "b": "Desatender la calidad de la organización.",
+        "c": "Dirigir y controlar una organización con respecto a la calidad.",
+        "d": "Ninguna de las anteriores es correcta."
+      },
+      "explicacion": "Según la normativa internacional ISO 9000, un Sistema de Gestión de la Calidad (SGC) constituye la estructura organizativa, documental, de procesos y de recursos que permite dirigir y controlar una organización en todo lo relativo a la calidad, estableciendo la política, los objetivos y los mecanismos de mejora continua para satisfacer los requisitos del cliente y los legales.\n\n**Ejemplo práctico:** Una empresa de desarrollo de software médico implanta un SGC certificado bajo ISO 9001 e ISO 13485 para dirigir y controlar desde la toma de requerimientos clínicos hasta las pruebas de validación de código y el soporte postventa, asegurando la fiabilidad de sus aplicaciones.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El requisito de la Norma ISO 9001, 8.2.3. “Seguimiento y medición de los procesos” hace referencia a:",
+      "opciones": {
+        "a": "Los métodos para el seguimiento y, cuando sea aplicable, la medición de los procesos del sistema de gestión de calidad que la empresa debe aplicar.",
+        "b": "Los métodos de control de proveedores que la empresa debe aplicar.",
+        "c": "No hace referencia a ninguna normativa que las empresas deban aplicar.",
+        "d": "No hace referencia a la empresa."
+      },
+      "explicacion": "La cláusula de «Seguimiento y medición de los procesos» de la Norma ISO 9001 exige que la organización aplique métodos apropiados para monitorizar y, cuando sea aplicable, medir los procesos que integran su Sistema de Gestión de la Calidad, con el fin de demostrar la capacidad de dichos procesos para alcanzar los resultados planificados y activar correcciones si no se logran.\n\n**Ejemplo práctico:** Una empresa de logística urgente aplica en cumplimiento de este requisito de ISO 9001 un método de seguimiento diario del tiempo de tránsito y porcentaje de entregas en plazo (OTIF), activando planes de contingencia en ruta cuando el indicador baja del 98 % establecido como meta.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Para medir los procesos, se requiere:",
+      "opciones": {
+        "a": "Que haya un desconocimiento de los procesos a llevar a cabo.",
+        "b": "Tener criterios de medición y sistemas de recopilación de información para conocer los avances, desviaciones, retrocesos y logros en los procesos.",
+        "c": "Que exista una base de datos donde guardar la información, con acceso para su control por parte de las autoridades.",
+        "d": "No hay ningún requerimiento específico."
+      },
+      "explicacion": "Para que la medición de los procesos sea objetiva, sistemática y útil para la toma de decisiones basada en evidencias, es indispensable definir previamente criterios claros de evaluación (estándares, metas, tolerancias) y disponer de sistemas fiables de captura y recopilación de datos que permitan monitorizar el grado de avance, detectar desviaciones o retrocesos y verificar el cumplimiento de los logros previstos.\n\n**Ejemplo práctico:** En un centro de atención al cliente (contact center), antes de medir el proceso de soporte técnico se establecen criterios claros (resolución en primera llamada superior al 85 % y tiempo medio de espera inferior a 45 segundos) y se configura el software de telefonía IP para registrar automáticamente ambas métricas en tiempo real.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Los indicadores de calidad:",
+      "opciones": {
+        "a": "Son instrumentos que permiten evaluar la calidad y progreso en el tiempo, en diferentes áreas y en el conjunto de la empresa.",
+        "b": "Sirven para identificar oportunidades de mejora y establecer objetivos de calidad realistas.",
+        "c": "Contribuyen a sensibilizar hacia la calidad a todos los niveles de la organización.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Los indicadores de calidad (KPIs) cumplen una triple función estratégica y operativa: actúan como instrumentos cuantitativos para evaluar la evolución temporal del desempeño por áreas y globalmente, permiten detectar brechas y oportunidades de mejora fijando metas realistas, y fomentan una cultura organizacional orientada a la calidad al visibilizar los resultados ante todo el personal.\n\n**Ejemplo práctico:** Una planta automotriz publica en paneles digitales de planta el indicador de «piezas conformes a la primera» (First Time Through): la dirección lo usa para evaluar el progreso anual, ingeniería para fijar metas de reducción de fallos de pintura y los operarios de línea para concienciarse sobre la importancia del autocontrol.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 8,
+      "pregunta": "El análisis de indicadores y sus patrones tienen tres usos principales. Cuál de las siguientes opciones NO es una de ellas:",
+      "opciones": {
+        "a": "Ayudar a diagnosticar una situación.",
+        "b": "Hacer seguimiento al desempeño.",
+        "c": "Ayudar en la planificación y mejora.",
+        "d": "Indicar el marketing-mix de un producto."
+      },
+      "explicacion": "El análisis de los indicadores de gestión y de sus tendencias o patrones temporales tiene tres propósitos fundamentales en el control de procesos: diagnosticar la situación actual (detectando anomalías), realizar el seguimiento continuo del desempeño frente a los objetivos y sustentar la planificación estratégica y la mejora continua. Por el contrario, el diseño del marketing-mix (producto, precio, distribución y comunicación) es una decisión de estrategia comercial, no una función intrínseca de la analítica de control de procesos.\n\n**Ejemplo práctico:** El responsable de calidad de una empresa textil analiza la evolución mensual del índice de rotura de hilo en tejeduría para diagnosticar un desgaste en los telares, monitorizar el desempeño del turno nocturno y planificar el mantenimiento preventivo, sin que dicho indicador determine la estrategia publicitaria o de precios de las prendas.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "¿Dónde se inició el uso de técnicas estadísticas?",
+      "opciones": {
+        "a": "En la antigua Unión Soviética.",
+        "b": "En Japón.",
+        "c": "En España.",
+        "d": "En Angola."
+      },
+      "explicacion": "Aunque las bases matemáticas del control estadístico de procesos fueron desarrolladas inicialmente por Walter A. Shewhart en Estados Unidos en los años veinte, su aplicación sistemática, masiva y generalizada a nivel industrial como pilar de la gestión de la calidad total se consolidó e impulsó decisivamente en Japón tras la Segunda Guerra Mundial, gracias a las enseñanzas de W. Edwards Deming, Joseph Juran y Kaoru Ishikawa.\n\n**Ejemplo práctico:** Empresas japonesas como Toyota y Sony adoptaron desde la década de 1950 las siete herramientas básicas de la calidad de Ishikawa y los gráficos de control estadístico de Deming en todas sus líneas de producción, logrando niveles históricos de fiabilidad que transformaron la industria manufacturera mundial.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "El uso de técnicas estadísticas sirve para:",
+      "opciones": {
+        "a": "Mejorar la calidad y la productividad.",
+        "b": "Mejorar la imagen de marca.",
+        "c": "Empeorar la calidad pero incrementar el margen de beneficio.",
+        "d": "No tiene ningún uso en la empresa."
+      },
+      "explicacion": "La aplicación de técnicas estadísticas (como el Control Estadístico de Procesos o SPC, estudios de capacidad $C_p/C_{pk}$, muestreo de aceptación o diseño de experimentos) permite comprender y controlar la variabilidad natural y asignable de los procesos, anticipar defectos antes de que ocurran y optimizar parámetros operativos, lo que se traduce directamente en una mejora sustancial de la calidad del producto y de la productividad industrial.\n\n**Ejemplo práctico:** En una línea de llenado de envases de aceite de oliva, el uso de gráficos de control estadístico de medias y rangos ($\\bar{X}-R$) permite detectar una deriva en la válvula dosificadora antes de que se produzcan botellas fuera de la tolerancia legal de volumen, evitando paradas de línea y reprocesos costosos.",
+      "respuesta_correcta": "a"
+    }
+  ]
+}

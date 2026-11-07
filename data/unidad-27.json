@@ -1,0 +1,126 @@
+{
+  "unidad": 27,
+  "titulo": "Autoevaluación Unidad 27 - Seguimiento y Medición de Nuevos Productos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de los siguientes aspectos NO hay que considerar cuando se seleccionen métodos de medición para asegurar que los productos son conformes con los requisitos:",
+      "opciones": {
+        "a": "Las herramientas necesarias.",
+        "b": "Los puntos establecidos por el cliente.",
+        "c": "La calificación del personal que gestionará el proceso.",
+        "d": "El marketing-mix del producto."
+      },
+      "explicacion": "Al seleccionar los métodos de seguimiento, medición, inspección y ensayo para verificar la conformidad del producto, la organización debe considerar factores técnicos y operativos como los instrumentos o herramientas de medición requeridos, los puntos críticos de control acordados con el cliente y la competencia o cualificación técnica del personal inspector. El marketing-mix (las 4 P comerciales) pertenece a la estrategia de comercialización y no constituye un criterio metrológico ni de inspección de calidad.\n\n**Ejemplo práctico:** Al diseñar el plan de control dimensional de álabes de turbina, el departamento de calidad define el uso de máquinas de medición por coordenadas tridimensionales (herramientas), las cotas críticas exigidas por el fabricante aeronáutico (puntos del cliente) y la certificación en metrología de los técnicos (calificación), sin considerar las campañas promocionales o canales de venta.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Una inspección y comprobación de recepción sirve para:",
+      "opciones": {
+        "a": "Garantizar que los productos entrantes no se utilicen o procesen antes de que se haya verificado mediante inspección u otro medio la conformidad con los requisitos especificados.",
+        "b": "Garantizar la calidad de los productos que salen de una fábrica.",
+        "c": "Que la persona que atiende la recepción de una oficina lo haga bien.",
+        "d": "No tiene ninguna utilidad."
+      },
+      "explicacion": "La inspección y comprobación en recepción (control de calidad de entradas o Incoming Quality Control - IQC) tiene como finalidad primordial verificar, mediante ensayos, muestreos o certificados de calidad, que las materias primas, componentes y suministros procedentes de proveedores cumplen rigurosamente las especificaciones técnicas antes de ser liberados a almacén o incorporados al proceso productivo.\n\n**Ejemplo práctico:** Una fábrica de productos electrónicos somete cada lote recibido de placas de circuito impreso (PCB) a una inspección óptica automatizada y pruebas de continuidad eléctrica en el muelle de recepción antes de autorizar su paso a la línea de montaje superficial (SMT).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "El objetivo de la inspección y comprobación durante el proceso de fabricación es:",
+      "opciones": {
+        "a": "Detectar los productos no conformes lo más tarde posible.",
+        "b": "Detectar los productos no conformes tan pronto como sea posible.",
+        "c": "No detectar los productos no conformes.",
+        "d": "No tiene ningún objetivo."
+      },
+      "explicacion": "La inspección y comprobación en curso de fabricación (In-Process Inspection) persigue identificar cualquier desviación o producto no conforme tan pronto como se genera en una estación de trabajo, impidiendo así que las piezas defectuosas sigan avanzando por la cadena productiva y acumulen costes adicionales de transformación y ensamblaje sobre unidades ya inválidas.\n\n**Ejemplo práctico:** En la fabricación de calzado de seguridad, se inspecciona la resistencia de la costura y el pegado de la puntera de acero inmediatamente después de la estación de ensamblaje del corte, evitando inyectar la suela de poliuretano sobre botas que ya presentan defectos estructurales.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La inspección y comprobación finales se realizan sobre:",
+      "opciones": {
+        "a": "El producto final.",
+        "b": "El producto entrante.",
+        "c": "El producto en una fase intermedia.",
+        "d": "El producto en el hogar del consumidor."
+      },
+      "explicacion": "La inspección y comprobación finales (Final Quality Control - FQC) se ejecutan específicamente sobre el producto o servicio totalmente terminado, justo antes de su expedición o entrega al cliente, con el propósito de confirmar de forma integral que el artículo acabado satisface todas las especificaciones funcionales, estéticas y normativas establecidas.\n\n**Ejemplo práctico:** Al concluir el ensamblaje de un ordenador portátil, la unidad terminada pasa por un banco de pruebas final donde se verifica el encendido de la pantalla, la respuesta del teclado, la conectividad Wi-Fi y la carga de la batería antes de introducirlo en su caja comercial precintada.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Los registros de inspección son necesarios para:",
+      "opciones": {
+        "a": "Verificar la aceptación –o el rechazo- con relación a los criterios de aceptación.",
+        "b": "Inspirar confianza en el cliente.",
+        "c": "Estar disponibles en caso de que se interponga una demanda de responsabilidad civil de productos.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Los registros de inspección constituyen la evidencia objetiva y auditable del Sistema de Gestión de la Calidad: permiten documentar formalmente si un lote ha sido aceptado o rechazado según los criterios de aceptación definidos (e identifican a la autoridad que libera el producto), generan confianza y transparencia ante auditorías de clientes y sirven como prueba pericial de diligencia debida ante eventuales reclamaciones o litigios por responsabilidad civil de productos defectuosos.\n\n**Ejemplo práctico:** Un fabricante de válvulas de seguridad para calderas industriales archiva digitalmente los certificados de prueba hidrostática firmados por el inspector acreditado; dichos registros verifican la liberación del lote, se entregan al cliente industrial como garantía y respaldan legalmente a la empresa ante cualquier siniestro futuro.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes conclusiones sobre el seguimiento y la medición es FALSA:",
+      "opciones": {
+        "a": "Los datos de las mediciones deberían convertirse en información y conocimiento beneficiosos para la organización.",
+        "b": "El seguimiento y medición deberían eliminarse de las empresas.",
+        "c": "Los métodos de medición empleados por la organización deberían revisarse periódicamente.",
+        "d": "Las medidas de satisfacción del cliente deberían considerarse vitales para la evaluación del desempeño de la organización."
+      },
+      "explicacion": "Resulta radicalmente falso afirmar que el seguimiento y la medición deban eliminarse de las empresas; por el contrario, constituyen pilares indispensables de todo sistema de gestión moderno («lo que no se mide, no se puede controlar ni mejorar»). Las demás afirmaciones son principios fundamentales de la gestión de la calidad: transformar datos en conocimiento útil, revisar periódicamente la idoneidad de los métodos de medición y priorizar la satisfacción del cliente como métrica clave de desempeño.\n\n**Ejemplo práctico:** Una cadena hotelera mantiene un sistema continuo de medición de limpieza de habitaciones, tiempos de check-in y encuestas NPS de satisfacción del huésped, revisando anualmente sus cuestionarios; eliminar estas mediciones dejaría a la dirección a ciegas ante el deterioro del servicio.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La verificación consiste en:",
+      "opciones": {
+        "a": "Decir la verdad.",
+        "b": "Examinar algo para ver si cumple con unos requisitos especificados con anterioridad.",
+        "c": "Tener confianza en el proveedor y creer lo que nos diga sin necesidad de ningún papel o comprobación.",
+        "d": "Lanzar un nuevo producto."
+      },
+      "explicacion": "De acuerdo con el vocabulario normalizado de la norma ISO 9000, la «verificación» consiste en la confirmación, mediante la aportación de evidencia objetiva (inspecciones, mediciones, ensayos o cálculos alternativos), de que se han cumplido los requisitos especificados con anterioridad para un producto, proceso o diseño.\n\n**Ejemplo práctico:** Tras desarrollar un nuevo envase hermético para café molido, el laboratorio de calidad realiza una verificación sometiendo muestras del envase a una cámara de vacío y comprobando que soportan una presión diferencial de $-0{,}6\\text{ bar}$ sin fugas, tal como exigía el pliego de especificaciones de diseño.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La fase de inspección final:",
+      "opciones": {
+        "a": "Incluye la verificación del producto o servicio terminado, además de la comprobación de que todas las inspecciones y ensayos anteriores que se debían realizar se hayan llevado a cabo.",
+        "b": "Si se realiza de forma concienzuda, excluye la necesidad de inspecciones y ensayos anteriores.",
+        "c": "No requiere de la comprobación de las inspecciones anteriores ya que presupone que éstas se han realizado.",
+        "d": "No tiene ninguna relación con las inspecciones anteriores."
+      },
+      "explicacion": "En un sistema de gestión de la calidad riguroso, la fase de inspección y ensayo final no solo comprende las pruebas directas sobre el producto o servicio terminado, sino que exige comprobar documentalmente que todas las inspecciones y ensayos previos (en recepción y en proceso) estipulados en el plan de calidad se han ejecutado satisfactoriamente y que sus datos han sido debidamente registrados y autorizados.\n\n**Ejemplo práctico:** Antes de firmar el certificado de liberación final de un lote de medicamentos inyectables, el director técnico farmacéutico no solo revisa el análisis microbiológico del vial terminado, sino que comprueba en el expediente de lote (Batch Record) que se completaron y aprobaron todos los controles de pureza del agua y de pesaje intermedio.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Cuál de las siguientes opciones es un ejemplo de método que utilizan las empresas para definir el estado de inspección y ensayo e identificar que  los productos que preparados para la entrega:",
+      "opciones": {
+        "a": "En un hotel, según se prepara cada habitación después de la partida de un cliente, su estado cambia de “no disponible” a “disponible”.",
+        "b": "En un taller, para el caso de un automóvil sometido a revisión, el estado de cada operación desglosada en la lista de verificación de los servicios prestados cambia de “pendiente” a “completado” al marcar la casilla correspondiente del impreso con un símbolo (una X), según se vaya completando el proceso.",
+        "c": "En un servicio de contestador telefónico, el estado de los mensajes que llegan es inicialmente de “mensaje recibido”. Al transmitir el mensaje al cliente, el estado cambia a “mensaje entregado”.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La identificación del estado de inspección y ensayo (que indica si un producto o servicio está pendiente de inspección, inspeccionado y aprobado, o rechazado) se aplica tanto en manufactura como en servicios mediante mecanismos adaptados a cada operativa: el cambio de estado de una habitación en el software de un hotel, el marcado progresivo de casillas en la hoja de revisión de un taller mecánico o las etiquetas de estado de los mensajes en un centro de llamadas son ejemplos válidos y eficaces.\n\n**Ejemplo práctico:** En el servicio posventa de un concesionario oficial, cada vehículo dispone de una orden de reparación digital y una etiqueta colgada en el retrovisor que cambia de color amarillo («en revisión») a verde («inspección final superada - listo para entrega al cliente») cuando el jefe de taller valida todos los puntos del checklist.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de los siguientes métodos no se usa nunca para identificar el estado de inspección y ensayo:",
+      "opciones": {
+        "a": "El uso de marcas, etiquetas, rótulos o similares.",
+        "b": "El uso de tarjetas de ruta, registros de inspección, fichas de trabajo u obra y similares.",
+        "c": "La ocultación de información a la organización.",
+        "d": "La colocación en un emplazamiento físico determinado."
+      },
+      "explicacion": "Para identificar de forma clara e inequívoca el estado de inspección y ensayo de los productos y evitar el uso o despacho involuntario de unidades no conformes, las organizaciones emplean etiquetas físicas, sellos, códigos de barras, tarjetas de ruta o zonas físicas segregadas (como jaulas de cuarentena o áreas de rechazo). La ocultación de información es una mala praxis contraria a la transparencia y a la trazabilidad exigidas por cualquier sistema de calidad.\n\n**Ejemplo práctico:** En una planta de mecanizado CNC, las piezas recién fabricadas se colocan en bandejas azules (pendientes de medición), pasan a bandejas verdes con sello del inspector tras superar el control tridimensional y, si presentan desviaciones, se etiquetan en rojo y se depositan en una jaula bloqueada de cuarentena, manteniendo total transparencia en el sistema ERP.",
+      "respuesta_correcta": "c"
+    }
+  ]
+}

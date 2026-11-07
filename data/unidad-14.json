@@ -1,0 +1,126 @@
+{
+  "unidad": 14,
+  "titulo": "Autoevaluación Unidad 14 - El Portafolio o Cartera de Productos",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "El portafolio de una empresa son todos los productos que ésta tiene. Para definirlo, una de las estrategias consiste en estudiar qué papel juega cada producto dentro de la empresa. Para ello, hay que tener en cuenta de cada producto:",
+      "opciones": {
+        "a": "Qué características y funciones, así como ventajas, desventajas y beneficios que aporta al consumidor.",
+        "b": "De qué forma y color es el producto.",
+        "c": "Qué productos y servicios ofrece la competencia.",
+        "d": "Qué productos y servicios ofrecía la misma empresa en el pasado."
+      },
+      "explicacion": "El diseño estratégico del portafolio o cartera de productos exige evaluar la contribución y el rol específico de cada referencia dentro de la oferta global de la compañía. Para ello, es imprescindible analizar internamente sus atributos técnicos y funcionales, sus puntos fuertes y débiles, y sobre todo la propuesta de beneficios que entrega al consumidor, asegurando que cada producto cumpla una función clara (como atraer tráfico, generar margen o fidelizar) sin canibalizar innecesariamente a otros.\n\n**Ejemplo práctico:** Dentro del portafolio de Inditex, cada enseña y categoría se define por los beneficios y funciones que aporta a su público: Zara ofrece moda rápida de tendencia a precio medio, mientras que Massimo Dutti aporta sastrería de mayor calidad y durabilidad para un perfil más clásico y ejecutivo.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El concepto “línea de productos” hace referencia a:",
+      "opciones": {
+        "a": "Un producto con un código de barras diferente que refleja a un artículo diferente.",
+        "b": "Un conjunto de productos que están muy relacionados (características comunes entre ellos) y van dirigidos al mismo grupo objetivo.",
+        "c": "Una serie de productos alineados en el punto de venta.",
+        "d": "El grupo de productos que compra un mismo consumidor."
+      },
+      "explicacion": "En la gestión de la cartera de productos, una línea de productos se define como un grupo de artículos estrechamente relacionados entre sí porque desempeñan funciones similares, satisfacen una misma categoría de necesidades, se dirigen a un mismo segmento de clientes, se comercializan a través de los mismos canales de distribución o se sitúan en un rango de precios parecido.\n\n**Ejemplo práctico:** Dentro de la cartera global de L'Oréal, su división de cuidado capilar Elvive constituye una línea de productos integrada por champús, acondicionadores, mascarillas y sérums que comparten formulación cosmética, público objetivo y canal de distribución en gran consumo.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Un surtido eficiente es aquél que:",
+      "opciones": {
+        "a": "Cubre las necesidades de los consumidores, pero no más ni menos.",
+        "b": "Ofrece menos productos de los que puede necesitar un cliente.",
+        "c": "Ofrece todos los productos disponibles en el mercado.",
+        "d": "Se basa en las necesidades de los distribuidores y fabricantes, pero no tiene en cuenta al consumidor."
+      },
+      "explicacion": "En el ámbito del Category Management y la gestión de carteras, un surtido eficiente es aquel que logra el equilibrio óptimo entre variedad y rentabilidad: cubre íntegramente las necesidades y expectativas reales de compra del consumidor objetivo sin incurrir en carencias (que provocarían pérdida de ventas) ni en duplicidades o excesos de referencias (que incrementarían los costes logísticos, de inventario y la confusión del comprador).\n\n**Ejemplo práctico:** Mercadona aplica una estrategia de surtido eficiente (SPB) al seleccionar un número acotado de referencias por categoría (combinando sus marcas propias Hacendado o Bosque Verde con marcas líderes concretas), garantizando que el cliente encuentre lo que necesita sin enfrentarse a 40 marcas idénticas de detergente que encarecen la gestión del lineal.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Para desarrollar un surtido eficiente, hay una metodología que consta de cinco etapas. La primera etapa consiste en:",
+      "opciones": {
+        "a": "Observar qué se hace en otros países.",
+        "b": "Preguntar a los consumidores su opinión.",
+        "c": "Un análisis de de la Situación Actual vs. Cobertura de Mercado.",
+        "d": "Implantar el surtido eficiente."
+      },
+      "explicacion": "La metodología estructurada de cinco etapas para construir un surtido eficiente parte siempre de un diagnóstico riguroso: el análisis de la Situación Actual frente a la Cobertura de Mercado. Esta primera fase permite contrastar el desempeño del portafolio actual de la empresa (ventas, rotación, margen) con la estructura real de la demanda del mercado, identificando huecos no cubiertos o referencias redundantes antes de tomar decisiones de modificación.\n\n**Ejemplo práctico:** Antes de reestructurar su catálogo de productos lácteos, Danone analiza qué porcentaje de las subcategorías del mercado (kéfir, yogures proteicos, postres vegetales) cubre su portafolio actual frente a la demanda total del mercado español, detectando así oportunidades de crecimiento en el segmento alto en proteínas (YoPRO).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "¿Qué es la amplitud de un surtido?",
+      "opciones": {
+        "a": "El nivel de cercanía (homogeneidad) de las diferentes líneas de producto de la empresa.",
+        "b": "La consistencia entre los diferentes productos que vende la empresa.",
+        "c": "La consistencia entre el producto que ofrece y su precio.",
+        "d": "El número de líneas de productos que vende la empresa."
+      },
+      "explicacion": "Las dimensiones fundamentales de una cartera o surtido de productos son la amplitud, la profundidad, la longitud y la consistencia. La amplitud (o anchura) de un surtido mide específicamente el número total de líneas de productos diferentes que la empresa comercializa en el mercado.\n\n**Ejemplo práctico:** Procter & Gamble (P&G) posee una gran amplitud de cartera porque opera simultáneamente en múltiples líneas de productos distintas: cuidado de la ropa (Ariel, Lenor), cuidado capilar (Pantene, H&S), higiene bucal (Oral-B), afeitado (Gillette) y cuidado infantil (Dodot).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Las líneas de producto se pueden modificar a través de:",
+      "opciones": {
+        "a": "Extensiones de línea.",
+        "b": "Rellenar la línea actual.",
+        "c": "Modernizar la línea.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La gestión dinámica de las líneas de producto permite adaptarlas a la evolución del mercado mediante diversas decisiones estratégicas: realizar extensiones de línea (alargar la línea hacia arriba, hacia abajo o en ambos sentidos), rellenar la línea actual (incorporar nuevas variantes dentro del rango existente) o modernizar y actualizar la línea (renovar el diseño, tecnología o presentación de los productos para mantener su atractivo).\n\n**Ejemplo práctico:** En su línea de automóviles Serie 3, BMW modifica su oferta mediante extensiones de línea (lanzando versiones deportivas M3 de gama alta), relleno de línea (añadiendo motorizaciones híbridas enchufables intermedias como el 330e) y modernizaciones periódicas (restylings estéticos y tecnológicos a mitad del ciclo comercial).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El hecho de rellenar la línea actual de productos consiste en:",
+      "opciones": {
+        "a": "Añadir más unidades de los productos existentes.",
+        "b": "Introducir más artículos diferentes dentro de los límites actuales de la línea de productos.",
+        "c": "Eliminar productos.",
+        "d": "Mantener la línea de productos sin cambios."
+      },
+      "explicacion": "La estrategia de rellenar la línea de productos ('line filling') consiste en incorporar nuevos artículos o variantes dentro del rango actual de precios y calidades de la línea, con el propósito de aprovechar huecos de mercado, satisfacer gustos más específicos de los consumidores, utilizar capacidad productiva excedente o bloquear espacios en el lineal frente a los competidores.\n\n**Ejemplo práctico:** Coca-Cola rellena su línea de refrescos de cola al introducir variantes como Coca-Cola Zero Zero (sin azúcar y sin cafeína) o Coca-Cola con sabor a limón dentro del mismo nivel de precios y posicionamiento que la Coca-Cola Original y la Coca-Cola Zero.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La venta cruzada consiste en:",
+      "opciones": {
+        "a": "Vender a los clientes actuales, que ya compran algún artículo de una línea (o marca), otros artículos de la misma marca que son complementarios al que ya están comprando.",
+        "b": "Cambiar un producto por otro.",
+        "c": "Cruzar los artículos en el lineal.",
+        "d": "Incentivar que un consumidor actual pase o suba hacia el consumo de tus marcas de más valor añadido = mayor diferenciación = mayor precio = más beneficio."
+      },
+      "explicacion": "La venta cruzada ('cross-selling') es una técnica de marketing relacional y gestión de cartera que busca incrementar la cuota de cliente ('share of wallet') ofreciendo a los compradores actuales productos o servicios complementarios de la misma marca o empresa que guardan relación funcional con el artículo que ya consumen. Se diferencia del 'up-selling' (opción d), que persigue que el cliente adquiera una versión superior o de mayor precio del mismo producto.\n\n**Ejemplo práctico:** Cuando un cliente compra una impresora doméstica HP DeskJet, la marca aplica venta cruzada al ofrecerle simultáneamente paquetes de papel fotográfico HP y suscripciones de reposición de cartuchos de tinta HP Instant Ink, productos complementarios al equipo principal.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El ciclo de vida de un producto consta de cuatro fases. La última de ellas es:",
+      "opciones": {
+        "a": "La madurez.",
+        "b": "El crecimiento.",
+        "c": "El declive.",
+        "d": "La introducción."
+      },
+      "explicacion": "El modelo clásico del Ciclo de Vida del Producto (CVP) describe la evolución de las ventas y beneficios de un producto a lo largo del tiempo a través de cuatro etapas secuenciales: Introducción, Crecimiento, Madurez y, finalmente, Declive. En esta cuarta y última fase, las ventas caen de forma sostenida debido a cambios tecnológicos, saturación del mercado o evolución en los gustos de los consumidores.\n\n**Ejemplo práctico:** Los reproductores físicos de DVD y Blu-ray de marcas como Sony o Panasonic se encuentran en la fase de declive de su ciclo de vida, ya que la adopción masiva de plataformas de vídeo bajo demanda (Netflix, Prime Video) ha reducido drásticamente su demanda hasta niveles residuales.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "La fase de madurez se caracteriza por:",
+      "opciones": {
+        "a": "Tener unas ventas muy bajas.",
+        "b": "Una bajada de los precios.",
+        "c": "Existir muy poca competencia.",
+        "d": "Tener muy pocos consumidores."
+      },
+      "explicacion": "Durante la etapa de madurez del ciclo de vida del producto, el crecimiento de las ventas se estabiliza al haberse alcanzado a la mayoría de los compradores potenciales y el mercado se encuentra saturado con una intensa rivalidad competitiva. Para defender la cuota de mercado frente a numerosos competidores con ofertas similares, las empresas suelen recurrir a reducciones de precios, promociones intensivas e incremento del gasto promocional.\n\n**Ejemplo práctico:** El mercado de líneas de telefonía móvil e internet de fibra en España se encuentra en plena fase de madurez; por ello, operadoras como Movistar, Vodafone, Orange y Digi compiten agresivamente mediante bajadas de tarifas y ofertas convergentes para captar clientes de la competencia.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

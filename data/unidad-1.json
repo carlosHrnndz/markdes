@@ -1,0 +1,126 @@
+{
+  "unidad": 1,
+  "titulo": "Autoevaluación Unidad 1 - Introducción a la Comunicación de Marketing. La Publicidad",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre la comunicación de marketing es falsa:",
+      "opciones": {
+        "a": "La comunicación es una variable de marketing que tiene a su disposición una multitud de herramientas.",
+        "b": "El eje de la comunicación siempre debe ser el cliente, el receptor, el público objetivo al que quiere llegar la empresa.",
+        "c": "Sólo habrá comunicación si el consumidor la percibe y comprende.",
+        "d": "Para lograr la comunicación, es necesario que el mensaje sea siempre el mismo y no se adapte al perfil de su destinatario."
+      },
+      "explicacion": "En la comunicación de marketing resulta falso afirmar que el mensaje deba ser invariable e idéntico para cualquier destinatario. Por el contrario, un principio fundamental del proceso comunicativo eficaz es la adaptación y codificación del mensaje en función de las características sociodemográficas, psicográficas, culturales y conductuales del público objetivo (target), asegurando así su adecuada decodificación, comprensión y capacidad persuasiva.\n\n**Ejemplo práctico:** Una entidad bancaria que comercializa un mismo producto financiero, como una cuenta sin comisiones, adapta su mensaje según el segmento: para jóvenes universitarios emplea un lenguaje dinámico centrado en pagos móviles instantáneos en redes sociales, mientras que para un público sénior utiliza un tono formal en prensa escrita destacando la atención presencial y la seguridad.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Cuál de los siguientes instrumentos de comunicación no está dentro del grupo below the line:",
+      "opciones": {
+        "a": "Internet.",
+        "b": "Publicidad.",
+        "c": "Merchandising.",
+        "d": "Relaciones públicas."
+      },
+      "explicacion": "La publicidad convencional en medios masivos (televisión, radio, prensa, exterior, cine) constituye el instrumento por excelencia de la comunicación *above the line* (ATL), caracterizada por el uso de soportes masivos e impersonales. Por el contrario, las acciones *below the line* (BTL) engloban herramientas de comunicación no masivas y más directas o segmentadas, tales como el merchandising, las relaciones públicas, el marketing directo o las promociones.\n\n**Ejemplo práctico:** Cuando Coca-Cola emite un spot televisivo en horario de máxima audiencia (*prime time*) a nivel nacional está realizando una inversión publicitaria *above the line* (ATL), a diferencia de una acción de degustación en supermercados o el patrocinio de un evento local, que son acciones BTL.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Dentro de los medios publicitarios o convencionales se incluye:",
+      "opciones": {
+        "a": "Internet.",
+        "b": "Patrocinio.",
+        "c": "Televisión.",
+        "d": "Relaciones públicas."
+      },
+      "explicacion": "La televisión forma parte de los denominados medios publicitarios convencionales (o medios *above the line*), junto con la prensa diaria, las revistas, la radio, el cine y la publicidad exterior. Otras herramientas como el patrocinio y las relaciones públicas se clasifican tradicionalmente dentro de los medios no convencionales o *below the line*.\n\n**Ejemplo práctico:** En la planificación anual de medios de un fabricante de automóviles como SEAT, la partida destinada a medios convencionales se concentra de forma prioritaria en campañas de televisión nacional para lograr una rápida cobertura y notoriedad de marca en el lanzamiento de un nuevo modelo.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 4,
+      "pregunta": "La mejor definición de publicidad es:",
+      "opciones": {
+        "a": "Una comunicación persuasiva, unilateral, impersonal, masiva y que no se paga, que persigue presentar y promocionar ideas, bienes y/o servicios destinados a un público objetivo.",
+        "b": "Una comunicación persuasiva, unilateral, impersonal, masiva y pagada por un emisor identificado que persigue presentar y promocionar ideas, bienes y/o servicios destinados a un público objetivo.",
+        "c": "Una comunicación informativa, bilateral, personal y no pagada, que persigue presentar y promocionar ideas, bienes y/o servicios destinados a un público objetivo.",
+        "d": "Un anuncio que se realiza para la televisión, la prensa, Internet, un escaparate o el interior de una tienda."
+      },
+      "explicacion": "Desde el punto de vista académico y técnico del marketing, la publicidad se define rigurosamente como toda forma de comunicación persuasiva, unilateral, impersonal, masiva y remunerada (pagada) realizada por un emisor claramente identificado, cuya finalidad es dar a conocer y promover ideas, bienes o servicios ante un público objetivo determinado a través de medios de comunicación de masas.\n\n**Ejemplo práctico:** Cuando Nike contrata y paga espacios publicitarios en marquesinas urbanas y cadenas de televisión para difundir su nueva línea de calzado deportivo identificándose con su logotipo y eslogan, cumple todos los requisitos de comunicación masiva, impersonal, unilateral y pagada.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Cuál de las siguientes afirmaciones sobre los medios publicitarios es falsa:",
+      "opciones": {
+        "a": "Las revistas son publicaciones de periodicidad mensual, quincenal o semanal.",
+        "b": "La radio es el único medio publicitario que no tiene carácter visual, ya que sólo llega a la audiencia a través del sonido.",
+        "c": "La televisión es un medio publicitario de naturaleza audiovisual que permite llegar a los receptores de forma masiva.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Todas las proposiciones anteriores describen con exactitud las características técnicas de los respectivos medios publicitarios: las revistas se distinguen por su periodicidad semanal, quincenal o mensual y mayor permanencia; la radio es el único medio exclusivamente sonoro, lo que estimula la imaginación del oyente; y la televisión combina imagen en movimiento y sonido (naturaleza audiovisual) logrando un alcance masivo.\n\n**Ejemplo práctico:** Una marca de cosmética como L'Oréal combina la televisión para mostrar visualmente el resultado de un producto a gran escala, revistas mensuales de moda para ofrecer un soporte visual de alta calidad gráfica, y cuñas de radio matinales para recordar sus ofertas mediante el audio.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "La campaña de publicidad:",
+      "opciones": {
+        "a": "Es un plan a largo plazo que funciona durante un tiempo superior a dos o tres años.",
+        "b": "La unidad máxima de planificación publicitaria.",
+        "c": "Integra una serie de anuncios diferentes, pero relacionados, que aparecerán en un conjunto de medios seleccionados y durante un período de tiempo fijado previamente.",
+        "d": "No persigue lograr una serie de objetivos publicitarios."
+      },
+      "explicacion": "Una campaña publicitaria se define como el conjunto coordinado e integrado de anuncios diferentes pero vinculados por un mismo eje creativo y de comunicación, difundidos a través de una selección planificada de medios y soportes durante un horizonte temporal previamente establecido para alcanzar objetivos publicitarios concretos.\n\n**Ejemplo práctico:** La campaña navideña de El Corte Inglés integra spots televisivos, anuncios gráficos en revistas, cuñas radiofónicas y cartelería exterior que comparten un mismo eslogan, música y línea visual durante los meses de noviembre y diciembre.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Un mensaje emotivo es aquél que:",
+      "opciones": {
+        "a": "Presenta el beneficio exclusivo de una marca.",
+        "b": "Apela a sentimientos y recuerdos de las personas.",
+        "c": "Hace referencia más o menos explícita a contenidos eróticos.",
+        "d": "Hace una referencia explícita a la competencia."
+      },
+      "explicacion": "La publicidad emotiva o afectiva es aquella estrategia de codificación del mensaje que, en lugar de centrarse exclusivamente en argumentos racionales o especificaciones técnicas del producto, apela directamente a las emociones, sentimientos, afectos, vivencias y recuerdos del público receptor con el fin de generar empatía y vínculo afectivo hacia la marca.\n\n**Ejemplo práctico:** Los tradicionales anuncios del Sorteo Extraordinario de Navidad de Loterías y Apuestas del Estado o las campañas de Casa Tarradellas recurren a historias familiares y nostálgicas que apelan a los sentimientos de unión, generosidad y recuerdos compartidos.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "La estrategia publicitaria se estructura en torno a cinco ejes, “las 5M”, que son:",
+      "opciones": {
+        "a": "Misión, Money , Mercado, Marcación y Medición.",
+        "b": "Misión, Money , Mensaje, Medios y Comunicación.",
+        "c": "Misión, Money , Mensaje, Medios y Medición.",
+        "d": "Misión, Money , Mercado y Medios."
+      },
+      "explicacion": "En la literatura clásica de dirección de marketing (popularizada por Philip Kotler), el diseño de una estrategia publicitaria integral se articula en torno a las denominadas «5 M de la publicidad»: *Mission* (Misión u objetivos publicitarios), *Money* (Dinero o presupuesto), *Message* (Mensaje a transmitir), *Media* (Medios de difusión) y *Measurement* (Medición o evaluación de la eficacia).\n\n**Ejemplo práctico:** Al diseñar la campaña de verano de Estrella Damm, el departamento de marketing fija primero la Misión (incrementar la notoriedad un 10%), asigna el *Money* (presupuesto de 5 millones de euros), diseña el Mensaje (el estilo de vida mediterráneo), selecciona los Medios (TV, exterior y digital) y aplica la Medición (estudios post-test de recuerdo publicitario).",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Para fijar el presupuesto publicitario, debemos tener en cuenta el principio de coordinación, que consiste en:",
+      "opciones": {
+        "a": "El gasto mínimo por debajo del cual no se superará el umbral mínimo para ser percibido por el consumidor.",
+        "b": "Cierta concentración en el tiempo y en los medios.",
+        "c": "El número mínimo de anuncios concentrados en un período de tiempo.",
+        "d": "El presupuesto de publicidad debe ser coherente y estar coordinado con el presupuesto de marketing de la empresa."
+      },
+      "explicacion": "El principio de coordinación presupuestaria establece que la dotación económica asignada a la publicidad no puede fijarse de manera aislada, sino que debe guardar coherencia, proporción y sinergia con el presupuesto global de marketing y con el resto de las variables del marketing-mix (producto, precio y distribución) de la organización.\n\n**Ejemplo práctico:** Si una empresa de alimentación decide lanzar una nueva gama de productos ecológicos, el presupuesto asignado a la campaña publicitaria debe coordinarse estrechamente con la inversión en diseño de envases biodegradables y con los acuerdos comerciales de distribución en supermercados para evitar roturas de stock.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes opciones NO es un paso básico para crear un mensaje publicitario:",
+      "opciones": {
+        "a": "Generación del mensaje.",
+        "b": "Evaluación y selección del mensaje.",
+        "c": "Ejecución del mensaje.",
+        "d": "Eliminación del mensaje."
+      },
+      "explicacion": "El desarrollo estratégico de un mensaje publicitario consta fundamentalmente de tres etapas secuenciales: la generación del mensaje (búsqueda de ideas y enfoques creativos), la evaluación y selección del mensaje (análisis del atractivo, exclusividad y credibilidad de las alternativas) y la ejecución del mensaje (plasmación formal, estilo, tono y realización). La «eliminación del mensaje» no constituye una fase de este proceso.\n\n**Ejemplo práctico:** Una agencia creativa contratada por Iberdrola realiza primero un *brainstorming* para generar varias propuestas de mensaje sobre energía verde (generación), selecciona mediante un *pre-test* la idea más convincente para los hogares (evaluación y selección) y finalmente rueda el anuncio con el tono y formato elegidos (ejecución).",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

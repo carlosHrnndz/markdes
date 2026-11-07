@@ -1,0 +1,126 @@
+{
+  "unidad": 6,
+  "titulo": "Autoevaluación Unidad 6 - Planificación, Gestión y Técnicas de Relaciones Públicas",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes opciones NO es un objetivo específico de las relaciones públicas:",
+      "opciones": {
+        "a": "Apoyar el lanzamiento de nuevos productos.",
+        "b": "Ayudar al reposicionamiento de un mercado maduro.",
+        "c": "Defender los productos de la competencia.",
+        "d": "Crear una imagen positiva y sólida de una  empresa."
+      },
+      "explicacion": "Los objetivos específicos de las relaciones públicas dentro de la estrategia de marketing incluyen apoyar el lanzamiento de nuevos productos, facilitar el reposicionamiento de marcas en mercados maduros, generar interés hacia una categoría de producto, defender productos que enfrentan crisis o problemas de percepción pública y consolidar una imagen corporativa favorable. Defender los productos de las empresas competidoras es ajeno y contrario a los intereses estratégicos de la propia organización.\n\n**Ejemplo práctico:** Cuando una marca de alimentación lanza una nueva línea ecológica, su departamento de RR. PP. organiza degustaciones con periodistas gastronómicos y nutricionistas para respaldar su propio lanzamiento, nunca para promocionar ni defender las referencias de sus competidores.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El responsable de relaciones públicas de la empresa:",
+      "opciones": {
+        "a": "Es el Director financiero.",
+        "b": "Ocupa diferentes ubicaciones en el organigrama, como la de vicepresidente, jefe de prensa, o depende del departamento de marketing o comunicación.",
+        "c": "Está dentro del área de Recursos Humanos.",
+        "d": "Es el Director de Recursos Humanos."
+      },
+      "explicacion": "En la estructura organizativa de las empresas, la figura del responsable de relaciones públicas (o Director de Comunicación, *Dircom*) no tiene una ubicación única e invariable ni pertenece al área financiera o de recursos humanos; según el tamaño y la cultura corporativa de la entidad, puede ostentar el rango de vicepresidente en la alta dirección, actuar como jefe de prensa o integrarse funcionalmente dentro del departamento de marketing o comunicación.\n\n**Ejemplo práctico:** En una gran corporación cotizada en bolsa, el máximo responsable de relaciones públicas ocupa una Vicepresidencia de Comunicación y Asuntos Corporativos que reporta directamente al CEO, mientras que en una mediana empresa industrial actúa como responsable de prensa integrado en la Dirección de Marketing.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Las funciones del departamento de relaciones públicas consisten en:",
+      "opciones": {
+        "a": "Consejo y asesoramiento.",
+        "b": "Vender productos.",
+        "c": "Servicio de comunicaciones e investigación.",
+        "d": "Las opciones a y c son correctas."
+      },
+      "explicacion": "El departamento de relaciones públicas desempeña dos grandes bloques de funciones estratégicas y operativas dentro de la empresa: por un lado, la función de consejo y asesoramiento a la alta dirección (orientando sobre el impacto público de las decisiones corporativas) y, por otro, el servicio de comunicaciones (difusión de información hacia los públicos) junto con la investigación de la opinión pública y el entorno social.\n\n**Ejemplo práctico:** Antes de anunciar una fusión empresarial, el departamento de RR. PP. realiza un estudio de percepción entre analistas y sindicatos (investigación), asesora al consejo de administración sobre cómo plantear el anuncio (consejo y asesoramiento) y redacta los comunicados oficiales para los medios (servicio de comunicaciones).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "El servicio de comunicaciones de relaciones públicas consiste en:",
+      "opciones": {
+        "a": "Transmitir información a la dirección.",
+        "b": "Asegurar un buen clima de relaciones dentro de la compañía.",
+        "c": "Difundir información sobre la compañía y sus actividades.",
+        "d": "Vender productos."
+      },
+      "explicacion": "Dentro de las funciones del departamento de relaciones públicas, el servicio de comunicaciones tiene como cometido específico elaborar y difundir información veraz, relevante y oportuna sobre la compañía, sus políticas y sus actividades hacia los medios de comunicación y el conjunto de sus públicos objetivos, utilizando instrumentos como notas de prensa, dossieres, boletines y eventos informativos.\n\n**Ejemplo práctico:** El equipo de comunicación de una empresa farmacéutica redacta y distribuye un dossier de prensa multimedia y convoca a los periodistas especializados en salud para difundir la apertura de su nuevo centro de investigación biomédica.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las técnicas utilizadas en relaciones públicas pueden ser:",
+      "opciones": {
+        "a": "Internas, externas o semiexternas.",
+        "b": "Gratuitas o con un coste.",
+        "c": "Rápidas o lentas.",
+        "d": "Satisfactorias o insatisfactorias."
+      },
+      "explicacion": "Las técnicas de relaciones públicas se clasifican atendiendo a la vinculación del público destinatario con la organización en tres grandes categorías: técnicas internas (dirigidas a los empleados y miembros de la propia empresa), técnicas externas (orientadas a medios de comunicación, clientes, comunidad e instituciones) y técnicas semiexternas (destinadas a públicos intermedios estrechamente vinculados, como accionistas, distribuidores, proveedores o familiares de empleados).\n\n**Ejemplo práctico:** Una empresa automovilística publica una revista interna y un buzón de sugerencias (técnicas internas), organiza una convención anual para su red de concesionarios y proveedores (técnica semiexterna) y patrocina un festival cultural abierto al público general (técnica externa).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de las siguientes opciones NO es una técnica de relaciones públicas externas:",
+      "opciones": {
+        "a": "Invitaciones a exposiciones y conferencias.",
+        "b": "Dar noticias de interés social a determinados periodistas, como primicia informativa.",
+        "c": "Colaboración con la competencia.",
+        "d": "Colaboración con obras sociales."
+      },
+      "explicacion": "Las técnicas de relaciones públicas externas buscan proyectar la identidad y el compromiso de la empresa hacia la sociedad y los medios mediante acciones como invitaciones a exposiciones, congresos y conferencias, filtración o entrega de primicias informativas de interés social a periodistas, y participación o mecenazgo en obras sociales. La colaboración comercial o estratégica para favorecer a la competencia no constituye una técnica de relaciones públicas externas.\n\n**Ejemplo práctico:** Una entidad aseguradora organiza un ciclo de conferencias abiertas sobre prevención de riesgos laborales y financia un comedor social en su ciudad sede, logrando cobertura positiva en los medios locales como parte de sus relaciones públicas externas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 7,
+      "pregunta": "El lobbying es:",
+      "opciones": {
+        "a": "Un grupo de gente contrario al gobierno.",
+        "b": "Un proceso de comunicación persuasiva (el objetivo es influir y predisponer al receptor) que se concreta en la relación con los poderes públicos.",
+        "c": "Una forma de vender productos.",
+        "d": "Una estrategia para desprestigiar a la competencia."
+      },
+      "explicacion": "El *lobbying* (o gestión de grupos de presión e intereses institucionales) es una técnica especializada de relaciones públicas que consiste en un proceso planificado de comunicación persuasiva e informativa dirigido a los poderes públicos (parlamentarios, gobiernos, organismos reguladores) con el fin de dar a conocer la postura de un sector o empresa e influir legítimamente en la elaboración o modificación de leyes y normativas.\n\n**Ejemplo práctico:** La asociación de fabricantes de vehículos eléctricos mantiene reuniones técnicas con diputados de la Comisión de Transición Ecológica para presentar informes de impacto ambiental y económico que impulsen una normativa favorable a la instalación de puntos de recarga en vía pública.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las relaciones con los medios de comunicación se desarrollan a través de:",
+      "opciones": {
+        "a": "Promociones.",
+        "b": "Descuentos.",
+        "c": "Ruedas de prensa.",
+        "d": "La venta personal."
+      },
+      "explicacion": "Las relaciones con los medios de comunicación (*media relations*) constituyen uno de los pilares de las relaciones públicas externas y se articulan mediante instrumentos periodísticos e informativos como las ruedas de prensa, los comunicados o notas de prensa, los dossieres informativos, las entrevistas y los desayunos de trabajo con periodistas, diferenciándose claramente de las promociones, descuentos o la venta personal.\n\n**Ejemplo práctico:** El presidente de una aerolínea convoca una rueda de prensa en el aeropuerto con medios económicos y turísticos para presentar las nuevas rutas internacionales de la temporada y responder en directo a las preguntas de los periodistas.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 9,
+      "pregunta": "El patrocinio es:",
+      "opciones": {
+        "a": "Lo mismo que el mecenazgo.",
+        "b": "Una relación comercial entre un suministrador de fondos, de recursos o de servicios, y una persona, un acontecimiento o una organización que ofrece a cambio algunos derechos y una asociación que pueden utilizarse para conseguir una ventaja comercial.",
+        "c": "Lo mismo que el lobbying.",
+        "d": "Una feria o exhibición."
+      },
+      "explicacion": "El patrocinio (*sponsorship*) se define como un acuerdo o relación de carácter comercial y recíproco mediante el cual una empresa (patrocinador) aporta financiación, bienes o servicios a una persona, evento u organización (patrocinado), recibiendo como contraprestación derechos de asociación de imagen, visibilidad de marca y explotación publicitaria que le reportan una ventaja comercial y comunicativa.\n\n**Ejemplo práctico:** Una marca de bebidas isotónicas firma un contrato de patrocinio con un maratón internacional aportando financiación y avituallamiento de producto, a cambio de que su logotipo figure en los dorsales de los corredores, el arco de meta y las retransmisiones televisivas.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de los siguientes objetivos NO se consigue a través del patrocinio:",
+      "opciones": {
+        "a": "Mejorar la imagen corporativa.",
+        "b": "Mejorar la relación con instituciones públicas y con la comunidad.",
+        "c": "Incrementar de la presencia en los medios de comunicación.",
+        "d": "Disminuir el prestigio y el conocimiento de la empresa."
+      },
+      "explicacion": "El patrocinio persigue objetivos estratégicos positivos para la organización patrocinadora, tales como mejorar su imagen corporativa, incrementar su notoriedad y presencia en los medios de comunicación, estrechar lazos con las instituciones públicas y la comunidad, y diferenciarse de la competencia. Disminuir el prestigio y el conocimiento de la empresa es exactamente lo opuesto a la finalidad de cualquier acción de patrocinio.\n\n**Ejemplo práctico:** Una empresa de telecomunicaciones patrocina al equipo olímpico nacional durante cuatro años, logrando aumentar en un 30 % su recuerdo de marca espontáneo en medios y mejorando su valoración ciudadana como impulsora del deporte base.",
+      "respuesta_correcta": "d"
+    }
+  ]
+}

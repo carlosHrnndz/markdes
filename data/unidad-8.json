@@ -1,0 +1,126 @@
+{
+  "unidad": 8,
+  "titulo": "Autoevaluación Unidad 8 - Las Redes Sociales",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Las redes sociales aportan una serie de beneficios a las empresas, como por ejemplo:",
+      "opciones": {
+        "a": "Aumento de los costes.",
+        "b": "Eliminación de barreras de entrada por parte de la competencia.",
+        "c": "Desarrollo de nuevos productos y acciones.",
+        "d": "Ayudar a la competencia a fidelizar clientes."
+      },
+      "explicacion": "Las redes sociales ofrecen a las organizaciones un canal directo de escucha activa y co-creación con sus comunidades, lo que facilita enormemente el desarrollo de nuevos productos y acciones comerciales ajustadas a las demandas reales del mercado, además de reducir costes de comunicación e investigación y reforzar la fidelización hacia la propia marca.\n\n**Ejemplo práctico:** Una empresa de alimentación lanza una encuesta interactiva en sus perfiles de redes sociales para que sus seguidores elijan el próximo sabor de su gama de yogures; a partir de los miles de comentarios recibidos, desarrolla y lanza con éxito el nuevo producto al mercado.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "Las redes sociales:",
+      "opciones": {
+        "a": "No aportan ninguna ventaja para las empresas.",
+        "b": "Tienen un coste muy elevado para las empresas.",
+        "c": "Impiden la comunicación con los clientes, ya que estos prefieren más relacionarse entre sí que con las marcas.",
+        "d": "Ayudan en la comunicación con los clientes, invitarles a entrar y relacionarse con la marca, a hablar de ella y, en última instancia, recomendarla."
+      },
+      "explicacion": "Lejos de ser una barrera, las redes sociales constituyen un puente relacional de bajo coste relativo que ayuda a las empresas a comunicarse de forma cercana y bidireccional con los clientes, invitándoles a interactuar con la marca, conversar sobre sus experiencias y convertirse en prescriptores o embajadores (*brand advocates*) que la recomiendan a otros usuarios.\n\n**Ejemplo práctico:** Una marca de equipamiento deportivo crea una comunidad en redes sociales donde responde dudas de corredores, comparte sus fotos entrenando y fomenta que los propios usuarios satisfechos recomienden las zapatillas a otros miembros del grupo.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Hay varios tipos de redes sociales:",
+      "opciones": {
+        "a": "Personales y no personales.",
+        "b": "Personales, profesionales y especializadas.",
+        "c": "Generales y especializadas.",
+        "d": "Familiares, profesionales y especializadas."
+      },
+      "explicacion": "Atendiendo a su finalidad y al tipo de vínculo que establecen los usuarios, las redes sociales se clasifican habitualmente en tres grandes categorías: redes sociales personales o generalistas (orientadas al ocio y las relaciones cotidianas), redes sociales profesionales (enfocadas al ámbito laboral, el *networking* y los negocios) y redes sociales especializadas o verticales (centradas en una temática, afición o interés específico).\n\n**Ejemplo práctico:** Un mismo usuario utiliza Instagram o Facebook para compartir fotos de sus vacaciones con amigos (red personal), LinkedIn para publicar su currículum y contactar con empresas de su sector (red profesional) y Strava o Goodreads para compartir sus entrenamientos de ciclismo o sus lecturas (redes especializadas).",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 4,
+      "pregunta": "Cuál de las siguientes NO es una red social:",
+      "opciones": {
+        "a": "Facebook.",
+        "b": "LinkedIn.",
+        "c": "Xing.",
+        "d": "Hotmail."
+      },
+      "explicacion": "Facebook (red social generalista), LinkedIn y Xing (redes sociales profesionales) son plataformas de redes sociales consolidadas de la Web 2.0. Por el contrario, Hotmail (actualmente Outlook.com) es un servicio de correo electrónico basado en web (*webmail*) y no una red social.\n\n**Ejemplo práctico:** Un responsable de recursos humanos utiliza LinkedIn y Xing para buscar perfiles profesionales e interactuar en grupos sectoriales, mientras que usa una cuenta de correo como Hotmail/Outlook únicamente para enviar la convocatoria formal de entrevista al candidato seleccionado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 5,
+      "pregunta": "Las redes sociales especializadas son aquéllas que:",
+      "opciones": {
+        "a": "Aglutinan a gente con los mismos intereses, gustos o necesidades.",
+        "b": "Permiten a los profesionales mantener un contacto más directo entre ellos.",
+        "c": "Contactan entre amigos.",
+        "d": "Contactan entre amigos y familiares."
+      },
+      "explicacion": "Las redes sociales especializadas (también denominadas redes verticales o temáticas) son aquellas que congregan a una comunidad de usuarios en torno a un eje común muy concreto: comparten los mismos intereses, gustos, aficiones o necesidades específicas (como la fotografía, la literatura, el deporte, la gastronomía o los viajes), lo que permite a las marcas realizar una segmentación muy precisa.\n\n**Ejemplo práctico:** La plataforma Minube es una red social especializada en viajes donde los usuarios comparten rutas, rincones y recomendaciones turísticas; una cadena de hoteles rurales participa en ella porque aglutina exactamente a personas apasionadas por el turismo y las escapadas.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Cuál de los siguientes servicios NO lo ofrece Facebook:",
+      "opciones": {
+        "a": "Muro (Wall).",
+        "b": "Mensajes SMS.",
+        "c": "Chat.",
+        "d": "Perfil."
+      },
+      "explicacion": "Dentro de la arquitectura clásica de servicios y herramientas de interacción que ofrece Facebook a sus usuarios y páginas corporativas se encuentran el Perfil personal o de página, el Muro (*Wall*) donde se publican contenidos y comentarios, y el servicio de mensajería instantánea o Chat. El envío de mensajes SMS (servicio de telefonía móvil tradicional de texto corto) no es un servicio propio ofrecido por la plataforma Facebook.\n\n**Ejemplo práctico:** Una tienda de moda gestiona su presencia en Facebook completando la información de su Perfil, publicando su nuevo catálogo fotográfico en el Muro y resolviendo dudas de tallas en tiempo real mediante el Chat integrado, sin utilizar envíos de SMS.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "Para dar a conocer y promocionar una página que una empresa ha creado en Facebook, se recomienda:",
+      "opciones": {
+        "a": "No decir nada y esperar que la gente la encuentre.",
+        "b": "Comentarlo a amigos y conocidos.",
+        "c": "Hacer una campaña de publicidad en los medios sociales para dar a conocer la nueva página.",
+        "d": "Esperar a que la competencia hable de nosotros."
+      },
+      "explicacion": "Crear una página corporativa en Facebook no garantiza por sí solo que los usuarios la descubran orgánicamente. Para darla a conocer y captar una masa crítica inicial de seguidores cualificados, se recomienda realizar una campaña de publicidad en los propios medios sociales (*Social Ads*) e integrarla con el resto de soportes de comunicación de la empresa.\n\n**Ejemplo práctico:** Al inaugurar su nueva página oficial en Facebook, una clínica dental invierte en una campaña de anuncios segmentados dentro de la propia red social dirigida a usuarios residentes en un radio de 5 kilómetros, logrando captar sus primeros 2.000 seguidores locales en un mes.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Las redes sociales profesionales son beneficiosas para la empresa porque permiten:",
+      "opciones": {
+        "a": "Conseguir reuniones con posibles clientes, proveedores de servicio y expertos recomendados en una materia.",
+        "b": "Conseguir nuevos conocimientos a través de debates con profesionales de ideas similares en grupos privados.",
+        "c": "Anunciar y distribuir anuncios de empleo para encontrar a los candidatos más cualificados para la empresa.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "Las redes sociales profesionales (como LinkedIn o Xing) aportan un elevado valor estratégico B2B y corporativo porque integran tres ventajas clave: facilitan el *networking* directo para concertar reuniones con clientes potenciales, proveedores y expertos recomendados; permiten adquirir y compartir conocimiento experto mediante debates en grupos privados; y funcionan como un potente canal de reclutamiento para publicar ofertas de empleo y captar talento cualificado.\n\n**Ejemplo práctico:** Una consultora de ingeniería utiliza LinkedIn para contactar con directores de operaciones de clientes industriales (reuniones comerciales), participa en un grupo cerrado sobre energías renovables (intercambio de conocimiento) y publica vacantes para contratar ingenieros senior (reclutamiento).",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "Qué uso le podemos dar a una red social a nivel corporativo:",
+      "opciones": {
+        "a": "Ningún uso.",
+        "b": "Dificultar la interacción con los clientes.",
+        "c": "Segmentación de mercado.",
+        "d": "Potenciar la compra de productos de la competencia."
+      },
+      "explicacion": "A nivel corporativo, una de las aplicaciones más valiosas de las redes sociales es la segmentación de mercado: gracias a la gran cantidad de datos sociodemográficos, geográficos, conductuales y de intereses que los usuarios declaran y manifiestan en estas plataformas, la empresa puede identificar, dividir y dirigirse con gran precisión a microsegmentos específicos de su público objetivo.\n\n**Ejemplo práctico:** Una escuela de negocios utiliza las herramientas corporativas de las redes sociales para segmentar el mercado y dirigir su comunicación del Máster en Finanzas exclusivamente a graduados en Economía o ADE de entre 23 y 30 años interesados en banca de inversión.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Cuál de las siguientes opciones NO es un paso a seguir para crear una red social en la empresa:",
+      "opciones": {
+        "a": "Decidir el gancho estratégico.",
+        "b": "Hacer lo mismo que la competencia.",
+        "c": "Estudiar las herramientas y funcionalidades.",
+        "d": "Ver la posibilidad de relación."
+      },
+      "explicacion": "Para crear o impulsar con éxito una red social o comunidad propia en la empresa, es necesario seguir una metodología estratégica que incluye definir el «gancho estratégico» (el valor diferencial o motivo por el que los usuarios se unirán), analizar las posibilidades reales de relación e interacción con el público y estudiar las herramientas y funcionalidades técnicas adecuadas. Limitarse a «hacer lo mismo que la competencia» sin criterio propio ni diferenciación es un error estratégico que no forma parte de este proceso.\n\n**Ejemplo práctico:** Antes de lanzar su propia comunidad online para aficionados al bricolaje, Leroy Merlin definió como gancho estratégico el asesoramiento gratuito entre expertos y usuarios para proyectos del hogar y seleccionó funcionalidades de foros y galerías de proyectos paso a paso, en lugar de copiar sin estrategia las acciones de otros competidores.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}

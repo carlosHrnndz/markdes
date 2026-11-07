@@ -1,0 +1,126 @@
+{
+  "unidad": 20,
+  "titulo": "Autoevaluación Unidad 20 - Creación de una Marca",
+  "preguntas": [
+    {
+      "numero": 1,
+      "pregunta": "Cuál de las siguientes opciones NO debe seguirse para elegir el nombre de una marca:",
+      "opciones": {
+        "a": "Connotaciones positivas.",
+        "b": "Ayudar a reconocer. Debe aunar los atributos del producto.",
+        "c": "Con una pronunciación complicada.",
+        "d": "Debe evocar y simbolizar."
+      },
+      "explicacion": "El proceso de *naming* (elección del nombre de marca) exige que la denominación sea fácil de pronunciar, leer y recordar en los mercados objetivo, además de poseer connotaciones positivas, sugerir o asociarse a los beneficios de la categoría y contar con capacidad evocadora y simbólica. Elegir un nombre de pronunciación complicada dificulta la comunicación boca-oído (*word-of-mouth*), genera inseguridad en el comprador al pedir el producto y obstaculiza la retención memorística.\n\n**Ejemplo práctico:** Cuando los fundadores de Sony crearon la compañía en Japón (originalmente llamada *Tokyo Tsushin Kogyo*), decidieron cambiar su nombre por «Sony» —derivado del latín *sonus* (sonido) y del inglés *sonny* (chico joven)— precisamente para evitar una denominación de pronunciación complicada en los mercados internacionales y lograr un nombre corto, positivo y fácil de articular en cualquier idioma.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 2,
+      "pregunta": "El proceso de creación de una marca en el mercado debe seguir los siguientes 3 pasos:",
+      "opciones": {
+        "a": "Diagnóstico de la marca, definición de la visión o territorio de la marca y adopción de la visión de marca.",
+        "b": "Sólo son dos etapas.",
+        "c": "Diagnóstico de la marca, diagnóstico de la competencia y diagnóstico de los consumidores.",
+        "d": "No existe tal proceso."
+      },
+      "explicacion": "La metodología estructurada para la creación y desarrollo estratégico de una marca en el mercado se articula en tres etapas secuenciales: primero, el *diagnóstico de la marca* (análisis de la situación actual de la empresa, competencia, mercado y percepciones); segundo, la *definición de la visión o territorio de la marca* (establecimiento de la identidad, posicionamiento y valores centrales que se desean ocupar); y tercero, la *adopción de la visión de marca* (implantación interna en la cultura corporativa y ejecución externa a través del marketing-mix).\n\n**Ejemplo práctico:** Cuando BBVA acometió su proceso de unificación de marca global, primero realizó un diagnóstico de sus distintas enseñas locales y del entorno bancario digital (paso 1), luego definió su territorio de marca en torno al lema «Creando Oportunidades» y la banca digital centrada en el cliente (paso 2), y finalmente adoptó esa visión unificando logotipos, formando a sus empleados y rediseñando su aplicación móvil y sucursales (paso 3).",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 3,
+      "pregunta": "Cuál de las siguientes opciones es una forma de crear capital de marca:",
+      "opciones": {
+        "a": "Generar emociones a los clientes que les hagan estar cercanos a la marca.",
+        "b": "Gestión coherente de todos los elementos del marketing-mix.",
+        "c": "A través de las relaciones públicas y de patrocinio.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "La construcción de capital de marca (*brand equity*) requiere un enfoque holístico que combine múltiples palancas de valor: la generación de vínculos emocionales y experiencias memorables que acerquen la marca al consumidor, la gestión integrada y coherente de las cuatro variables del marketing-mix (producto, precio, distribución y comunicación) para que proyecten un mensaje sin contradicciones, y el uso estratégico de relaciones públicas, eventos y patrocinios que refuercen la credibilidad y notoriedad social.\n\n**Ejemplo práctico:** Red Bull ha edificado un enorme capital de marca combinando un producto funcional con precio *premium* y distribución omnipresente (marketing-mix coherente), el patrocinio de deportes extremos y escuderías de Fórmula 1 (relaciones públicas y patrocinio) y la generación de emociones intensas de superación y adrenalina en su comunidad de seguidores.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 4,
+      "pregunta": "¿Qué es el valor de una marca?",
+      "opciones": {
+        "a": "La capacidad que tiene de generar ingresos y beneficios para una empresa.",
+        "b": "Si una marca está bien valorada o no.",
+        "c": "La imagen de la marca.",
+        "d": "El marketing-mix."
+      },
+      "explicacion": "Desde una perspectiva económico-financiera y de dirección empresarial, el valor de una marca (*brand valuation*) se define por su capacidad presente y futura de generar flujos de ingresos incrementales, márgenes superiores y beneficios económicos para la organización propietaria por encima de los que obtendría un producto sin marca. Mientras que la imagen de marca refleja percepciones psicológicas, el valor de marca cuantifica el rendimiento económico derivado de esa fortaleza competitiva.\n\n**Ejemplo práctico:** Según los informes anuales de valoración de consultoras como Interbrand o Kantar BrandZ, la marca Microsoft supera los cientos de miles de millones de dólares de valor porque su prestigio y ecosistema garantizan flujos recurrentes de suscripciones (Microsoft 365, Azure) y una rentabilidad sostenida para la corporación.",
+      "respuesta_correcta": "a"
+    },
+    {
+      "numero": 5,
+      "pregunta": "El modelo de evaluación sobre la propuesta de valor se basa en:",
+      "opciones": {
+        "a": "El interés de la marca por parte de la propia empresa.",
+        "b": "El interés de la marca por parte del equipo de marketing de la empresa.",
+        "c": "El interés de la marca por parte del equipo de ventas de la empresa.",
+        "d": "El interés de la marca por parte del consumidor, asumiendo que a mejor propuesta de valor y a mayor interés por la marca, estaremos ante una posibilidad de generar más ventas y beneficios."
+      },
+      "explicacion": "El modelo de evaluación basado en la propuesta de valor sitúa el foco de análisis en el consumidor final, partiendo de la premisa fundamental de que el éxito económico de una marca depende del atractivo y relevancia de su propuesta de valor ante el público objetivo. Cuanto más sólida y diferencial sea la propuesta de valor percibida y mayor sea el interés despertado en el comprador, mayor será la conversión en ventas, la cuota de mercado y la generación de beneficios para la empresa.\n\n**Ejemplo práctico:** El éxito de Mercadona con su línea de perfumería y cosmética *Deliplus* radica en una propuesta de valor centrada en ofrecer al consumidor alta calidad dermatológica a precios muy competitivos; el elevado interés que esta ecuación despierta en los compradores se traduce directamente en un liderazgo de ventas y alta rotación por metro cuadrado.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 6,
+      "pregunta": "Según el modelo de Brand Asset Evaluator, el capital de marca se apoya en cuatro pilares que son:",
+      "opciones": {
+        "a": "El dinero invertido, el dinero recibido, el dinero invertido por la competencia y el dinero que pagan los clientes.",
+        "b": "Diferenciación, relevancia, estima y conocimiento.",
+        "c": "Los elementos del marketing-mix: precio, producto, comunicación y distribución.",
+        "d": "El capital de riesgo, el capital invertido, el capital recibido y el capital global."
+      },
+      "explicacion": "El modelo *BrandAsset Valuator* (BAV), desarrollado por la agencia Young & Rubicam, explica la construcción y fortaleza del capital de marca a través de cuatro pilares secuenciales: **Diferenciación** (capacidad de la marca para destacar y percibirse como única), **Relevancia** (grado en que la marca resulta pertinente y cubre las necesidades del consumidor), **Estima** (nivel de aprecio, respeto y consideración hacia la marca) y **Conocimiento** (grado de familiaridad y comprensión profunda de lo que la marca representa).\n\n**Ejemplo práctico:** Analizando a Tesla bajo el modelo BAV en sus inicios, primero logró una alta *Diferenciación* con sus deportivos 100 % eléctricos de gran autonomía, luego ganó *Relevancia* con el lanzamiento del Model 3 para el gran público, consolidó su *Estima* al liderar la innovación tecnológica en automoción y finalmente alcanzó un alto *Conocimiento* global.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 7,
+      "pregunta": "La marca e Internet:",
+      "opciones": {
+        "a": "La gestión de la marca en Internet (online) debe ser independiente del resto de los medios.",
+        "b": "Es el único canal de contacto con nuestros clientes.",
+        "c": "Es un canal adicional de contacto que nos permite ampliar el modo en que suministramos experiencia de marca a nuestros consumidores, la complementamos y la aumentamos.",
+        "d": "No es recomendable utilizar Internet para la gestión de marca."
+      },
+      "explicacion": "La presencia en Internet y en los entornos digitales no debe concebirse como un compartimento estanco ni como el único canal existente, sino como un canal estratégico adicional e integrado que amplía, enriquece y complementa los puntos de contacto físicos tradicionales. A través del ecosistema digital, las empresas pueden suministrar una experiencia de marca omnicanal más inmersiva, personalizada y continua a sus consumidores.\n\n**Ejemplo práctico:** Nike complementa la experiencia de compra en sus tiendas físicas (*Nike Town*) con su ecosistema de aplicaciones móviles (*Nike Run Club* y *SNKRS*), donde los usuarios registran sus entrenamientos, acceden a lanzamientos exclusivos y participan en retos comunitarios, amplificando así la experiencia global con la marca.",
+      "respuesta_correcta": "c"
+    },
+    {
+      "numero": 8,
+      "pregunta": "Una gestión de marca a través de Internet genera un diálogo entre empresa y consumidor que permite:",
+      "opciones": {
+        "a": "Que los consumidores digan cosas a otros consumidores y a otras empresas.",
+        "b": "Que los consumidores digan cosas a la empresa y sean mucho más protagonistas.",
+        "c": "El cliente en el diálogo con la empresa tiene que sentirse oído, escuchado, atendido, respondido, que se le tome en consideración.",
+        "d": "Todas las anteriores son correctas."
+      },
+      "explicacion": "A diferencia de los medios de comunicación masivos tradicionales (unidireccionales), la gestión de marca en Internet instaura un entorno interactivo y multidireccional. En este diálogo digital, los consumidores conversan horizontalmente con otros usuarios y marcas (a través de reseñas, foros y redes sociales), asumen un rol activo de *prosumidores* dirigiéndose directamente a la empresa, y exigen una escucha activa en la que se sientan atendidos, respondidos y tenidos en cuenta de forma auténtica.\n\n**Ejemplo práctico:** A través de su plataforma *LEGO Ideas* y sus canales en redes sociales, LEGO mantiene un diálogo permanente en el que los aficionados comentan creaciones entre sí, proponen nuevos diseños directamente a la compañía y ven cómo las propuestas más votadas son escuchadas y fabricadas oficialmente como sets comerciales.",
+      "respuesta_correcta": "d"
+    },
+    {
+      "numero": 9,
+      "pregunta": "La Ley de la globalización dice que:",
+      "opciones": {
+        "a": "No hay interacción entre empresa y clientes.",
+        "b": "La Red destruye todas las fronteras.",
+        "c": "Internet no tendrá ningún impacto en las vidas de las empresas y consumidores.",
+        "d": "Una marca no debe hacer publicidad en Internet."
+      },
+      "explicacion": "Dentro de los principios que rigen la comunicación y el *branding* en la era digital, la llamada Ley de la Globalización establece que Internet y la Red destruyen las fronteras geográficas tradicionales. Cualquier marca con presencia *online* queda expuesta instantáneamente a un mercado planetario, donde tanto sus mensajes comunicativos como las opiniones de los usuarios y la competencia operan a escala global sin limitaciones territoriales.\n\n**Ejemplo práctico:** Una firma española de calzado artesanal como *Pompeii* o *Hoff*, nacida en el entorno digital, puede vender y comunicar su propuesta de marca simultáneamente a clientes de Madrid, Berlín, Tokio o Nueva York desde el primer día gracias a que la Red elimina las barreras físicas de entrada internacional.",
+      "respuesta_correcta": "b"
+    },
+    {
+      "numero": 10,
+      "pregunta": "Internet puede presentar algunos inconvenientes en la comunicación:",
+      "opciones": {
+        "a": "La marca puede ser mucho más próxima al cliente.",
+        "b": "Puede ser una amenaza si no se tiene consciencia del poder que adquiere el consumidor y no se sabe gestionar.",
+        "c": "Permite llegar más lejos.",
+        "d": "Permite llegar más rápido."
+      },
+      "explicacion": "Aunque Internet ofrece extraordinarias ventajas de alcance, inmediatez y proximidad relacional, plantea un importante riesgo o inconveniente si la organización no comprende el nuevo equilibrio de poder: el consumidor digital dispone de altavoces globales inmediatos (redes sociales, plataformas de reseñas, blogs) capaces de viralizar una mala experiencia o una incoherencia corporativa en cuestión de minutos, convirtiéndose en una grave amenaza para la reputación si no se gestiona con transparencia y agilidad.\n\n**Ejemplo práctico:** El famoso caso de *«United Breaks Guitars»* —en el que un músico publicó un vídeo en YouTube denunciando que la aerolínea United Airlines había roto su guitarra y se negaba a indemnizarle— acumuló millones de visualizaciones en pocos días y provocó una crisis reputacional y bursátil por no haber sabido gestionar a tiempo el poder amplificador del consumidor en la Red.",
+      "respuesta_correcta": "b"
+    }
+  ]
+}
